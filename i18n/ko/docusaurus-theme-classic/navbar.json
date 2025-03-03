@@ -1,0 +1,14 @@
+{
+    "title": {
+        "message": "X-Gate \ub3c4\uc6c0\ub9d0",
+        "description": "\ub124\ube44\uac8c\uc774\uc158 \ubc14\uc758 \uc81c\ubaa9"
+    },
+    "logo.alt": {
+        "message": "\ub0b4 \uc0ac\uc774\ud2b8 \ub85c\uace0",
+        "description": "\ub124\ube44\uac8c\uc774\uc158 \ubc14 \ub85c\uace0\uc758 \ub300\uccb4 \ud14d\uc2a4\ud2b8"
+    },
+    "item.label.Docs": {
+        "message": "\ubb38\uc11c",
+        "description": "\ubb38\uc11c\ub77c\ub294 \ub77c\ubca8\uc774 \ubd99\uc740 \ub124\ube44\uac8c\uc774\uc158 \ubc14 \ud56d\ubaa9"
+    }
+}

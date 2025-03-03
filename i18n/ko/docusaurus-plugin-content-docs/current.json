@@ -1,0 +1,14 @@
+{
+    "version.label": {
+        "message": "\ucd5c\uc2e0",
+        "description": "\ud604\uc7ac \ubc84\uc804\uc758 \ub808\uc774\ube14"
+    },
+    "sidebar.tutorialSidebar.category.X-Gate\u306b\u3064\u3044\u3066": {
+        "message": "X-Gate\u306b\u3064\u3044\u3066",
+        "description": "\uc0ac\uc774\ub4dc\ubc14 tutorialSidebar\uc758 X-Gate\u306b\u3064\u3044\u3066 \uce74\ud14c\uace0\ub9ac \ub808\uc774\ube14"
+    },
+    "sidebar.tutorialSidebar.category.X-Swap\u306b\u3064\u3044\u3066": {
+        "message": "X-Swap\u306b\u3064\u3044\u3066",
+        "description": "\uc0ac\uc774\ub4dc\ubc14 tutorialSidebar\uc758 X-Swap\u306b\u3064\u3044\u3066 \uce74\ud14c\uace0\ub9ac \ub808\uc774\ube14"
+    }
+}

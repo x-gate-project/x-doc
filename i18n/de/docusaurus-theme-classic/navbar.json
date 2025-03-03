@@ -1,0 +1,14 @@
+{
+    "title": {
+        "message": "X-Gate Hilfe",
+        "description": "Der Titel in der Navigationsleiste"
+    },
+    "logo.alt": {
+        "message": "Logo meiner Seite",
+        "description": "Der Alt-Text des Navigationsleisten-Logos"
+    },
+    "item.label.Docs": {
+        "message": "Dokumente",
+        "description": "Navigationsleisten-Element mit dem Label Dokumente"
+    }
+}
