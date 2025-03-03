@@ -1,0 +1,14 @@
+{
+    "version.label": {
+        "message": "\u00faltima",
+        "description": "La etiqueta para la versi\u00f3n actual"
+    },
+    "sidebar.tutorialSidebar.category.X-Gate\u306b\u3064\u3044\u3066": {
+        "message": "Acerca de X-Gate",
+        "description": "La etiqueta para la categor\u00eda Acerca de X-Gate en la barra lateral tutorialSidebar"
+    },
+    "sidebar.tutorialSidebar.category.X-Swap\u306b\u3064\u3044\u3066": {
+        "message": "Acerca de X-Swap",
+        "description": "La etiqueta para la categor\u00eda Acerca de X-Swap en la barra lateral tutorialSidebar"
+    }
+}

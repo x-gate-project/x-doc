@@ -1,0 +1,14 @@
+{
+    "version.label": {
+        "message": "\u6700\u65b0",
+        "description": "\u5f53\u524d\u7248\u672c\u7684\u6807\u7b7e"
+    },
+    "sidebar.tutorialSidebar.category.X-Gate\u306b\u3064\u3044\u3066": {
+        "message": "\u5173\u4e8eX-Gate",
+        "description": "\u4fa7\u8fb9\u680ftutorialSidebar\u4e2dX-Gate\u7684\u7c7b\u522b\u6807\u7b7e"
+    },
+    "sidebar.tutorialSidebar.category.X-Swap\u306b\u3064\u3044\u3066": {
+        "message": "\u5173\u4e8eX-Swap",
+        "description": "\u4fa7\u8fb9\u680ftutorialSidebar\u4e2dX-Swap\u7684\u7c7b\u522b\u6807\u7b7e"
+    }
+}

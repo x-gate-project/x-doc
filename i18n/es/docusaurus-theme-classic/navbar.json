@@ -1,0 +1,14 @@
+{
+    "title": {
+        "message": "Ayuda de X-Gate",
+        "description": "El t\u00edtulo en la barra de navegaci\u00f3n"
+    },
+    "logo.alt": {
+        "message": "El logo de mi sitio",
+        "description": "El texto alternativo del logo de la barra de navegaci\u00f3n"
+    },
+    "item.label.Docs": {
+        "message": "Documentos",
+        "description": "Elemento de la barra de navegaci\u00f3n con la etiqueta Documentos"
+    }
+}

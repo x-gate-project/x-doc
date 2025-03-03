@@ -1,0 +1,14 @@
+{
+    "title": {
+        "message": "X-Gate \u5e2e\u52a9",
+        "description": "\u5bfc\u822a\u680f\u4e2d\u7684\u6807\u9898"
+    },
+    "logo.alt": {
+        "message": "\u6211\u7684\u7ad9\u70b9\u6807\u5fd7",
+        "description": "\u5bfc\u822a\u680f\u6807\u5fd7\u7684\u66ff\u4ee3\u6587\u672c"
+    },
+    "item.label.Docs": {
+        "message": "\u6587\u6863",
+        "description": "\u6807\u7b7e\u4e3a\u6587\u6863\u7684\u5bfc\u822a\u680f\u9879\u76ee"
+    }
+}
