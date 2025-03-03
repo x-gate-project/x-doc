@@ -125,6 +125,10 @@ presets: [
           src: 'img/logo.png',
         },
         items: [
+          {
+            type: 'localeDropdown',
+            position: 'left',
+          },
           // {
           //   type: 'docSidebar',
           //   sidebarId: 'tutorialSidebar',
