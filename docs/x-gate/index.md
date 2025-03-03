@@ -1,6 +1,7 @@
 ---
 sidebar_label: X-Gateとは？
 sidebar_position: 1
+slug: /
 ---
 
 # X-Gateとは？
