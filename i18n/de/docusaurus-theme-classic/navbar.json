@@ -4,11 +4,15 @@
         "description": "Der Titel in der Navigationsleiste"
     },
     "logo.alt": {
-        "message": "Logo meiner Seite",
+        "message": "Mein Seitenlogo",
         "description": "Der Alt-Text des Navigationsleisten-Logos"
     },
-    "item.label.Docs": {
-        "message": "Dokumente",
-        "description": "Navigationsleisten-Element mit dem Label Dokumente"
+    "item.label.Go to x-gate.org": {
+        "message": "Gehe zu x-gate.org",
+        "description": "Navigationsleisten-Element mit Label Gehe zu x-gate.org"
+    },
+    "item.label.Go to x-swap.org": {
+        "message": "Gehe zu x-swap.org",
+        "description": "Navigationsleisten-Element mit Label Gehe zu x-swap.org"
     }
 }

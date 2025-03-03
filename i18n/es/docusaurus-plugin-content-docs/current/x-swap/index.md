@@ -5,16 +5,6 @@ sidebar_position: 1
 
 # ¿Qué es X-Swap?
 
-X-Swap es una función que permite **intercambiar (swap) stablecoins (USDTX, USDCX)** en diferentes redes.
+X-Swap es una función que permite **intercambiar (swap) las stablecoins (USDTX, USDCX)** en diferentes redes.
 
-Esto permite a los usuarios asegurar liquidez a través de distintas redes y manejar sus activos con mayor libertad.
-
-### **Redes compatibles**
-
-Al igual que X-Gate, X-Swap es compatible con **5 de las principales blockchains**.
-
-- Ethereum
-- Japan Open Chain
-- Arbitrum
-- Base
-- Avalanche
+Esto garantiza a los usuarios mantener la liquidez a través de varias redes y gestionar sus activos con mayor libertad.

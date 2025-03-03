@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
-# О проекте X-Gate
+# О Проекте X-Gate
 В разработке

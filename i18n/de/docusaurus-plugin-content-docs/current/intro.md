@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
 # Über das X-Gate-Projekt
-Im Aufbau
+In Bearbeitung

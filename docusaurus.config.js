@@ -63,7 +63,7 @@ const config = {
       'direction': 'ltr'
     },
     'ru': {
-      'label': 'Русский',
+      'label': 'русский',
       'direction': 'ltr'
     },
     'zh': {

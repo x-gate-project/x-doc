@@ -1,14 +1,22 @@
 {
     "version.label": {
         "message": "dernier",
-        "description": "Le label pour la version actuelle"
+        "description": "L'\u00e9tiquette pour la version actuelle"
     },
     "sidebar.tutorialSidebar.category.X-Gate\u306b\u3064\u3044\u3066": {
         "message": "\u00c0 propos de X-Gate",
-        "description": "Le label pour la cat\u00e9gorie \u00c0 propos de X-Gate dans la barre lat\u00e9rale tutorialSidebar"
+        "description": "L'\u00e9tiquette pour la cat\u00e9gorie \u00c0 propos de X-Gate dans la barre lat\u00e9rale tutorialSidebar"
+    },
+    "sidebar.tutorialSidebar.category.X-Gate\u306e\u4f7f\u3044\u65b9": {
+        "message": "Comment utiliser X-Gate",
+        "description": "L'\u00e9tiquette pour la cat\u00e9gorie Comment utiliser X-Gate dans la barre lat\u00e9rale tutorialSidebar"
     },
     "sidebar.tutorialSidebar.category.X-Swap\u306b\u3064\u3044\u3066": {
         "message": "\u00c0 propos de X-Swap",
-        "description": "Le label pour la cat\u00e9gorie \u00c0 propos de X-Swap dans la barre lat\u00e9rale tutorialSidebar"
+        "description": "L'\u00e9tiquette pour la cat\u00e9gorie \u00c0 propos de X-Swap dans la barre lat\u00e9rale tutorialSidebar"
+    },
+    "sidebar.tutorialSidebar.category.X-Swap\u306e\u4f7f\u3044\u65b9": {
+        "message": "Comment utiliser X-Swap",
+        "description": "L'\u00e9tiquette pour la cat\u00e9gorie Comment utiliser X-Swap dans la barre lat\u00e9rale tutorialSidebar"
     }
 }

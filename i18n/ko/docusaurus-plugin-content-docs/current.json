@@ -5,10 +5,18 @@
     },
     "sidebar.tutorialSidebar.category.X-Gate\u306b\u3064\u3044\u3066": {
         "message": "X-Gate\u306b\u3064\u3044\u3066",
-        "description": "\uc0ac\uc774\ub4dc\ubc14 tutorialSidebar\uc758 X-Gate\u306b\u3064\u3044\u3066 \uce74\ud14c\uace0\ub9ac \ub808\uc774\ube14"
+        "description": "\uc0ac\uc774\ub4dc\ubc14 tutorialSidebar\uc5d0\uc11c \uce74\ud14c\uace0\ub9ac X-Gate\u306b\u3064\u3044\u3066\uc758 \ub808\uc774\ube14"
+    },
+    "sidebar.tutorialSidebar.category.X-Gate\u306e\u4f7f\u3044\u65b9": {
+        "message": "X-Gate\u306e\u4f7f\u3044\u65b9",
+        "description": "\uc0ac\uc774\ub4dc\ubc14 tutorialSidebar\uc5d0\uc11c \uce74\ud14c\uace0\ub9ac X-Gate\u306e\u4f7f\u3044\u65b9\uc758 \ub808\uc774\ube14"
     },
     "sidebar.tutorialSidebar.category.X-Swap\u306b\u3064\u3044\u3066": {
         "message": "X-Swap\u306b\u3064\u3044\u3066",
-        "description": "\uc0ac\uc774\ub4dc\ubc14 tutorialSidebar\uc758 X-Swap\u306b\u3064\u3044\u3066 \uce74\ud14c\uace0\ub9ac \ub808\uc774\ube14"
+        "description": "\uc0ac\uc774\ub4dc\ubc14 tutorialSidebar\uc5d0\uc11c \uce74\ud14c\uace0\ub9ac X-Swap\u306b\u3064\u3044\u3066\uc758 \ub808\uc774\ube14"
+    },
+    "sidebar.tutorialSidebar.category.X-Swap\u306e\u4f7f\u3044\u65b9": {
+        "message": "X-Swap\u306e\u4f7f\u3044\u65b9",
+        "description": "\uc0ac\uc774\ub4dc\ubc14 tutorialSidebar\uc5d0\uc11c \uce74\ud14c\uace0\ub9ac X-Swap\u306e\u4f7f\u3044\u65b9\uc758 \ub808\uc774\ube14"
     }
 }

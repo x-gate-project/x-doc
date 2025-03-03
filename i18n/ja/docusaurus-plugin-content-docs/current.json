@@ -1,14 +1,22 @@
 {
     "version.label": {
         "message": "\u6700\u65b0",
-        "description": "\u30d0\u30fc\u30b8\u30e7\u30f3\u300c\u73fe\u884c\u300d\u306e\u30e9\u30d9\u30eb"
+        "description": "\u73fe\u5728\u306e\u30d0\u30fc\u30b8\u30e7\u30f3\u306e\u30e9\u30d9\u30eb"
     },
     "sidebar.tutorialSidebar.category.X-Gate\u306b\u3064\u3044\u3066": {
         "message": "X-Gate\u306b\u3064\u3044\u3066",
-        "description": "\u30b5\u30a4\u30c9\u30d0\u30fctutorialSidebar\u306e\u30ab\u30c6\u30b4\u30ea\u30fc\u300cX-Gate\u306b\u3064\u3044\u3066\u300d\u306e\u30e9\u30d9\u30eb"
+        "description": "\u30b5\u30a4\u30c9\u30d0\u30fc\u306e tutorialSidebar \u306e\u30ab\u30c6\u30b4\u30ea X-Gate\u306b\u3064\u3044\u3066 \u306e\u30e9\u30d9\u30eb"
+    },
+    "sidebar.tutorialSidebar.category.X-Gate\u306e\u4f7f\u3044\u65b9": {
+        "message": "X-Gate\u306e\u4f7f\u3044\u65b9",
+        "description": "\u30b5\u30a4\u30c9\u30d0\u30fc\u306e tutorialSidebar \u306e\u30ab\u30c6\u30b4\u30ea X-Gate\u306e\u4f7f\u3044\u65b9 \u306e\u30e9\u30d9\u30eb"
     },
     "sidebar.tutorialSidebar.category.X-Swap\u306b\u3064\u3044\u3066": {
         "message": "X-Swap\u306b\u3064\u3044\u3066",
-        "description": "\u30b5\u30a4\u30c9\u30d0\u30fctutorialSidebar\u306e\u30ab\u30c6\u30b4\u30ea\u30fc\u300cX-Swap\u306b\u3064\u3044\u3066\u300d\u306e\u30e9\u30d9\u30eb"
+        "description": "\u30b5\u30a4\u30c9\u30d0\u30fc\u306e tutorialSidebar \u306e\u30ab\u30c6\u30b4\u30ea X-Swap\u306b\u3064\u3044\u3066 \u306e\u30e9\u30d9\u30eb"
+    },
+    "sidebar.tutorialSidebar.category.X-Swap\u306e\u4f7f\u3044\u65b9": {
+        "message": "X-Swap\u306e\u4f7f\u3044\u65b9",
+        "description": "\u30b5\u30a4\u30c9\u30d0\u30fc\u306e tutorialSidebar \u306e\u30ab\u30c6\u30b4\u30ea X-Swap\u306e\u4f7f\u3044\u65b9 \u306e\u30e9\u30d9\u30eb"
     }
 }

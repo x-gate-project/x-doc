@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
 # X-Gateプロジェクトについて
-構築中
+工事中

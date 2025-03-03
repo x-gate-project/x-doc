@@ -4,11 +4,15 @@
         "description": "Le titre dans la barre de navigation"
     },
     "logo.alt": {
-        "message": "Logo de mon site",
+        "message": "Le logo de mon site",
         "description": "Le texte alternatif du logo de la barre de navigation"
     },
-    "item.label.Docs": {
-        "message": "Docs",
-        "description": "\u00c9l\u00e9ment de la barre de navigation avec le label Docs"
+    "item.label.Go to x-gate.org": {
+        "message": "Aller \u00e0 x-gate.org",
+        "description": "\u00c9l\u00e9ment de la barre de navigation avec l\u2019\u00e9tiquette Aller \u00e0 x-gate.org"
+    },
+    "item.label.Go to x-swap.org": {
+        "message": "Aller \u00e0 x-swap.org",
+        "description": "\u00c9l\u00e9ment de la barre de navigation avec l\u2019\u00e9tiquette Aller \u00e0 x-swap.org"
     }
 }

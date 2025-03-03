@@ -7,8 +7,12 @@
         "message": "My Site Logo",
         "description": "The alt text of navbar logo"
     },
-    "item.label.Docs": {
-        "message": "Docs",
-        "description": "Navbar item with label Docs"
+    "item.label.Go to x-gate.org": {
+        "message": "Go to x-gate.org",
+        "description": "Navbar item with label Go to x-gate.org"
+    },
+    "item.label.Go to x-swap.org": {
+        "message": "Go to x-swap.org",
+        "description": "Navbar item with label Go to x-swap.org"
     }
 }
