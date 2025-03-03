@@ -28,3 +28,11 @@
   --ifm-color-primary-lightest: #149add;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+
+.buttons_AeoN{
+  gap: 16px;
+}
+.menu__link{
+  padding: 16px;
+}
