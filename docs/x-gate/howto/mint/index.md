@@ -1,14 +1,8 @@
 ---
-sidebar_label: Mintの使い方
+sidebar_label: Mint
 sidebar_position: 2
 ---
 
-# Mintの使い方
+# Mint
 
 ## USTD→ETHの場合
-
-### **Sendの使い方**
-
-### **Mintの使い方**
-
-### **Burnの使い方**

@@ -1,14 +1,8 @@
 ---
-sidebar_label: Sendの使い方
+sidebar_label: Send
 sidebar_position: 1
 ---
 
-# Sendの使い方
+# Send
 
 ## USTD→ETHの場合
-
-### **Sendの使い方**
-
-### **Mintの使い方**
-
-### **Burnの使い方**
