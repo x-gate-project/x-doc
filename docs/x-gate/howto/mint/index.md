@@ -1,9 +1,9 @@
 ---
-sidebar_label: X-Gateの使い方手順
-sidebar_position: 1
+sidebar_label: Mintの使い方
+sidebar_position: 2
 ---
 
-# X-Gateの使い方手順
+# Mintの使い方
 
 ## USTD→ETHの場合
 

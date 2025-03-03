@@ -72,18 +72,23 @@ const config = {
           src: 'img/logo.png',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Docs',
-          },
-          // {to: '/blog', label: 'Blog', position: 'left'},
           // {
-          //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
+          //   type: 'docSidebar',
+          //   sidebarId: 'tutorialSidebar',
+          //   position: 'left',
+          //   label: 'Docs',
           // },
+          // {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: 'https://x-gate.org',
+            label: 'Go to x-gate.org',
+            position: 'right',
+          },
+          {
+            href: 'https://x-swap.org',
+            label: 'Go to x-swap.org',
+            position: 'right',
+          },
         ],
       },
       footer: {
