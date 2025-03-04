@@ -1,22 +1,22 @@
 {
     "version.label": {
-        "message": "\ucd5c\uc2e0",
-        "description": "\ud604\uc7ac \ubc84\uc804\uc758 \ub808\uc774\ube14"
+        "message": "최신",
+        "description": "현재 버전의 레이블"
     },
-    "sidebar.tutorialSidebar.category.X-Gate\u306b\u3064\u3044\u3066": {
-        "message": "X-Gate\u306b\u3064\u3044\u3066",
-        "description": "\uc0ac\uc774\ub4dc\ubc14 tutorialSidebar\uc5d0\uc11c \uce74\ud14c\uace0\ub9ac X-Gate\u306b\u3064\u3044\u3066\uc758 \ub808\uc774\ube14"
+    "sidebar.tutorialSidebar.category.X-Gateについて": {
+        "message": "X-Gate에 대하여",
+        "description": "사이드바 tutorialSidebar의 카테고리 X-Gate에 대하여에 대한 레이블"
     },
-    "sidebar.tutorialSidebar.category.X-Gate\u306e\u4f7f\u3044\u65b9": {
-        "message": "X-Gate\u306e\u4f7f\u3044\u65b9",
-        "description": "\uc0ac\uc774\ub4dc\ubc14 tutorialSidebar\uc5d0\uc11c \uce74\ud14c\uace0\ub9ac X-Gate\u306e\u4f7f\u3044\u65b9\uc758 \ub808\uc774\ube14"
+    "sidebar.tutorialSidebar.category.X-Gateの使い方": {
+        "message": "X-Gate의 사용 방법",
+        "description": "사이드바 tutorialSidebar의 카테고리 X-Gate의 사용 방법에 대한 레이블"
     },
-    "sidebar.tutorialSidebar.category.X-Swap\u306b\u3064\u3044\u3066": {
-        "message": "X-Swap\u306b\u3064\u3044\u3066",
-        "description": "\uc0ac\uc774\ub4dc\ubc14 tutorialSidebar\uc5d0\uc11c \uce74\ud14c\uace0\ub9ac X-Swap\u306b\u3064\u3044\u3066\uc758 \ub808\uc774\ube14"
+    "sidebar.tutorialSidebar.category.X-Swapについて": {
+        "message": "X-Swap에 대하여",
+        "description": "사이드바 tutorialSidebar의 카테고리 X-Swap에 대하여에 대한 레이블"
     },
-    "sidebar.tutorialSidebar.category.X-Swap\u306e\u4f7f\u3044\u65b9": {
-        "message": "X-Swap\u306e\u4f7f\u3044\u65b9",
-        "description": "\uc0ac\uc774\ub4dc\ubc14 tutorialSidebar\uc5d0\uc11c \uce74\ud14c\uace0\ub9ac X-Swap\u306e\u4f7f\u3044\u65b9\uc758 \ub808\uc774\ube14"
+    "sidebar.tutorialSidebar.category.X-Swapの使い方": {
+        "message": "X-Swap의 사용 방법",
+        "description": "사이드바 tutorialSidebar의 카테고리 X-Swap의 사용 방법에 대한 레이블"
     }
 }

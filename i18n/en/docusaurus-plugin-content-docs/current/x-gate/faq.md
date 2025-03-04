@@ -7,7 +7,7 @@ sidebar_position: 2
 
 ### **What networks does X-Gate support?**  
 
-X-Gate supports the following **5 networks**:  
+X-Gate supports the following **five networks**:  
 
 - Ethereum  
 - Japan Open Chain  
@@ -17,7 +17,7 @@ X-Gate supports the following **5 networks**:
 
 ### **What networks and tokens are supported by the Send feature?**  
 
-X-Gate’s **Send** function allows you to transfer **USDTX** and **USDCX** across the following networks:  
+X-Gate’s **Send** feature allows you to transfer **USDTX** and **USDCX** across the following networks:  
 
 - **Supported Networks:**  
     - Ethereum  
@@ -66,4 +66,4 @@ The gas fee fluctuates depending on the transaction type and network congestion.
 ### **The transaction is not reflected in my wallet.**  
 
 If the transaction status is **"Pending"**, the network may be congested.  
-Please check the transaction status on **Etherscan** or refresh your **MetaMask** wallet to verify.  
+Please check the transaction status on **Etherscan** or refresh your **MetaMask** wallet to verify.

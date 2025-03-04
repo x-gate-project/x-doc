@@ -1,10 +1,10 @@
 ---
-sidebar_label: Über X-Swap
+sidebar_label: Was ist X-Swap?
 sidebar_position: 1
 ---
 
 # Was ist X-Swap?
 
-X-Swap ist eine Funktion, die den **Tausch (Swap) von Stablecoins (USDTX, USDCX) über unterschiedliche Netzwerke** ermöglicht.
+**X-Swap** ist eine Funktion, die den **Austausch (Tausch) von Stablecoins (USDTX, USDCX) über verschiedene Netzwerke hinweg** ermöglicht.
 
-Dies erlaubt den Benutzern, Liquidität über Netzwerke hinweg zu sichern und eine freiere Verwaltung ihrer Vermögenswerte zu gewährleisten.
+Dies erlaubt es den Nutzern, Liquidität über Netzwerke hinweg zu sichern und ihre Vermögenswerte freier zu verwalten.

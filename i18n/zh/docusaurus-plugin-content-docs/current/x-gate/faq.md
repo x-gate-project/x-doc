@@ -1,13 +1,13 @@
 ---
-sidebar_label: 常见问题解答
+sidebar_label: 常见问题
 sidebar_position: 2
 ---
 
-# X-Gate 常见问题解答
+# X-Gate 常见问题
 
-### **支持的网络**
+### **X-Gate 支持哪些网络？**
 
-X-Gate 支持以下**五个网络**。
+X-Gate 支持以下 **5 个网络**：
 
 - Ethereum
 - Japan Open Chain
@@ -15,44 +15,55 @@ X-Gate 支持以下**五个网络**。
 - Base
 - Avalanche
 
-### **支持发送功能的网络和代币**
+### **发送功能支持哪些网络和代币？**
 
-在 X-Gate 的发送（Send）功能中，可以在特定网络上发送“定制版USDT（USDTX）和定制版USDC（USDCX）”。
+X-Gate 的 **发送** 功能支持在以下网络上转移 **USDTX** 和 **USDCX**：
 
-- **支持网络：**
-    - Ethereum
-    - Japan Open Chain
-    - Arbitrum
-    - Base
-    - Avalanche
-- **支持代币**：
-    - **USDTX（定制版USDT）**
-    - **USDCX（定制版USDC）**
+- **支持的网络：**
+  - Ethereum
+  - Japan Open Chain
+  - Arbitrum
+  - Base
+  - Avalanche
+- **支持的代币：**
+  - **USDTX**
+  - **USDCX**
 
-### **支持铸造功能的网络和代币**
+### **铸造功能支持哪些网络和代币？**
 
-X-Gate 允许使用 USDT 或 USDC 在以下网络上 **铸造（Mint） USDTX / USDCX**。
+在 X-Gate 上，通过锁定 Ethereum 网络上的 **USDT/C**，可以在以下指定网络上 **铸造（发行）USDTX / USDCX**：
 
-- **支持网络：**
-    - Ethereum
-    - Japan Open Chain
-    - Arbitrum
-    - Base
-    - Avalanche
-- **支持代币**：
-    - **USDT → 铸造其他网络的USDTX**
-    - **USDC → 铸造其他网络的USDCX**
+- **支持的网络：**
+  - Ethereum
+  - Japan Open Chain
+  - Arbitrum
+  - Base
+  - Avalanche
+- **支持的代币：**
+  - **USDT → 在其他网络上铸造 USDTX**
+  - **USDC → 在其他网络上铸造 USDCX**
 
-### **支持销毁功能的网络和代币**
+### **燃烧功能支持哪些网络和代币？**
 
-在 X-Gate 中，通过**烧毁（Burn）异网络上的USDTX / USDCX**，能够**接收USDT / USDC**。
+在 X-Gate 上，您可以在以下指定网络上 **燃烧（销毁）USDTX / USDCX** 并在 Ethereum 网络上接收 **USDT / USDC**：
 
-- **支持网络：**
-    - Ethereum
-    - Japan Open Chain
-    - Arbitrum
-    - Base
-    - Avalanche
-- **支持代币**：
-    - **USDTX → 接收其他网络上的USDT**
-    - **USDCX → 接收其他网络上的USDC**
+- **支持的网络：**
+  - Ethereum
+  - Japan Open Chain
+  - Arbitrum
+  - Base
+  - Avalanche
+- **支持的代币：**
+  - **USDTX → 在其他网络上接收 USDT**
+  - **USDCX → 在其他网络上接收 USDC**
+
+### **什么是燃料费？**
+
+**燃料费** 是执行交易时需支付的交易费，用于补偿消耗的计算资源。
+
+燃料费根据交易类型和网络拥堵情况而波动。
+
+### **交易没有反映在我的钱包中。**
+
+如果交易状态为 **"待处理"**，可能是由于网络拥堵。
+请在 **Etherscan** 上检查交易状态，或刷新您的 **MetaMask** 钱包进行验证。

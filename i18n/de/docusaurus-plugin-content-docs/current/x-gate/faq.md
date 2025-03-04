@@ -5,9 +5,9 @@ sidebar_position: 2
 
 # X-Gate FAQ
 
-### **Unterstützte Netzwerke**
+### **Welche Netzwerke unterstützt X-Gate?**
 
-X-Gate unterstützt die folgenden **5 Netzwerke**.
+X-Gate unterstützt die folgenden **5 Netzwerke**:
 
 - Ethereum
 - Japan Open Chain
@@ -15,44 +15,55 @@ X-Gate unterstützt die folgenden **5 Netzwerke**.
 - Base
 - Avalanche
 
-### **Unterstützte Netzwerke und Token für Send**
+### **Welche Netzwerke und Tokens werden von der Send-Funktion unterstützt?**
 
-Die Send-Funktion von X-Gate ermöglicht das Versenden von „Custom USDT (USDTX)“ und „Custom USDC (USDCX)“ in bestimmten Netzwerken.
-
-- **Unterstützte Netzwerke:**
-    - Ethereum
-    - Japan Open Chain
-    - Arbitrum
-    - Base
-    - Avalanche
-- **Unterstützte Token:**
-    - **USDTX (Custom USDT)**
-    - **USDCX (Custom USDC)**
-
-### **Unterstützte Netzwerke und Token für Mint**
-
-Mit X-Gate können Sie USDT oder USDC verwenden, um **USDTX / USDCX zu minten (auszugeben)**, auf den folgenden Netzwerken.
+Mit der **Send**-Funktion von X-Gate können Sie **USDTX** und **USDCX** über die folgenden Netzwerke transferieren:
 
 - **Unterstützte Netzwerke:**
-    - Ethereum
-    - Japan Open Chain
-    - Arbitrum
-    - Base
-    - Avalanche
-- **Unterstützte Token:**
-    - **USDT → Mint USDTX in einem anderen Netzwerk**
-    - **USDC → Mint USDCX in einem anderen Netzwerk**
+  - Ethereum
+  - Japan Open Chain
+  - Arbitrum
+  - Base
+  - Avalanche
+- **Unterstützte Tokens:**
+  - **USDTX**
+  - **USDCX**
 
-### **Unterstützte Netzwerke und Token für Burn**
+### **Welche Netzwerke und Tokens werden von der Mint-Funktion unterstützt?**
 
-X-Gate ermöglicht es, **USDTX / USDCX in verschiedenen Netzwerken zu burnen (verbrennen)**, um **USDT / USDC zu erhalten**.
+Auf X-Gate können Sie durch das Sperren von **USDT/C** im Ethereum-Netzwerk **USDTX / USDCX Minten (ausgeben)**, und zwar auf den folgenden spezifizierten Netzwerken:
 
 - **Unterstützte Netzwerke:**
-    - Ethereum
-    - Japan Open Chain
-    - Arbitrum
-    - Base
-    - Avalanche
-- **Unterstützte Token:**
-    - **USDTX → Erhalte USDT in einem anderen Netzwerk**
-    - **USDCX → Erhalte USDC in einem anderen Netzwerk**
+  - Ethereum
+  - Japan Open Chain
+  - Arbitrum
+  - Base
+  - Avalanche
+- **Unterstützte Tokens:**
+  - **USDT → USDTX in einem anderen Netzwerk minten**
+  - **USDC → USDCX in einem anderen Netzwerk minten**
+
+### **Welche Netzwerke und Tokens werden von der Burn-Funktion unterstützt?**
+
+Auf X-Gate können Sie **USDTX / USDCX Burnen (zerstören)** auf den folgenden spezifizierten Netzwerken und **USDT / USDC** im Ethereum-Netzwerk erhalten:
+
+- **Unterstützte Netzwerke:**
+  - Ethereum
+  - Japan Open Chain
+  - Arbitrum
+  - Base
+  - Avalanche
+- **Unterstützte Tokens:**
+  - **USDTX → USDT in einem anderen Netzwerk erhalten**
+  - **USDCX → USDC in einem anderen Netzwerk erhalten**
+
+### **Was ist eine Gasgebühr?**
+
+Eine **Gasgebühr** ist die Transaktionsgebühr, die bei der Durchführung einer Transaktion bezahlt wird, um die verbrauchten Rechenressourcen zu kompensieren.
+
+Die Gasgebühr variiert je nach Transaktionstyp und Netzwerkauslastung.
+
+### **Die Transaktion wird in meiner Wallet nicht angezeigt.**
+
+Wenn der Transaktionsstatus **"Pending"** ist, könnte das Netzwerk überlastet sein.  
+Bitte überprüfen Sie den Transaktionsstatus auf **Etherscan** oder aktualisieren Sie Ihre **MetaMask**-Wallet, um dies zu verifizieren.

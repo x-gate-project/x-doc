@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Swap  
 
-**Swap refers to exchanging one cryptocurrency for another.**  
+**Swapping is the process of exchanging one cryptocurrency for another.**  
 
 Unlike centralized exchanges (CEX), **decentralized exchanges (DEX)** like X-Swap do not use an order book. Instead, they **utilize liquidity pools** to facilitate token swaps.  
 
@@ -41,4 +41,4 @@ Unlike centralized exchanges (CEX), **decentralized exchanges (DEX)** like X-Swa
 1. After the swap is complete, check if **ETH is reflected in your wallet**.  
 2. Verify the transaction on **Etherscan** ([https://etherscan.io/](https://etherscan.io/)).  
 3. Copy the **Transaction ID (Tx Hash)** from **MetaMask's transaction history** or Uniswap’s **transaction records**.  
-4. Search the Tx Hash on **Etherscan** to confirm whether the transaction was successful.  
+4. Search the Tx Hash on **Etherscan** to confirm whether the transaction was successful.

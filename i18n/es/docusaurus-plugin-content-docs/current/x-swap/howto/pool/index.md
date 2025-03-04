@@ -3,44 +3,50 @@ sidebar_label: Pool
 sidebar_position: 2
 ---
 
-# Pool
+# Pool  
 
-**Pool (piscina de liquidez) es un mecanismo que provee la liquidez necesaria (suministro de tokens) para las transacciones de criptomonedas.**
+**Un pool (pool de liquidez) es un mecanismo que proporciona la liquidez (suministro de tokens) necesaria para el comercio de criptomonedas.**  
 
-En DEXs (intercambios descentralizados) como X-Swap, es posible **ganar tarifas de transacción depositando criptomonedas en un pool de liquidez.**
+En los DEXs (exchanges descentralizados) como X-Swap, los usuarios pueden **ganar comisiones de transacción depositando criptomonedas en pools de liquidez**.  
 
-### **① Conectar la cartera**
 
-1. Haz clic en "Conectar cartera (Connect Wallet)".
-2. Selecciona y conecta una cartera como MetaMask.
-3. Asegúrate de estar conectado a la red adecuada, como la red principal de Ethereum o BSC.
+## **① Conecta Tu Billetera**  
 
-### **② Añadir Liquidez (Add Liquidity)**
+1. Haz clic en **"Connect Wallet"**.  
+2. Selecciona y conecta **MetaMask** u otra billetera compatible.  
+3. Asegúrate de estar conectado a la red correcta, como **Ethereum Mainnet o BSC**.  
 
-1. Abre la pestaña "Pool (piscina)".
-2. Selecciona "Add Liquidity (añadir liquidez)".
-3. Elige el par de tokens para aportar liquidez. (Ejemplo: USDT / ETH)
-    - Se requiere que proporciones el par en una proporción de 1:1.
-    - Ejemplo: ingresa 100 USDT y la cantidad correspondiente en ETH.
-4. Ingresa la cantidad y verifica la participación en el pool (proporción de tokens LP).
-5. Haz clic en "Approve (aprobar)" para permitir el uso de los tokens en tu cartera.
-6. Haz clic en "Supply (suministrar)" para aprobar la transacción.
-7. Revisa las tarifas (costos de gas) y realiza la aprobación final.
 
-### **③ Verificación de recompensas obtenidas**
+## **② Añadir Liquidez**  
 
-- Cada vez que se realiza un swap, las tarifas de transacción (ej: 0.3%) se distribuyen entre los proveedores de liquidez del pool.
-- Las recompensas se acumulan según el periodo de tiempo que se proporcione la liquidez.
-- Los tokens LP serán necesarios cuando desees retirar la liquidez.
+1. Abre la pestaña **"Pool"**.  
+2. Selecciona **"Add Liquidity"**.  
+3. Elige el **par de tokens** para el cual deseas proporcionar liquidez.  
+   - **Ejemplo:** USDT / ETH  
+   - El par debe proporcionarse en una **proporción 1:1**.  
+   - **Ejemplo:** Ingresa **100 USDT** y la cantidad equivalente de ETH.  
+4. Ingresa la cantidad y verifica la **participación en el pool (proporción de tokens LP)**.  
+5. Haz clic en **"Approve"** para permitir el uso de tokens en tu billetera.  
+6. Haz clic en **"Supply"** para aprobar la transacción.  
+7. Confirma la **tarifa de gas** y finaliza la transacción.  
 
-### **④ Retirar Liquidez (Remove Liquidity)**
 
-1. Abre la pestaña "Pool".
-2. Selecciona el par de liquidez que has proporcionado.
-3. Haz clic en "Remove (eliminar liquidez)".
-4. Selecciona el porcentaje a retirar. (Ejemplo: 100% para retirar todo)
-5. Autoriza en la cartera y confirma la transacción.
-6. Los tokens originales (USDT y ETH) y las recompensas obtenidas regresarán a tu cartera.
+## **③ Verificar Recompensas Obtenidas**  
 
-- La cantidad de tokens depositados puede variar debido al impacto del swap (pérdida impermanente).
-- Dejar la liquidez depositada por períodos prolongados puede aumentar las recompensas de las tarifas de transacción.
+- Cada vez que se produce un intercambio, los proveedores de liquidez reciben una **parte de la tarifa de transacción (por ejemplo, 0.3%)**.  
+- Las recompensas se acumulan en función de la duración de la provisión de liquidez.  
+- Se requieren **tokens LP** al retirar liquidez.  
+
+
+## **④ Retirar Liquidez**  
+
+1. Abre la pestaña **"Pool"**.  
+2. Selecciona tu **par de liquidez**.  
+3. Haz clic en **"Remove"**.  
+4. Elige el porcentaje de retiro (**por ejemplo, 100% para retiro completo**).  
+5. Aprobar la transacción en tu billetera.  
+6. Tus tokens originales (**USDT & ETH**) más las recompensas obtenidas se devolverán a tu billetera.  
+
+**Nota:**  
+- La cantidad de tokens retirados puede variar debido a la **pérdida impermanente**.  
+- Mantener la liquidez durante un período más largo puede **aumentar las recompensas por tarifas**.

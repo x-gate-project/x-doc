@@ -1,16 +1,29 @@
 ---
-sidebar_label: 常见问题
+sidebar_label: 常见问题解答
 sidebar_position: 2
 ---
 
-# X-Swap 常见问题
+# X-Swap 常见问题解答
 
-### **支持的网络**
+### **X-Swap 支持哪些网络？**  
 
-X-Swap与X-Gate相同，支持 **5个主要的区块链**。
+X-Swap 与 X-Gate 相同，支持**五个主要区块链**：
 
-- Ethereum
-- Japan Open Chain
+- 以太坊
+- 日本开放链
 - Arbitrum
 - Base
 - Avalanche
+
+### **什么是 Gas 费？**  
+
+Gas 费是执行区块链操作所需的交易费用。
+
+因为执行交易消耗计算资源，因此必须支付费用作为补偿。
+
+Gas 费会根据交易类型和网络拥堵情况而变化。
+
+### **交易未反映在我的钱包中。**  
+
+如果交易状态为**“待处理”**，网络可能正在拥堵。
+请在**Etherscan**上检查交易状态或刷新您的**MetaMask**钱包进行验证。

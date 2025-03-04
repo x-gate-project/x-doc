@@ -4,8 +4,8 @@
         "description": "\u5bfc\u822a\u680f\u4e2d\u7684\u6807\u9898"
     },
     "logo.alt": {
-        "message": "\u6211\u7684\u7f51\u7ad9\u5fbd\u6807",
-        "description": "\u5bfc\u822a\u680f\u5fbd\u6807\u7684\u66ff\u4ee3\u6587\u672c"
+        "message": "\u6211\u7684\u7ad9\u70b9\u6807\u5fd7",
+        "description": "\u5bfc\u822a\u680f\u6807\u5fd7\u7684\u66ff\u4ee3\u6587\u672c"
     },
     "item.label.Go to x-gate.org": {
         "message": "\u524d\u5f80 x-gate.org",

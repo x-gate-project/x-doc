@@ -5,9 +5,9 @@ sidebar_position: 2
 
 # Pool  
 
-**A pool (liquidity pool) is a mechanism that provides the liquidity (token supply) necessary for cryptocurrency trading.**  
+**A pool (liquidity pool) is a mechanism that ensures the liquidity (availability of tokens) necessary for cryptocurrency trading.**  
 
-In DEXs (decentralized exchanges) like X-Swap, users can **earn transaction fees by depositing cryptocurrency into liquidity pools**.  
+In decentralized exchanges (DEXs) like X-Swap, users can **earn transaction fees by depositing cryptocurrency into liquidity pools**.  
 
 
 ## **① Connect Your Wallet**  
@@ -21,13 +21,13 @@ In DEXs (decentralized exchanges) like X-Swap, users can **earn transaction fees
 
 1. Open the **"Pool"** tab.  
 2. Select **"Add Liquidity"**.  
-3. Choose the **token pair** you want to provide liquidity for.  
+3. Choose the **token pair** you wish to provide liquidity for.  
    - **Example:** USDT / ETH  
-   - The pair must be provided in a **1:1 ratio**.  
+   - The pair must be supplied in a **1:1 ratio**.  
    - **Example:** Enter **100 USDT** and the equivalent amount of ETH.  
 4. Enter the amount and check the **pool share (LP token ratio)**.  
-5. Click **"Approve"** to allow token usage in your wallet.  
-6. Click **"Supply"** to approve the transaction.  
+5. Click **"Approve"** to authorize token usage in your wallet.  
+6. Click **"Supply"** to authorize the transaction.  
 7. Confirm the **gas fee** and finalize the transaction.  
 
 
@@ -49,4 +49,4 @@ In DEXs (decentralized exchanges) like X-Swap, users can **earn transaction fees
 
 **Note:**  
 - The amount of tokens withdrawn may vary due to **impermanent loss**.  
-- Holding liquidity for a longer period can **increase fee rewards**.  
+- Holding liquidity for a longer period can **enhance fee rewards**.

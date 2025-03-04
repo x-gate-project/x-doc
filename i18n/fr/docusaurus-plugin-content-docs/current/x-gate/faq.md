@@ -3,56 +3,67 @@ sidebar_label: FAQ
 sidebar_position: 2
 ---
 
-# Foire aux questions sur X-Gate
+# FAQ X-Gate
 
-### **Réseaux compatibles**
+### **Quels réseaux X-Gate prend-il en charge ?**  
 
-X-Gate prend en charge les **5 réseaux** suivants :
+X-Gate prend en charge les **5 réseaux** suivants :  
 
-- Ethereum
-- Japan Open Chain
-- Arbitrum
-- Base
-- Avalanche
+- Ethereum  
+- Japan Open Chain  
+- Arbitrum  
+- Base  
+- Avalanche  
 
-### **Réseaux et jetons compatibles avec la fonction Send**
+### **Quels réseaux et jetons sont pris en charge par la fonction d'envoi ?**  
 
-La fonction Send de X-Gate permet d’envoyer des « USDT personnalisés (USDTX) » et des « USDC personnalisés (USDCX) » sur certains réseaux.
+La fonction **Envoyer** de X-Gate permet de transférer **USDTX** et **USDCX** sur les réseaux suivants :  
 
-- **Réseaux compatibles :**
-    - Ethereum
-    - Japan Open Chain
-    - Arbitrum
-    - Base
-    - Avalanche
-- **Jetons compatibles :**
-    - **USDTX (USDT personnalisé)**
-    - **USDCX (USDC personnalisé)**
+- **Réseaux pris en charge :**  
+    - Ethereum  
+    - Japan Open Chain  
+    - Arbitrum  
+    - Base  
+    - Avalanche  
+- **Jetons pris en charge :**  
+    - **USDTX**  
+    - **USDCX**  
 
-### **Réseaux et jetons compatibles avec la fonction Mint**
+### **Quels réseaux et jetons sont pris en charge par la fonction Mint ?**  
 
-Avec X-Gate, vous pouvez utiliser des USDT ou des USDC pour **minter (émettre)** USDTX / USDCX sur les réseaux suivants.
+Sur X-Gate, en verrouillant **USDT/C** sur le réseau Ethereum, vous pouvez **frapper (émettre) USDTX / USDCX** sur les réseaux suivants :  
 
-- **Réseaux compatibles :**
-    - Ethereum
-    - Japan Open Chain
-    - Arbitrum
-    - Base
-    - Avalanche
-- **Jetons compatibles :**
-    - **USDT → Minter USDTX sur un réseau différent**
-    - **USDC → Minter USDCX sur un réseau différent**
+- **Réseaux pris en charge :**  
+    - Ethereum  
+    - Japan Open Chain  
+    - Arbitrum  
+    - Base  
+    - Avalanche  
+- **Jetons pris en charge :**  
+    - **USDT → Frappez USDTX sur un autre réseau**  
+    - **USDC → Frappez USDCX sur un autre réseau**  
 
-### **Réseaux et jetons compatibles avec la fonction Burn**
+### **Quels réseaux et jetons sont pris en charge par la fonction Burn ?**  
 
-Avec X-Gate, vous pouvez **brûler (burn) USDTX / USDCX** sur différents réseaux pour recevoir **USDT / USDC**.
+Sur X-Gate, vous pouvez **brûler (détruire)** **USDTX / USDCX** sur les réseaux spécifiés suivants et recevoir **USDT / USDC** sur le réseau Ethereum :  
 
-- **Réseaux compatibles :**
-    - Ethereum
-    - Japan Open Chain
-    - Arbitrum
-    - Base
-    - Avalanche
-- **Jetons compatibles :**
-    - **USDTX → Recevoir USDT sur un réseau différent**
-    - **USDCX → Recevoir USDC sur un réseau différent**
+- **Réseaux pris en charge :**  
+    - Ethereum  
+    - Japan Open Chain  
+    - Arbitrum  
+    - Base  
+    - Avalanche  
+- **Jetons pris en charge :**  
+    - **USDTX → Recevez USDT sur un autre réseau**  
+    - **USDCX → Recevez USDC sur un autre réseau**  
+
+### **Qu'est-ce qu'une commission de gas ?**  
+
+Une **commission de gas** est la commission de transaction payée lors de l'exécution d'une transaction, qui compense les ressources informatiques consommées.  
+
+La commission de gas fluctue en fonction du type de transaction et de la congestion du réseau.  
+
+### **La transaction n'apparaît pas dans mon portefeuille.**  
+
+Si le statut de la transaction est **"En attente"**, le réseau peut être congestionné.  
+Veuillez vérifier le statut de la transaction sur **Etherscan** ou actualiser votre portefeuille **MetaMask** pour vérifier.

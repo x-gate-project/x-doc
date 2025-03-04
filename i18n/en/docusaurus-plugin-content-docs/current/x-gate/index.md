@@ -1,5 +1,5 @@
 ---
-sidebar_label: X-Gateとは？
+sidebar_label: What is X-Gate?
 sidebar_position: 1
 ---
 

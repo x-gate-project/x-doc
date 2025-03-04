@@ -1,7 +1,7 @@
 {
     "theme.ErrorPageContent.title": {
         "message": "Esta p\u00e1gina ha fallado.",
-        "description": "El t\u00edtulo de la p\u00e1gina de respaldo cuando la p\u00e1gina fall\u00f3"
+        "description": "El t\u00edtulo de la p\u00e1gina de respaldo cuando la p\u00e1gina ha fallado"
     },
     "theme.BackToTopButton.buttonAriaLabel": {
         "message": "Volver al principio",
@@ -9,11 +9,11 @@
     },
     "theme.blog.archive.title": {
         "message": "Archivo",
-        "description": "El t\u00edtulo de la p\u00e1gina y del h\u00e9roe de la p\u00e1gina de archivo del blog"
+        "description": "El t\u00edtulo de la p\u00e1gina y h\u00e9roe de la p\u00e1gina de archivo del blog"
     },
     "theme.blog.archive.description": {
         "message": "Archivo",
-        "description": "La descripci\u00f3n de la p\u00e1gina y del h\u00e9roe de la p\u00e1gina de archivo del blog"
+        "description": "La descripci\u00f3n de la p\u00e1gina y h\u00e9roe de la p\u00e1gina de archivo del blog"
     },
     "theme.blog.paginator.navAriaLabel": {
         "message": "Navegaci\u00f3n por la p\u00e1gina de la lista de blogs",
@@ -21,11 +21,11 @@
     },
     "theme.blog.paginator.newerEntries": {
         "message": "Entradas m\u00e1s recientes",
-        "description": "La etiqueta usada para navegar a la p\u00e1gina de publicaciones m\u00e1s recientes del blog (p\u00e1gina anterior)"
+        "description": "La etiqueta utilizada para navegar a la p\u00e1gina de entradas m\u00e1s recientes del blog (p\u00e1gina anterior)"
     },
     "theme.blog.paginator.olderEntries": {
         "message": "Entradas m\u00e1s antiguas",
-        "description": "La etiqueta usada para navegar a la p\u00e1gina de publicaciones m\u00e1s antiguas del blog (p\u00e1gina siguiente)"
+        "description": "La etiqueta utilizada para navegar a la p\u00e1gina de entradas m\u00e1s antiguas del blog (p\u00e1gina siguiente)"
     },
     "theme.blog.post.paginator.navAriaLabel": {
         "message": "Barra de paginaci\u00f3n de publicaciones del blog",
@@ -33,19 +33,19 @@
     },
     "theme.blog.post.paginator.newerPost": {
         "message": "Publicaci\u00f3n m\u00e1s reciente",
-        "description": "La etiqueta del bot\u00f3n de la publicaci\u00f3n del blog para navegar a la entrada m\u00e1s nueva/anterior"
+        "description": "La etiqueta del bot\u00f3n de la publicaci\u00f3n del blog para navegar a la publicaci\u00f3n m\u00e1s reciente/anterior"
     },
     "theme.blog.post.paginator.olderPost": {
         "message": "Publicaci\u00f3n m\u00e1s antigua",
-        "description": "La etiqueta del bot\u00f3n de la publicaci\u00f3n del blog para navegar a la entrada m\u00e1s antigua/siguiente"
+        "description": "La etiqueta del bot\u00f3n de la publicaci\u00f3n del blog para navegar a la publicaci\u00f3n m\u00e1s antigua/siguiente"
     },
     "theme.tags.tagsPageLink": {
         "message": "Ver Todas las Etiquetas",
-        "description": "La etiqueta del enlace que apunta a la p\u00e1gina de lista de etiquetas"
+        "description": "La etiqueta del enlace que dirige a la p\u00e1gina de la lista de etiquetas"
     },
     "theme.colorToggle.ariaLabel": {
         "message": "Cambiar entre modo oscuro y claro (actualmente {mode})",
-        "description": "La etiqueta ARIA para el cambio de modo de color en la barra de navegaci\u00f3n"
+        "description": "La etiqueta ARIA para el interruptor de modo de color de la barra de navegaci\u00f3n"
     },
     "theme.colorToggle.ariaLabel.mode.dark": {
         "message": "modo oscuro",
@@ -55,13 +55,13 @@
         "message": "modo claro",
         "description": "El nombre para el modo de color claro"
     },
+    "theme.docs.DocCard.categoryDescription.plurals": {
+        "message": "1 art\u00edculo|{count} art\u00edculos",
+        "description": "La descripci\u00f3n por defecto para una tarjeta de categor\u00eda en el \u00edndice generado sobre cu\u00e1ntos elementos incluye esta categor\u00eda"
+    },
     "theme.docs.breadcrumbs.navAriaLabel": {
         "message": "Rastro de navegaci\u00f3n",
         "description": "La etiqueta ARIA para las migas de pan"
-    },
-    "theme.docs.DocCard.categoryDescription.plurals": {
-        "message": "1 art\u00edculo|{count} art\u00edculos",
-        "description": "La descripci\u00f3n predeterminada para una tarjeta de categor\u00eda en el \u00edndice generado sobre cu\u00e1ntos elementos incluye esta categor\u00eda"
     },
     "theme.docs.paginator.navAriaLabel": {
         "message": "P\u00e1gina del documento",
@@ -69,15 +69,15 @@
     },
     "theme.docs.paginator.previous": {
         "message": "Anterior",
-        "description": "La etiqueta usada para navegar al documento anterior"
+        "description": "La etiqueta utilizada para navegar al documento anterior"
     },
     "theme.docs.paginator.next": {
         "message": "Siguiente",
-        "description": "La etiqueta usada para navegar al siguiente documento"
+        "description": "La etiqueta utilizada para navegar al documento siguiente"
     },
     "theme.docs.tagDocListPageTitle.nDocsTagged": {
         "message": "Un documento etiquetado|{count} documentos etiquetados",
-        "description": "Etiqueta pluralizada para \"{count} documentos etiquetados\". Usa tantas formas plurales (separadas por \"|\") como soporta tu idioma"
+        "description": "Etiqueta pluralizada para \"{count} documentos etiquetados\". Utiliza tantas formas plurales (separadas por \"|\") como soporte tu idioma (ver https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
     },
     "theme.docs.tagDocListPageTitle": {
         "message": "{nDocsTagged} con \"{tagName}\"",
@@ -88,19 +88,19 @@
     },
     "theme.docs.versions.unreleasedVersionLabel": {
         "message": "Esta es la documentaci\u00f3n sin publicar para {siteTitle}, versi\u00f3n {versionLabel}.",
-        "description": "La etiqueta usada para decirle al usuario que est\u00e1 consultando una versi\u00f3n no publicada del documento"
+        "description": "La etiqueta utilizada para indicar al usuario que est\u00e1 navegando una versi\u00f3n de documento no publicada"
     },
     "theme.docs.versions.unmaintainedVersionLabel": {
         "message": "Esta es la documentaci\u00f3n para {siteTitle} {versionLabel}, que ya no se mantiene activamente.",
-        "description": "La etiqueta usada para decirle al usuario que est\u00e1 consultando una versi\u00f3n del documento que ya no se mantiene"
+        "description": "La etiqueta utilizada para indicar al usuario que est\u00e1 navegando una versi\u00f3n de documento no mantenida"
     },
     "theme.docs.versions.latestVersionSuggestionLabel": {
         "message": "Para la documentaci\u00f3n actualizada, vea {latestVersionLink} ({versionLabel}).",
-        "description": "La etiqueta usada para decirle al usuario que revise la \u00faltima versi\u00f3n"
+        "description": "La etiqueta utilizada para indicar al usuario que consulte la \u00faltima versi\u00f3n"
     },
     "theme.docs.versions.latestVersionLinkLabel": {
         "message": "\u00faltima versi\u00f3n",
-        "description": "La etiqueta utilizada para la sugerencia de la \u00faltima versi\u00f3n"
+        "description": "La etiqueta utilizada para la \u00faltima versi\u00f3n sugerida"
     },
     "theme.common.editThisPage": {
         "message": "Editar esta p\u00e1gina",
@@ -108,23 +108,23 @@
     },
     "theme.common.headingLinkTitle": {
         "message": "Enlace directo al {heading}",
-        "description": "T\u00edtulo del enlace al encabezado"
+        "description": "T\u00edtulo para el enlace al encabezado"
     },
     "theme.lastUpdated.atDate": {
         "message": "en {date}",
-        "description": "Las palabras usadas para describir en qu\u00e9 fecha se ha actualizado por \u00faltima vez una p\u00e1gina"
+        "description": "Las palabras utilizadas para describir la fecha en que una p\u00e1gina fue actualizada por \u00faltima vez"
     },
     "theme.lastUpdated.byUser": {
         "message": "por {user}",
-        "description": "Las palabras usadas para describir qui\u00e9n ha actualizado por \u00faltima vez la p\u00e1gina"
+        "description": "Las palabras utilizadas para describir qui\u00e9n actualiz\u00f3 la p\u00e1gina por \u00faltima vez"
     },
     "theme.lastUpdated.lastUpdatedAtBy": {
         "message": "\u00daltima actualizaci\u00f3n{atDate}{byUser}",
-        "description": "La frase utilizada para mostrar cu\u00e1ndo se ha actualizado por \u00faltima vez una p\u00e1gina y por qui\u00e9n"
+        "description": "La oraci\u00f3n utilizada para mostrar cu\u00e1ndo y por qui\u00e9n una p\u00e1gina fue actualizada por \u00faltima vez"
     },
     "theme.navbar.mobileVersionsDropdown.label": {
         "message": "Versiones",
-        "description": "La etiqueta del men\u00fa desplegable de versiones en el modo m\u00f3vil de la barra de navegaci\u00f3n"
+        "description": "La etiqueta para el men\u00fa desplegable de versiones en la vista m\u00f3vil"
     },
     "theme.NotFound.title": {
         "message": "P\u00e1gina No Encontrada",
@@ -136,31 +136,31 @@
     },
     "theme.admonition.caution": {
         "message": "precauci\u00f3n",
-        "description": "La etiqueta predeterminada usada para la advertencia de Precauci\u00f3n (:::caution)"
+        "description": "La etiqueta predeterminada utilizada para la advertencia de Precauci\u00f3n (:::caution)"
     },
     "theme.admonition.danger": {
         "message": "peligro",
-        "description": "La etiqueta predeterminada usada para la advertencia de Peligro (:::danger)"
+        "description": "La etiqueta predeterminada utilizada para la advertencia de Peligro (:::danger)"
     },
     "theme.admonition.info": {
         "message": "info",
-        "description": "La etiqueta predeterminada usada para la advertencia de Informaci\u00f3n (:::info)"
+        "description": "La etiqueta predeterminada utilizada para la advertencia de Informaci\u00f3n (:::info)"
     },
     "theme.admonition.note": {
         "message": "nota",
-        "description": "La etiqueta predeterminada usada para la advertencia de Nota (:::note)"
+        "description": "La etiqueta predeterminada utilizada para la advertencia de Nota (:::note)"
     },
     "theme.admonition.tip": {
-        "message": "consejo",
-        "description": "La etiqueta predeterminada usada para la advertencia de Sugerencia (:::tip)"
+        "message": "tip",
+        "description": "La etiqueta predeterminada utilizada para la advertencia de Consejo (:::tip)"
     },
     "theme.admonition.warning": {
         "message": "aviso",
-        "description": "La etiqueta predeterminada usada para la advertencia de Advertencia (:::warning)"
+        "description": "La etiqueta predeterminada utilizada para la advertencia de Advertencia (:::warning)"
     },
     "theme.AnnouncementBar.closeButtonAriaLabel": {
         "message": "Cerrar",
-        "description": "La etiqueta ARIA para el bot\u00f3n de cerrar de la barra de anuncios"
+        "description": "La etiqueta ARIA para el bot\u00f3n de cierre de la barra de anuncios"
     },
     "theme.blog.sidebar.navAriaLabel": {
         "message": "Navegaci\u00f3n de publicaciones recientes",
@@ -168,7 +168,7 @@
     },
     "theme.CodeBlock.copied": {
         "message": "Copiado",
-        "description": "La etiqueta del bot\u00f3n de copiado en bloques de c\u00f3digo"
+        "description": "La etiqueta del bot\u00f3n copiado en bloques de c\u00f3digo"
     },
     "theme.CodeBlock.copyButtonAriaLabel": {
         "message": "Copiar c\u00f3digo",
@@ -176,15 +176,15 @@
     },
     "theme.CodeBlock.copy": {
         "message": "Copiar",
-        "description": "La etiqueta del bot\u00f3n de copiar en bloques de c\u00f3digo"
+        "description": "La etiqueta del bot\u00f3n copiar en bloques de c\u00f3digo"
     },
     "theme.CodeBlock.wordWrapToggle": {
         "message": "Alternar ajuste de palabras",
-        "description": "El atributo de t\u00edtulo para el bot\u00f3n de alternar ajuste de l\u00ednea en bloques de c\u00f3digo"
+        "description": "El atributo de t\u00edtulo para el bot\u00f3n de alternar ajuste de palabras de las l\u00edneas de bloques de c\u00f3digo"
     },
     "theme.DocSidebarItem.expandCategoryAriaLabel": {
         "message": "Ampliar la categor\u00eda '{label}' de la barra lateral",
-        "description": "La etiqueta ARIA para ampliar la categor\u00eda de la barra lateral"
+        "description": "La etiqueta ARIA para expandir la categor\u00eda de la barra lateral"
     },
     "theme.DocSidebarItem.collapseCategoryAriaLabel": {
         "message": "Colapsar categor\u00eda '{label}' de la barra lateral",
@@ -196,7 +196,7 @@
     },
     "theme.navbar.mobileLanguageDropdown.label": {
         "message": "Idiomas",
-        "description": "La etiqueta para el men\u00fa desplegable de cambio de idioma en m\u00f3vil"
+        "description": "La etiqueta para el men\u00fa desplegable del selector de idioma m\u00f3vil"
     },
     "theme.NotFound.p1": {
         "message": "No pudimos encontrar lo que buscaba.",
@@ -208,11 +208,11 @@
     },
     "theme.TOCCollapsible.toggleButtonLabel": {
         "message": "En esta p\u00e1gina",
-        "description": "La etiqueta usada por el bot\u00f3n en el componente TOC desplegable"
+        "description": "La etiqueta usada por el bot\u00f3n en el componente de TOC colapsable"
     },
     "theme.blog.post.readMore": {
         "message": "Leer M\u00e1s",
-        "description": "La etiqueta utilizada en los extractos de publicaciones de blog para enlazar a las publicaciones completas"
+        "description": "La etiqueta usada en los extractos de publicaciones de blog para enlazar a publicaciones completas"
     },
     "theme.blog.post.readMoreLabel": {
         "message": "Leer m\u00e1s acerca de {title}",
@@ -220,11 +220,11 @@
     },
     "theme.blog.post.readingTime.plurals": {
         "message": "Lectura de un minuto|{readingTime} min de lectura",
-        "description": "Etiqueta pluralizada para \"{readingTime} min de lectura\". Use tantas formas plurales (separadas por \"|\") como su idioma soporte (ver https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+        "description": "Etiqueta pluralizada para \"{readingTime} min de lectura\". Use tantas formas plurales (separadas por \"|\") como soporte su idioma (ver https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
     },
     "theme.docs.breadcrumbs.home": {
         "message": "P\u00e1gina de Inicio",
-        "description": "La etiqueta ARIA para la p\u00e1gina de inicio en la ruta de navegaci\u00f3n"
+        "description": "La etiqueta ARIA para la p\u00e1gina de inicio en las migas de pan"
     },
     "theme.docs.sidebar.collapseButtonTitle": {
         "message": "Colapsar barra lateral",
@@ -236,7 +236,7 @@
     },
     "theme.docs.sidebar.navAriaLabel": {
         "message": "Barra lateral de Documentos",
-        "description": "La etiqueta ARIA para la navegaci\u00f3n de la barra lateral"
+        "description": "La etiqueta ARIA para la navegaci\u00f3n en la barra lateral"
     },
     "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
         "message": "Cerrar barra de lateral",
@@ -244,11 +244,11 @@
     },
     "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
         "message": "\u2190 Volver al men\u00fa principal",
-        "description": "La etiqueta del bot\u00f3n de retroceso para regresar al men\u00fa principal, dentro del men\u00fa secundario de la barra de navegaci\u00f3n m\u00f3vil (usado notablemente para mostrar la barra lateral de documentos)"
+        "description": "La etiqueta del bot\u00f3n de regresar para volver al men\u00fa principal, dentro del men\u00fa secundario de la barra lateral de la barra de navegaci\u00f3n m\u00f3vil (usado notablemente para mostrar la barra lateral de documentos)"
     },
     "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
         "message": "Alternar barra lateral",
-        "description": "La etiqueta ARIA para el bot\u00f3n del men\u00fa hamburguesa de la navegaci\u00f3n m\u00f3vil"
+        "description": "La etiqueta ARIA para el bot\u00f3n de men\u00fa hamburguesa de la navegaci\u00f3n m\u00f3vil"
     },
     "theme.docs.sidebar.expandButtonTitle": {
         "message": "Expandir barra lateral",
@@ -260,7 +260,7 @@
     },
     "theme.blog.post.plurals": {
         "message": "Una publicaci\u00f3n|{count} publicaciones",
-        "description": "Etiqueta pluralizada para \"{count} publicaciones\". Use tantas formas plurales (separadas por \"|\") como su idioma soporte (ver https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+        "description": "Etiqueta pluralizada para \"{count} publicaciones\". Use tantas formas plurales (separadas por \"|\") como soporte su idioma (ver https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
     },
     "theme.blog.tagTitle": {
         "message": "{nPosts} etiquetados con \"{tagName}\"",
@@ -279,32 +279,32 @@
         "description": "La etiqueta del enlace que apunta a la p\u00e1gina de autores del blog"
     },
     "theme.blog.author.noPosts": {
-        "message": "Este autor no ha escrito ninguna publicaci\u00f3n todav\u00eda.",
-        "description": "El texto para autores con 0 publicaciones de blog"
+        "message": "Este autor no ha escrito ninguna publicaci\u00f3n a\u00fan.",
+        "description": "El texto para autores con 0 publicaciones en el blog"
     },
     "theme.contentVisibility.unlistedBanner.title": {
         "message": "P\u00e1gina sin clasificar",
-        "description": "El t\u00edtulo del banner de contenido sin clasificar"
+        "description": "El t\u00edtulo del banner de contenido no listado"
     },
     "theme.contentVisibility.unlistedBanner.message": {
-        "message": "Esta p\u00e1gina est\u00e1 sin clasificar. Los motores de b\u00fasqueda no la indexaran, y solo los usuarios con el enlace directo podr\u00e1n acceder a esta.",
-        "description": "El mensaje del banner de contenido sin clasificar"
+        "message": "Esta p\u00e1gina est\u00e1 sin clasificar. Los motores de b\u00fasqueda no la indexar\u00e1n, y solo los usuarios con el enlace directo podr\u00e1n acceder a esta.",
+        "description": "El mensaje del banner de contenido no listado"
     },
     "theme.contentVisibility.draftBanner.title": {
         "message": "P\u00e1gina en borrador",
         "description": "El t\u00edtulo del banner de contenido en borrador"
     },
     "theme.contentVisibility.draftBanner.message": {
-        "message": "Esta p\u00e1gina es un borrador. Solo ser\u00e1 visible en desarrollo y se excluir\u00e1 de la versi\u00f3n de producci\u00f3n.",
+        "message": "Esta p\u00e1gina es un borrador. Solo ser\u00e1 visible en desarrollo y se excluir\u00e1 de la compilaci\u00f3n de producci\u00f3n.",
         "description": "El mensaje del banner de contenido en borrador"
     },
     "theme.ErrorPageContent.tryAgain": {
         "message": "Intente de nuevo",
-        "description": "La etiqueta del bot\u00f3n para intentar renderizar de nuevo cuando el l\u00edmite de error de React captura un error"
+        "description": "La etiqueta del bot\u00f3n para intentar nuevamente el renderizado cuando el l\u00edmite de error de React captura un error"
     },
     "theme.common.skipToMainContent": {
         "message": "Saltar al contenido principal",
-        "description": "La etiqueta de saltar al contenido usada para accesibilidad, permitiendo navegar r\u00e1pidamente al contenido principal con la navegaci\u00f3n de teclado tab/enter"
+        "description": "La etiqueta de saltar al contenido utilizada para accesibilidad, permitiendo navegar r\u00e1pidamente al contenido principal con navegaci\u00f3n de teclado tab/enter"
     },
     "theme.tags.tagsPageTitle": {
         "message": "Etiquetas",

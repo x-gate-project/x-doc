@@ -4,15 +4,15 @@
         "description": "\u30ca\u30d3\u30d0\u30fc\u306e\u30bf\u30a4\u30c8\u30eb"
     },
     "logo.alt": {
-        "message": "\u79c1\u306e\u30b5\u30a4\u30c8\u30ed\u30b4",
+        "message": "\u30de\u30a4\u30b5\u30a4\u30c8\u30ed\u30b4",
         "description": "\u30ca\u30d3\u30d0\u30fc\u30ed\u30b4\u306e\u4ee3\u66ff\u30c6\u30ad\u30b9\u30c8"
     },
     "item.label.Go to x-gate.org": {
         "message": "x-gate.org \u306b\u884c\u304f",
-        "description": "\u30ca\u30d3\u30d0\u30fc\u306e\u9805\u76ee\u30e9\u30d9\u30eb x-gate.org \u306b\u884c\u304f"
+        "description": "\u30ca\u30d3\u30d0\u30fc\u9805\u76ee\u306e\u30e9\u30d9\u30eb: x-gate.org \u306b\u884c\u304f"
     },
     "item.label.Go to x-swap.org": {
         "message": "x-swap.org \u306b\u884c\u304f",
-        "description": "\u30ca\u30d3\u30d0\u30fc\u306e\u9805\u76ee\u30e9\u30d9\u30eb x-swap.org \u306b\u884c\u304f"
+        "description": "\u30ca\u30d3\u30d0\u30fc\u9805\u76ee\u306e\u30e9\u30d9\u30eb: x-swap.org \u306b\u884c\u304f"
     }
 }

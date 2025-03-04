@@ -1,22 +1,22 @@
 {
     "version.label": {
-        "message": "\u0928\u0935\u0940\u0928\u0924\u092e",
-        "description": "\u091a\u093e\u0932\u0942 \u0938\u0902\u0938\u094d\u0915\u0930\u0923 \u0915\u0947 \u0932\u093f\u090f \u0932\u0947\u092c\u0932"
+        "message": "नवीनतम",
+        "description": "वर्तमान संस्करण के लिए लेबल"
     },
-    "sidebar.tutorialSidebar.category.X-Gate\u306b\u3064\u3044\u3066": {
-        "message": "X-Gate\u306b\u3064\u3044\u3066",
-        "description": "\u0938\u093e\u0907\u0921\u092c\u093e\u0930 tutorialSidebar \u092e\u0947\u0902 \u0936\u094d\u0930\u0947\u0923\u0940 X-Gate\u306b\u3064\u3044\u3066 \u0915\u0947 \u0932\u093f\u090f \u0932\u0947\u092c\u0932"
+    "sidebar.tutorialSidebar.category.X-Gateについて": {
+        "message": "X-Gate के बारे में",
+        "description": "साइडबार tutorialSidebar में X-Gate के बारे में के लिए श्रेणी लेबल"
     },
-    "sidebar.tutorialSidebar.category.X-Gate\u306e\u4f7f\u3044\u65b9": {
-        "message": "X-Gate\u306e\u4f7f\u3044\u65b9",
-        "description": "\u0938\u093e\u0907\u0921\u092c\u093e\u0930 tutorialSidebar \u092e\u0947\u0902 \u0936\u094d\u0930\u0947\u0923\u0940 X-Gate\u306e\u4f7f\u3044\u65b9 \u0915\u0947 \u0932\u093f\u090f \u0932\u0947\u092c\u0932"
+    "sidebar.tutorialSidebar.category.X-Gateの使い方": {
+        "message": "X-Gate का उपयोग कैसे करें",
+        "description": "साइडबार tutorialSidebar में X-Gate का उपयोग कैसे करें के लिए श्रेणी लेबल"
     },
-    "sidebar.tutorialSidebar.category.X-Swap\u306b\u3064\u3044\u3066": {
-        "message": "X-Swap\u306b\u3064\u3044\u3066",
-        "description": "\u0938\u093e\u0907\u0921\u092c\u093e\u0930 tutorialSidebar \u092e\u0947\u0902 \u0936\u094d\u0930\u0947\u0923\u0940 X-Swap\u306b\u3064\u3044\u3066 \u0915\u0947 \u0932\u093f\u090f \u0932\u0947\u092c\u0932"
+    "sidebar.tutorialSidebar.category.X-Swapについて": {
+        "message": "X-Swap के बारे में",
+        "description": "साइडबार tutorialSidebar में X-Swap के बारे में के लिए श्रेणी लेबल"
     },
-    "sidebar.tutorialSidebar.category.X-Swap\u306e\u4f7f\u3044\u65b9": {
-        "message": "X-Swap\u306e\u4f7f\u3044\u65b9",
-        "description": "\u0938\u093e\u0907\u0921\u092c\u093e\u0930 tutorialSidebar \u092e\u0947\u0902 \u0936\u094d\u0930\u0947\u0923\u0940 X-Swap\u306e\u4f7f\u3044\u65b9 \u0915\u0947 \u0932\u093f\u090f \u0932\u0947\u092c\u0932"
+    "sidebar.tutorialSidebar.category.X-Swapの使い方": {
+        "message": "X-Swap का उपयोग कैसे करें",
+        "description": "साइडबार tutorialSidebar में X-Swap का उपयोग कैसे करें के लिए श्रेणी लेबल"
     }
 }

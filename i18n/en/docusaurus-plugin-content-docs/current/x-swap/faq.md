@@ -26,4 +26,4 @@ The gas fee varies depending on the type of transaction and network congestion.
 ### **The transaction is not reflected in my wallet.**  
 
 If the transaction status is **"Pending"**, the network may be congested.  
-Please check the transaction status on **Etherscan** or refresh your **MetaMask** wallet to verify.  
+Please check the transaction status on **Etherscan** or refresh your **MetaMask** wallet to verify.
