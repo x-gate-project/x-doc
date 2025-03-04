@@ -3,40 +3,42 @@ sidebar_label: Swap
 sidebar_position: 1
 ---
 
-# Swap
+# Swap  
+
+**Swap refers to exchanging one cryptocurrency for another.**  
+
+Unlike centralized exchanges (CEX), **decentralized exchanges (DEX)** like X-Swap do not use an order book. Instead, they **utilize liquidity pools** to facilitate token swaps.  
 
 
-**Swap（スワップ）とは、仮想通貨を別の仮想通貨に交換することを指します。**
+## **① Connect Your Wallet (MetaMask, etc.)**  
 
-中央集権型取引所（CEX）と異なり、X-Swapなどの**分散型取引所（DEX）** ではオーダーブックを使わず、**流動性プール（Liquidity Pool）を利用してトークンを交換** します。
+1. Click **"Connect Wallet"**.  
+2. Select **MetaMask** (or another supported wallet) and connect.  
+3. Ensure you are connected to the correct network.  
 
-### **① ウォレット（MetaMaskなど）を接続する**
 
-1. 「ウォレットを接続（Connect Wallet）」 をクリックします。
-2. MetaMask（または他の対応ウォレット）を選択し、接続します。
-3. 正しいネットワークに接続されていることを確認します。
+## **② Select Tokens for Swap**  
 
-### **② スワップする銘柄を設定する**
+1. On the swap screen, choose the tokens you want to exchange.  
+   - **Example: Swapping USDT for ETH**  
+   - Select **USDT** in the "From" field.  
+   - Select **ETH** in the "To" field.  
+   - Enter the amount of USDT you want to swap (e.g., **100 USDT**, which will display the equivalent ETH based on the current rate).  
+2. Check the **price, gas fee (transaction fee), and slippage tolerance**.  
+3. Confirm the **minimum amount you will receive** (varies based on market liquidity).  
 
-1. スワップ画面で、スワップしたい銘柄を選択します。
-**（例）「USDT → ETH」の場合**
-「From（送る）」に USDT を選択します。
-「To（受け取る）」に ETH を選択します。交換したいUSDTの数量を入力します。
-（例：「100 USDT」を入力すると、レートに応じたETHが表示される）
-2. 価格、ガス代（手数料）、スリッページを確認します。
-3. 「最低受け取れる金額」を確認します。（市場の流動性によって変動）
 
-### **③ スワップ（交換）を実行**
+## **③ Execute the Swap**  
 
-1. 「Swap」ボタンをクリックします。
-2. ウォレット（MetaMaskなど）がポップアップ表示されます。
-3. ガス代（手数料）を確認し、取引を承認（Confirm）します。
-4. 取引がブロックチェーン上で処理されるまでお待ちください。（数秒～数分かかることがあります。）
+1. Click the **"Swap"** button.  
+2. Your wallet (e.g., MetaMask) will prompt you for confirmation.  
+3. Review the **gas fee** and confirm the transaction.  
+4. Wait for the transaction to be processed on the blockchain (**this may take a few seconds to a few minutes**).  
 
-### **④ 取引の確認**
 
-1. スワップ完了後、ETHがウォレットに反映されたか確認します。
-2. Etherscan（[https://etherscan.io/）](https://etherscan.io/%EF%BC%89%E3%81%A7%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B6%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF)でトランザクションを確認します。
-3. MetaMaskの取引履歴 または Uniswapの「トランザクション履歴」 からトランザクションID（Tx Hash）をコピーします。
-4. Etherscanで検索 し、取引が成功しているか確認します。
+## **④ Verify Your Transaction**  
 
+1. After the swap is complete, check if **ETH is reflected in your wallet**.  
+2. Verify the transaction on **Etherscan** ([https://etherscan.io/](https://etherscan.io/)).  
+3. Copy the **Transaction ID (Tx Hash)** from **MetaMask's transaction history** or Uniswap’s **transaction records**.  
+4. Search the Tx Hash on **Etherscan** to confirm whether the transaction was successful.  

@@ -5,54 +5,65 @@ sidebar_position: 2
 
 # X-Gate FAQ
 
-### **対応しているネットワーク**
+### **What networks does X-Gate support?**  
 
-X-Gateは下記の**5つのネットワーク** に対応しています。
+X-Gate supports the following **5 networks**:  
 
-- Ethereum
-- Japan Open Chain
-- Arbitrum
-- Base
-- Avalanche
+- Ethereum  
+- Japan Open Chain  
+- Arbitrum  
+- Base  
+- Avalanche  
 
-### **Sendに対応しているネットワークと銘柄**
+### **What networks and tokens are supported by the Send feature?**  
 
-X-GateのSend（送金）機能では、特定のネットワーク上で「カスタムUSDT（USDTX）・カスタムUSDC（USDCX）」を送金できます。
+X-Gate’s **Send** function allows you to transfer **USDTX** and **USDCX** across the following networks:  
 
-- **対応ネットワーク：**
-    - Ethereum
-    - Japan Open Chain
-    - Arbitrum
-    - Base
-    - Avalanche
-- **対応銘柄**：
-    - **USDTX（カスタムUSDT）**
-    - **USDCX（カスタムUSDC）**
+- **Supported Networks:**  
+    - Ethereum  
+    - Japan Open Chain  
+    - Arbitrum  
+    - Base  
+    - Avalanche  
+- **Supported Tokens:**  
+    - **USDTX**  
+    - **USDCX**  
 
-### **Mintに対応しているネットワークと銘柄**
+### **What networks and tokens are supported by the Mint feature?**  
 
-X-Gateでは、USDTまたはUSDCを使用して、以下のネットワーク上で **USDTX / USDCX をMint（発行）** できます。
+On X-Gate, by locking **USDT/C** on the Ethereum network, you can **Mint (issue) USDTX / USDCX** on the following specified networks:  
 
-- **対応ネットワーク：**
-    - Ethereum
-    - Japan Open Chain
-    - Arbitrum
-    - Base
-    - Avalanche
-- **対応銘柄**：
-    - **USDT → 異なるネットワークのUSDTXをMint**
-    - **USDC → 異なるネットワークのUSDCXをMint**
+- **Supported Networks:**  
+    - Ethereum  
+    - Japan Open Chain  
+    - Arbitrum  
+    - Base  
+    - Avalanche  
+- **Supported Tokens:**  
+    - **USDT → Mint USDTX on another network**  
+    - **USDC → Mint USDCX on another network**  
 
-### **Burnに対応しているネットワークと銘柄**
+### **What networks and tokens are supported by the Burn feature?**  
 
-X-Gateでは、異なるネットワーク上の**USDTX / USDCX をBurn（焼却）** することで、**USDT / USDCを受け取る** ことができます。
+On X-Gate, you can **Burn (destroy)** **USDTX / USDCX** on the following specified networks and receive **USDT / USDC** on the Ethereum network:  
 
-- **対応ネットワーク：**
-    - Ethereum
-    - Japan Open Chain
-    - Arbitrum
-    - Base
-    - Avalanche
-- **対応銘柄**：
-    - **USDTX → 異なるネットワーク上のUSDTを受け取る**
-    - **USDCX → 異なるネットワーク上のUSDCを受け取る**
+- **Supported Networks:**  
+    - Ethereum  
+    - Japan Open Chain  
+    - Arbitrum  
+    - Base  
+    - Avalanche  
+- **Supported Tokens:**  
+    - **USDTX → Receive USDT on another network**  
+    - **USDCX → Receive USDC on another network**  
+
+### **What is a gas fee?**  
+
+A **gas fee** is the transaction fee paid when executing a transaction, which compensates for the computational resources consumed.  
+
+The gas fee fluctuates depending on the transaction type and network congestion.  
+
+### **The transaction is not reflected in my wallet.**  
+
+If the transaction status is **"Pending"**, the network may be congested.  
+Please check the transaction status on **Etherscan** or refresh your **MetaMask** wallet to verify.  

@@ -1,10 +1,10 @@
 ---
-sidebar_label: What is X-Gate?
+sidebar_label: X-Gateとは？
 sidebar_position: 1
 ---
 
 # What is X-Gate?
 
-X-Gate is a system designed to **bridge (transfer) stablecoins (USDTX, USDCX) between different networks**.
+X-Gate is a system designed for **bridging (transferring) stablecoins (USDTX, USDCX) between different networks**.
 
-This allows users to **seamlessly transfer assets across multiple networks**, facilitating smooth transactions and utilization of DeFi (Decentralized Finance) applications.
+This allows users to **seamlessly move assets across multiple networks**, enabling smoother transactions and better access to DeFi (decentralized finance) applications.

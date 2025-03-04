@@ -3,8 +3,8 @@ sidebar_position: 1
 slug: /
 ---
 
-# About X-Gate Project
+# About the X-Gate Project
 
-X-Gate Projectは、**異なるネットワーク間でステーブルコイン（USDTX、USDCX）をブリッジ（移動）**・**スワップ（交換）** できる仕組みです。
+The **X-Gate Project** is a system that allows **bridging (transferring)** and **swapping (exchanging)** stablecoins (**USDTX, USDCX**) between different networks.
 
-本ガイドでは、各機能の使い方や、よくある質問について分かりやすく解説しています。
+This guide provides a clear explanation of how to use each function and answers frequently asked questions.
