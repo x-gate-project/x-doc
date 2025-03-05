@@ -3,42 +3,24 @@ sidebar_label: Swap
 sidebar_position: 1
 ---
 
-# Swap  
+# Swap
 
-**Swapping is the process of exchanging one cryptocurrency for another.**  
-
-Unlike centralized exchanges (CEX), **decentralized exchanges (DEX)** like X-Swap do not use an order book. Instead, they **utilize liquidity pools** to facilitate token swaps.  
-
-
-## **① Connect Your Wallet (MetaMask, etc.)**  
-
-1. Click **"Connect Wallet"**.  
-2. Select **MetaMask** (or another supported wallet) and connect.  
-3. Ensure you are connected to the correct network.  
-
-
-## **② Select Tokens for Swap**  
-
-1. On the swap screen, choose the tokens you want to exchange.  
-   - **Example: Swapping USDT for ETH**  
-   - Select **USDT** in the "From" field.  
-   - Select **ETH** in the "To" field.  
-   - Enter the amount of USDT you want to swap (e.g., **100 USDT**, which will display the equivalent ETH based on the current rate).  
-2. Check the **price, gas fee (transaction fee), and slippage tolerance**.  
-3. Confirm the **minimum amount you will receive** (varies based on market liquidity).  
-
-
-## **③ Execute the Swap**  
-
-1. Click the **"Swap"** button.  
-2. Your wallet (e.g., MetaMask) will prompt you for confirmation.  
-3. Review the **gas fee** and confirm the transaction.  
-4. Wait for the transaction to be processed on the blockchain (**this may take a few seconds to a few minutes**).  
-
-
-## **④ Verify Your Transaction**  
-
-1. After the swap is complete, check if **ETH is reflected in your wallet**.  
-2. Verify the transaction on **Etherscan** ([https://etherscan.io/](https://etherscan.io/)).  
-3. Copy the **Transaction ID (Tx Hash)** from **MetaMask's transaction history** or Uniswap’s **transaction records**.  
-4. Search the Tx Hash on **Etherscan** to confirm whether the transaction was successful.
+1. From the network settings of your connected wallet, select the network for the tokens you wish to exchange. 
+   Example: MetaMask
+    
+    ![image.png](/img/docs/swap_3.png)
+    
+2. Choose the tokens you want to exchange in the From and To dropdown menus.
+    
+    ![image.png](/img/docs/swap_4.png)
+    
+3. Enter the amount you wish to exchange. When you input the amount, the estimated amount of the receiving token and the exchange rate will be automatically displayed.
+    
+    ![image.png](/img/docs/swap_5.png)
+    
+4. Click the "Swap" button. Upon clicking, a final confirmation popup will appear. If the displayed information is correct, click the "Confirm Swap" button.
+    
+    ![image.png](/img/docs/swap_6.png)
+    
+5. A popup from the wallet (such as MetaMask) will appear. Review the details such as transaction fees, and confirm the transaction.
+6. Once the transaction is processed on the blockchain, it will be reflected in your wallet. Depending on the blockchain congestion, processing may take a few seconds to several minutes.

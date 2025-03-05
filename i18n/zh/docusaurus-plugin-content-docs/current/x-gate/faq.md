@@ -1,69 +1,50 @@
 ---
-sidebar_label: 常见问题
+sidebar_label: 常见问题解答
 sidebar_position: 2
 ---
 
-# X-Gate 常见问题
+# X-Gate 常见问题解答
 
-### **X-Gate 支持哪些网络？**
+### 问：使用 X-Gate 需要开设账户吗？
 
-X-Gate 支持以下 **5 个网络**：
+答：不需要像传统交易所那样开设账户。您可以使用自己拥有的钱包来使用 X-Gate。
+
+### 问：什么是钱包？
+
+答：钱包是一种用来存储、接收和发送加密资产的工具。它用于管理私钥，是使用本服务时必须具备的。比较常见的钱包包括[MetaMask](https://metamask.io/)、[Trust Wallet](https://trustwallet.com/)等。
+
+### 问：**交易手续费（Gas 费）是否需要支付？**
+
+答：是的，在进行交易时，需要支付区块链的网络手续费（Gas 费）。另外，手续费的金额会根据网络的拥塞状况而变化。
+
+支付交易手续费所需的代币取决于您所使用的网络。
+
+以下是 X-Gate 支持的网络及其各自的网络手续费代币列表：
+
+- Ethereum：ETH 代币
+- Japan Open Chain：JOC 代币
+- Arbitrum One：ETH 代币
+- Base：ETH 代币
+- Avalanche C-Chain：AVAX 代币
+
+### **问：X-Gate 支持哪些网络？**
+
+答：目前，X-Gate 支持以下五个网络：
 
 - Ethereum
 - Japan Open Chain
-- Arbitrum
+- Arbitrum One
 - Base
-- Avalanche
+- Avalanche C-Chain
 
-### **发送功能支持哪些网络和代币？**
+### **问：可以使用 Send 功能将 USDTX 转移到 USDCX 吗？**
 
-X-Gate 的 **发送** 功能支持在以下网络上转移 **USDTX** 和 **USDCX**：
+答：X-Gate 的 Send 功能仅支持同一代币在不同网络间的转移。USDCX 和 USDTX 之间的兑换请使用 [X-Swap](https://x-swap.org)。
 
-- **支持的网络：**
-  - Ethereum
-  - Japan Open Chain
-  - Arbitrum
-  - Base
-  - Avalanche
-- **支持的代币：**
-  - **USDTX**
-  - **USDCX**
+### **问：可以使用 Ethereum 以外的网络上的 USDT 或 USDC 来铸造 USDTX 或 USDCX 吗？**
 
-### **铸造功能支持哪些网络和代币？**
+答：目前仅支持 Ethereum 网络上的 USDT 或 USDC，不过，目标网络可以自由指定。
 
-在 X-Gate 上，通过锁定 Ethereum 网络上的 **USDT/C**，可以在以下指定网络上 **铸造（发行）USDTX / USDCX**：
+### **问：可以使用 Burn 功能将 USDT 或 USDC 兑换到 Ethereum 以外的网络吗？**
 
-- **支持的网络：**
-  - Ethereum
-  - Japan Open Chain
-  - Arbitrum
-  - Base
-  - Avalanche
-- **支持的代币：**
-  - **USDT → 在其他网络上铸造 USDTX**
-  - **USDC → 在其他网络上铸造 USDCX**
-
-### **燃烧功能支持哪些网络和代币？**
-
-在 X-Gate 上，您可以在以下指定网络上 **燃烧（销毁）USDTX / USDCX** 并在 Ethereum 网络上接收 **USDT / USDC**：
-
-- **支持的网络：**
-  - Ethereum
-  - Japan Open Chain
-  - Arbitrum
-  - Base
-  - Avalanche
-- **支持的代币：**
-  - **USDTX → 在其他网络上接收 USDT**
-  - **USDCX → 在其他网络上接收 USDC**
-
-### **什么是燃料费？**
-
-**燃料费** 是执行交易时需支付的交易费，用于补偿消耗的计算资源。
-
-燃料费根据交易类型和网络拥堵情况而波动。
-
-### **交易没有反映在我的钱包中。**
-
-如果交易状态为 **"待处理"**，可能是由于网络拥堵。
-请在 **Etherscan** 上检查交易状态，或刷新您的 **MetaMask** 钱包进行验证。
+答：目前，X-Gate 仅支持兑换到 Ethereum 网络上的 USDT 或 USDC。

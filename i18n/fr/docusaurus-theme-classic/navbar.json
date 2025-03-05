@@ -9,10 +9,10 @@
     },
     "item.label.Go to x-gate.org": {
         "message": "Aller \u00e0 x-gate.org",
-        "description": "\u00c9l\u00e9ment de la barre de navigation avec l'\u00e9tiquette Aller \u00e0 x-gate.org"
+        "description": "\u00c9l\u00e9ment de barre de navigation avec le libell\u00e9 Aller \u00e0 x-gate.org"
     },
     "item.label.Go to x-swap.org": {
         "message": "Aller \u00e0 x-swap.org",
-        "description": "\u00c9l\u00e9ment de la barre de navigation avec l'\u00e9tiquette Aller \u00e0 x-swap.org"
+        "description": "\u00c9l\u00e9ment de barre de navigation avec le libell\u00e9 Aller \u00e0 x-swap.org"
     }
 }

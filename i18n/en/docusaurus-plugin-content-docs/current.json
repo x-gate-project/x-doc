@@ -7,7 +7,7 @@
         "message": "About X-Gate",
         "description": "The label for category About X-Gate in sidebar tutorialSidebar"
     },
-    "sidebar.tutorialSidebar.category.X-Gate\u306e\u4f7f\u3044\u65b9": {
+    "sidebar.tutorialSidebar.category.X-Gate\u306e\u5229\u7528\u65b9\u6cd5": {
         "message": "How to use X-Gate",
         "description": "The label for category How to use X-Gate in sidebar tutorialSidebar"
     },
@@ -15,7 +15,7 @@
         "message": "About X-Swap",
         "description": "The label for category About X-Swap in sidebar tutorialSidebar"
     },
-    "sidebar.tutorialSidebar.category.X-Swap\u306e\u4f7f\u3044\u65b9": {
+    "sidebar.tutorialSidebar.category.X-Swap\u306e\u5229\u7528\u65b9\u6cd5": {
         "message": "How to use X-Swap",
         "description": "The label for category How to use X-Swap in sidebar tutorialSidebar"
     }

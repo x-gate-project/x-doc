@@ -1,46 +1,19 @@
 ---
-sidebar_label: Quemar
-sidebar_position: 3
+sidebar_label: Burn
+sidebar_position: 4
 ---
 
-# ¿Cómo usar Quemar (Token Burn)?
+# Burn
 
-### **① Conecta Tu Billetera (por ejemplo, MetaMask)**
+## Cómo utilizar Burn (intercambio a USDT / USDC)
 
-1. Haz clic en "Conectar billetera".
+1. En la pantalla de "Burn", seleccione el token y la red de origen desde el menú desplegable de "Burn".
     
-    ![Burn_1.png](/img/docs/Burn_1.png)
-
-    ![Burn_2.png](/img/docs/Burn_2.png)
-        
-2. Selecciona MetaMask (u otra billetera compatible) y conéctala.
-3. Asegúrate de estar conectado a la red correcta.
-
-### **② Configurar el Token para Quemar**
-
-1. En la pantalla de Quemar, selecciona el token que deseas quemar.  
-   **(Ejemplo) Para "USDTX(ETH) → USDTX(JOC)"**  
-   - Selecciona **USDTX** en "De" (el token a quemar).  
-   - Selecciona **ETH** en "Para" (el token a recibir).  
-   - Ingresa la cantidad de **USDTX** que deseas quemar. (Por ejemplo, ingresar "100 USDTX" mostrará la cantidad correspondiente de ETH según la tasa de cambio.)
+    ![Burn_3.png](/img/docs/Burn_1.png)
     
-    ![Burn_3.png](/img/docs/Burn_3.png)
+2. Introduzca la cantidad que desea emitir en el campo de entrada de cantidad de "Burn". Al hacerlo, el campo de cantidad "Out" mostrará el mismo valor numérico que se ha introducido.
     
-    ![Burn_4.png](/img/docs/Burn_4.png)
+    ![image.png](/img/docs/Burn_2.png)
     
-2. Verifica el precio, las tarifas de gas (tarifas de transacción) y el deslizamiento.  
-3. Revisa el "monto mínimo recibido" (que puede variar según la liquidez del mercado).
-
-### **③ Ejecutar Quemar**
-
-1. Haz clic en el botón "Quemar".  
-2. Aparecerá una ventana emergente en tu billetera (por ejemplo, MetaMask).  
-3. Revisa la tarifa de gas y confirma la transacción.  
-4. Espera a que la transacción se procese en la blockchain (esto puede tardar desde unos segundos hasta minutos).
-
-### **④ Verificar la Transacción**
-
-1. Después de finalizar, verifica si el ETH se ha reflejado en tu billetera.  
-2. Verifica la transacción en Etherscan ([https://etherscan.io/](https://etherscan.io/)).  
-3. Copia el ID de la transacción (Tx Hash) del historial de transacciones de MetaMask o del "Historial de Transacciones" de Uniswap.  
-4. Busca el Tx Hash en Etherscan para verificar que la transacción fue exitosa.
+3. Haga clic en el botón "Burn". Después de hacer clic, aparecerá una ventana emergente en su billetera, en la cual deberá verificar los detalles como las tarifas y aprobar la transacción.
+4. Una vez que la transacción se haya completado en la blockchain, los fondos se reflejarán en su billetera. Dependiendo de la congestión de la blockchain, el tiempo de procesamiento puede variar de algunos segundos a varios minutos.

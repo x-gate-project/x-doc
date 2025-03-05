@@ -5,65 +5,46 @@ sidebar_position: 2
 
 # FAQ X-Gate
 
-### **Quels réseaux X-Gate prend-il en charge ?**  
+### Q : Est-il nécessaire de créer un compte pour utiliser X-Gate ?
 
-X-Gate prend en charge les **5 réseaux** suivants :  
+R : Non, il n'est pas nécessaire de créer un compte comme pour une plateforme d'échange traditionnelle. Vous pouvez utiliser X-Gate en utilisant votre propre portefeuille.
 
-- Ethereum  
-- Japan Open Chain  
-- Arbitrum  
-- Base  
-- Avalanche  
+### Q : Qu'est-ce qu'un portefeuille ?
 
-### **Quels réseaux et jetons sont pris en charge par la fonction d'envoi ?**  
+R : Un portefeuille est un outil utilisé pour stocker et envoyer/recevoir des actifs cryptographiques. Il gère vos clés privées et est nécessaire pour utiliser ce service. Parmi les portefeuilles les plus connus, on trouve [MetaMask](https://metamask.io/) et [Trust Wallet](https://trustwallet.com/).
 
-La fonction **Envoyer** de X-Gate permet de transférer **USDTX** et **USDCX** sur les réseaux suivants :  
+### Q : **Y a-t-il des frais de transaction (frais de gas) ?**
 
-- **Réseaux pris en charge :**  
-    - Ethereum  
-    - Japan Open Chain  
-    - Arbitrum  
-    - Base  
-    - Avalanche  
-- **Jetons pris en charge :**  
-    - **USDTX**  
-    - **USDCX**  
+R : Oui, des frais de réseau du blockchain (frais de gas) sont requis pour effectuer des transactions. Le montant des frais peut varier en fonction de l'encombrement du réseau.
 
-### **Quels réseaux et jetons sont pris en charge par la fonction Mint ?**  
+Les jetons nécessaires pour payer les frais de transaction dépendent du réseau utilisé.
 
-Sur X-Gate, en verrouillant **USDT/C** sur le réseau Ethereum, vous pouvez **frapper (émettre) USDTX / USDCX** sur les réseaux suivants :  
+Voici la liste des réseaux pris en charge par X-Gate et des jetons utilisés pour les frais de réseau respectifs :
 
-- **Réseaux pris en charge :**  
-    - Ethereum  
-    - Japan Open Chain  
-    - Arbitrum  
-    - Base  
-    - Avalanche  
-- **Jetons pris en charge :**  
-    - **USDT → Frappez USDTX sur un autre réseau**  
-    - **USDC → Frappez USDCX sur un autre réseau**  
+- Ethereum : Jeton ETH
+- Japan Open Chain : Jeton JOC
+- Arbitrum One : Jeton ETH
+- Base : Jeton ETH
+- Avalanche C-Chain : Jeton AVAX
 
-### **Quels réseaux et jetons sont pris en charge par la fonction Burn ?**  
+### **Q : Quels réseaux sont pris en charge par X-Gate ?**
 
-Sur X-Gate, vous pouvez **brûler (détruire)** **USDTX / USDCX** sur les réseaux spécifiés suivants et recevoir **USDT / USDC** sur le réseau Ethereum :  
+R : Actuellement, X-Gate prend en charge les cinq réseaux suivants :
 
-- **Réseaux pris en charge :**  
-    - Ethereum  
-    - Japan Open Chain  
-    - Arbitrum  
-    - Base  
-    - Avalanche  
-- **Jetons pris en charge :**  
-    - **USDTX → Recevez USDT sur un autre réseau**  
-    - **USDCX → Recevez USDC sur un autre réseau**  
+- Ethereum
+- Japan Open Chain
+- Arbitrum One
+- Base
+- Avalanche C-Chain
 
-### **Qu'est-ce qu'une commission de gas ?**  
+### **Q : Puis-je utiliser la fonction Send pour transférer de l'USDTX à l'USDCX ?**
 
-Une **commission de gas** est la commission de transaction payée lors de l'exécution d'une transaction, qui compense les ressources informatiques consommées.  
+R : La fonction Send de X-Gate ne prend en charge que le transfert entre différents réseaux d'une même devise. Pour échanger entre USDCX et USDTX, veuillez utiliser [X-Swap](https://x-swap.org).
 
-La commission de gas fluctue en fonction du type de transaction et de la congestion du réseau.  
+### **Q : Puis-je utiliser des USDT ou USDC sur un réseau autre que Ethereum pour mint des USDTX ou USDCX ?**
 
-### **La transaction n'apparaît pas dans mon portefeuille.**  
+R : Actuellement, seuls les USDT ou USDC sur le réseau Ethereum sont pris en charge. Toutefois, vous pouvez librement sélectionner le réseau de destination pour l'émission.
 
-Si le statut de la transaction est **"En attente"**, le réseau peut être congestionné.  
-Veuillez vérifier le statut de la transaction sur **Etherscan** ou actualiser votre portefeuille **MetaMask** pour vérifier.
+### **Q : Puis-je utiliser la fonction Burn pour échanger contre des USDT ou USDC sur un réseau autre que Ethereum ?**
+
+R : Actuellement, X-Gate ne prend en charge que l'échange vers des USDT ou USDC sur le réseau Ethereum.

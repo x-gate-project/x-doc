@@ -1,46 +1,19 @@
 ---
 sidebar_label: Burn
-sidebar_position: 3
+sidebar_position: 4
 ---
 
-# Wie benutze ich Burn (Token Verbrennung)?
+# Burn
 
-### **① Verbinden Sie Ihr Wallet (z.B. MetaMask)**
+## Vorgehensweise bei der Nutzung von Burn (Tausch in USDT / USDC)
 
-1. Klicken Sie auf "Wallet verbinden".
+1. Wählen Sie im „Burn“-Bildschirm im Dropdown-Menü unter „Burn“ die zu tauschende Währung und das Netzwerk aus.
+
+    ![Burn_3.png](/img/docs/Burn_1.png)
     
-    ![Burn_1.png](/img/docs/Burn_1.png)
+2. Geben Sie die Menge ein, die Sie umtauschen möchten, in das Mengenfeld von „Burn“ ein. Sobald dies erfolgt ist, wird in dem „Out“-Anzeigefeld dieselbe Zahl angezeigt.
 
-    ![Burn_2.png](/img/docs/Burn_2.png)
-        
-2. Wählen Sie MetaMask (oder ein anderes unterstütztes Wallet) und verbinden Sie es.
-3. Stellen Sie sicher, dass Sie mit dem richtigen Netzwerk verbunden sind.
-
-### **② Konfigurieren Sie das Token für die Verbrennung**
-
-1. Wählen Sie auf dem Verbrennungsbildschirm das Token aus, das Sie verbrennen möchten.  
-   **(Beispiel) Für "USDTX(ETH) → USDTX(JOC)"**  
-   - Wählen Sie **USDTX** bei "Von" (das zu verbrennende Token).  
-   - Wählen Sie **ETH** bei "Zu" (das zu empfangende Token).  
-   - Geben Sie die Menge an **USDTX** ein, die Sie verbrennen möchten. (Zum Beispiel wird bei Eingabe von "100 USDTX" die entsprechende Menge an ETH basierend auf dem Wechselkurs angezeigt.)
+    ![image.png](/img/docs/Burn_2.png)
     
-    ![Burn_3.png](/img/docs/Burn_3.png)
-    
-    ![Burn_4.png](/img/docs/Burn_4.png)
-    
-2. Überprüfen Sie den Kurs, die Gasgebühren (Transaktionsgebühren) und die Slippage.  
-3. Überprüfen Sie die "Mindestmenge, die Sie erhalten" (die je nach Marktiliquidität variieren kann).
-
-### **③ Verbrennen ausführen**
-
-1. Klicken Sie auf die Schaltfläche "Verbrennen".  
-2. Ein Pop-up wird in Ihrem Wallet (z. B. MetaMask) angezeigt.  
-3. Überprüfen Sie die Gasgebühr und bestätigen Sie die Transaktion.  
-4. Warten Sie, bis die Transaktion auf der Blockchain verarbeitet wird (dies kann einige Sekunden bis Minuten dauern).
-
-### **④ Transaktion überprüfen**
-
-1. Prüfen Sie nach Abschluss, ob das ETH in Ihrem Wallet angezeigt wird.  
-2. Überprüfen Sie die Transaktion auf Etherscan ([https://etherscan.io/](https://etherscan.io/)).  
-3. Kopieren Sie die Transaktions-ID (Tx Hash) aus der Transaktionshistorie von MetaMask oder aus Uniswaps „Transaktionshistorie“.  
-4. Suchen Sie den Tx Hash auf Etherscan, um zu bestätigen, dass die Transaktion erfolgreich war.
+3. Klicken Sie auf die Schaltfläche „Burn“. Nachdem Sie darauf geklickt haben, erscheint ein Popup Ihres Wallets, in dem Sie die Gebühren und andere Details überprüfen und dann die Transaktion genehmigen können.
+4. Sobald die Transaktion auf der Blockchain abgeschlossen ist, wird sie in Ihrem Wallet reflektiert. Abhängig von der Netzwerkauslastung kann dies von einigen Sekunden bis zu mehreren Minuten dauern.

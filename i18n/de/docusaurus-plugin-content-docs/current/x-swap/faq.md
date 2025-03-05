@@ -5,25 +5,38 @@ sidebar_position: 2
 
 # X-Swap FAQ
 
-### **Welche Netzwerke unterstützt X-Swap?**  
+### F: Ist die Eröffnung eines Kontos erforderlich, um X-Swap zu nutzen?
 
-X-Swap unterstützt **fünf bedeutende Blockchains**, genau wie X-Gate:  
+A: Eine Kontoregistrierung wie bei herkömmlichen Börsen ist nicht erforderlich. Sie können X-Swap mit Ihrer eigenen Wallet verwenden.
 
-- Ethereum  
-- Japan Open Chain  
-- Arbitrum  
-- Base  
-- Avalanche  
+### F: Was ist eine Wallet?
 
-### **Was ist eine Gasgebühr?**  
+A: Eine Wallet ist ein Tool zur Speicherung und Übertragung von Kryptowährungen. Sie verwaltet den privaten Schlüssel und ist bei der Nutzung dieses Dienstes erforderlich. Zu den gängigsten Wallets gehören [MetaMask](https://metamask.io/) und [Trust Wallet](https://trustwallet.com/).
 
-Eine Gasgebühr ist die Transaktionsgebühr, die erforderlich ist, um Operationen auf einer Blockchain durchzuführen.  
+### F: **Fallen Transaktionsgebühren (Gasgebühren) an?**
 
-Da die Ausführung einer Transaktion Rechenressourcen verbraucht, muss eine Gebühr als Entschädigung gezahlt werden.  
+A: Ja, bei Transaktionen fallen die Netzwerkgebühren der Blockchain (Gasgebühren) an. Die Höhe der Gebühren variiert je nach Netzwerkauslastung.
 
-Die Gasgebühr variiert je nach Art der Transaktion und der Netzwerkauslastung.  
+Die benötigten Tokens zur Bezahlung der Transaktionsgebühr unterscheiden sich je nach genutztem Netzwerk.
 
-### **Die Transaktion wird nicht in meiner Wallet angezeigt.**  
+Nachfolgend finden Sie eine Liste der Netzwerke, die von X-Gate unterstützt werden, sowie die Tokens, die als Netzwerkgebühren verwendet werden:
 
-Wenn der Transaktionsstatus auf **"Ausstehend"** steht, könnte das Netzwerk ausgelastet sein.  
-Bitte überprüfen Sie den Transaktionsstatus auf **Etherscan** oder aktualisieren Sie Ihre **MetaMask**-Wallet, um dies zu überprüfen.
+- Ethereum: ETH-Token
+- Japan Open Chain: JOC-Token
+- Arbitrum One: ETH-Token
+- Base: ETH-Token
+- Avalanche C-Chain: AVAX-Token
+
+### F: **Welche Netzwerke unterstützt X-Swap?**
+
+A: X-Swap unterstützt die folgenden fünf Netzwerke:
+
+- Ethereum
+- Japan Open Chain
+- Arbitrum One
+- Base
+- Avalanche C-Chain
+
+### F: **Können Swaps zwischen verschiedenen Netzwerken durchgeführt werden?**
+
+A: Derzeit werden nur Swaps innerhalb desselben Netzwerks unterstützt. Für Transfers von USDTX oder USDCX über mehrere Netzwerke hinweg verwenden Sie bitte [X-Gate](https://x-gate.org).

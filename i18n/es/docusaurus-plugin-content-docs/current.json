@@ -1,13 +1,13 @@
 {
     "version.label": {
-        "message": "\u00faltimo",
+        "message": "\u00faltima",
         "description": "La etiqueta para la versi\u00f3n actual"
     },
     "sidebar.tutorialSidebar.category.X-Gate\u306b\u3064\u3044\u3066": {
         "message": "Acerca de X-Gate",
         "description": "La etiqueta para la categor\u00eda Acerca de X-Gate en la barra lateral tutorialSidebar"
     },
-    "sidebar.tutorialSidebar.category.X-Gate\u306e\u4f7f\u3044\u65b9": {
+    "sidebar.tutorialSidebar.category.X-Gate\u306e\u5229\u7528\u65b9\u6cd5": {
         "message": "C\u00f3mo usar X-Gate",
         "description": "La etiqueta para la categor\u00eda C\u00f3mo usar X-Gate en la barra lateral tutorialSidebar"
     },
@@ -15,7 +15,7 @@
         "message": "Acerca de X-Swap",
         "description": "La etiqueta para la categor\u00eda Acerca de X-Swap en la barra lateral tutorialSidebar"
     },
-    "sidebar.tutorialSidebar.category.X-Swap\u306e\u4f7f\u3044\u65b9": {
+    "sidebar.tutorialSidebar.category.X-Swap\u306e\u5229\u7528\u65b9\u6cd5": {
         "message": "C\u00f3mo usar X-Swap",
         "description": "La etiqueta para la categor\u00eda C\u00f3mo usar X-Swap en la barra lateral tutorialSidebar"
     }

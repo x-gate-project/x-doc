@@ -1,47 +1,20 @@
 ---
 sidebar_label: Enviar
-sidebar_position: 1
+sidebar_position: 2
 ---
+# Enviar
 
-# Cómo usar Enviar (Transferir)
+## Cómo utilizar Send (transferencia entre múltiples redes)
 
-### **① Conecta Tu Billetera (por ejemplo, MetaMask)**
+1. En la pantalla de "Enviar", seleccione las redes y los activos tanto de origen (From) como de destino (To) desde el menú desplegable. 
+   La función de transferencia solo admite la transferencia entre múltiples redes del mismo activo. Los activos que aparecen en el menú desplegable de destino (To) dependen del activo seleccionado en origen (From), así que primero seleccione la red y el activo de origen (From) antes de seleccionar el destino (To).
 
-1. Haz clic en "Conectar billetera".
-    
-    ![Send_1.png](/img/docs/Send_1.png)
-    
-2. Selecciona MetaMask (u otra billetera compatible) y conéctala.
-    
-    ![Send_2.png](/img/docs/Send_2.png)
-    
-3. Asegúrate de estar conectado a la red correcta.
+   ![Send_3.png](/img/docs/Send_3.png)
 
-### **② Configura el Token para Enviar (Transferir)**
+2. Ingrese la cantidad que desea transferir en el campo de cantidad del origen (From). Al ingresar, se mostrará la misma cantidad en el campo de cantidad de destino (To).
+   Si desea transferir a una dirección diferente, marque "Send to another address" para que aparezca un campo de entrada para la dirección de destino.
 
-1. En la pantalla de Enviar, elige el token que deseas enviar.  
-   **(Ejemplo) Para "USDTX(ETH) → USDTX(JOC)"**  
-   - Selecciona **USDTX** como "De" (el token a enviar).  
-   - Selecciona **ETH** como "A" (el token a recibir).  
-   - Ingresa la cantidad de **USDTX** que deseas enviar. (Por ejemplo, al ingresar "100 USDTX" se mostrará la cantidad correspondiente de ETH según el tipo de cambio.)
-    
-    ![Send_3.png](/img/docs/Send_3.png)
+   ![image.png](/img/docs/Send_4.png)
 
-    ![Send_4.png](/img/docs/Send_4.png)
-        
-2. Revisa el precio, las tarifas de gas (tarifas de transacción) y el deslizamiento.  
-3. Revisa la "cantidad mínima recibida" (que puede variar según la liquidez del mercado).
-
-### **③ Ejecutar Enviar (Transferencia)**
-
-1. Haz clic en el botón "Enviar".  
-2. Aparecerá un cuadro emergente en tu billetera (por ejemplo, MetaMask).  
-3. Revisa la tarifa de gas y confirma la transacción.  
-4. Espera a que la transacción se procese en la blockchain (esto puede tardar unos segundos o minutos).
-
-### **④ Verificar la Transacción**
-
-1. Tras la finalización, verifica si el ETH se ha reflejado en tu billetera.  
-2. Consulta la transacción en Etherscan ([https://etherscan.io/](https://etherscan.io/)).  
-3. Copia el ID de transacción (Tx Hash) del historial de transacciones de MetaMask o del "Historial de Transacciones" de Uniswap.  
-4. Busca el Tx Hash en Etherscan para verificar si la transacción fue exitosa.
+3. Haga clic en el botón "Send". Tras hacer clic, aparecerá un pop-up en su monedero, donde deberá revisar las tarifas y demás detalles y aprobar la transacción.
+4. Una vez que la transacción se haya completado en la blockchain, se reflejará en su monedero. Dependiendo del nivel de congestión de la blockchain, el procesamiento puede tardar desde unos segundos hasta varios minutos.

@@ -5,6 +5,10 @@ slug: /
 
 # About the X-Gate Project
 
-The **X-Gate Project** is a system that facilitates the **bridging (transferring)** and **swapping (exchanging)** of stablecoins (**USDTX, USDCX**) across various networks.
+This project provides a platform through two DeFi services, X-Gate and X-Swap, for the issuance of two stablecoins, USDTX and USDCX, their transfer across multiple networks, and exchange into other cryptocurrencies.
 
-This guide offers a clear explanation on how to utilize each function and addresses frequently asked questions.
+**What is USDTX / USDCX?**
+
+USDTX / USDCX are stablecoins that are pegged 1:1 with USDT / USDC, and can be transferred across multiple networks. They are issued by locking USDT / USDC, which are US dollar-backed stablecoins on the Ethereum network.
+
+Through this project, USDTX / USDCX can be sent to other networks and exchanged for other cryptocurrencies, including USDT / USDC.

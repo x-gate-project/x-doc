@@ -1,22 +1,22 @@
 {
     "version.label": {
         "message": "नवीनतम",
-        "description": "वर्तमान संस्करण के लिए लेबल"
+        "description": "संस्करण वर्णन के लिए लेबल"
     },
     "sidebar.tutorialSidebar.category.X-Gateについて": {
         "message": "X-Gate के बारे में",
-        "description": "साइडबार tutorialSidebar में X-Gate के बारे में के लिए श्रेणी लेबल"
+        "description": "साइडबार tutorialSidebar में श्रेणी X-Gate के बारे में के लिए लेबल"
     },
-    "sidebar.tutorialSidebar.category.X-Gateの使い方": {
-        "message": "X-Gate का उपयोग कैसे करें",
-        "description": "साइडबार tutorialSidebar में X-Gate का उपयोग कैसे करें के लिए श्रेणी लेबल"
+    "sidebar.tutorialSidebar.category.X-Gateの利用方法": {
+        "message": "X-Gate के उपयोग की विधि",
+        "description": "साइडबार tutorialSidebar में श्रेणी X-Gate के उपयोग की विधि के लिए लेबल"
     },
     "sidebar.tutorialSidebar.category.X-Swapについて": {
         "message": "X-Swap के बारे में",
-        "description": "साइडबार tutorialSidebar में X-Swap के बारे में के लिए श्रेणी लेबल"
+        "description": "साइडबार tutorialSidebar में श्रेणी X-Swap के बारे में के लिए लेबल"
     },
-    "sidebar.tutorialSidebar.category.X-Swapの使い方": {
-        "message": "X-Swap का उपयोग कैसे करें",
-        "description": "साइडबार tutorialSidebar में X-Swap का उपयोग कैसे करें के लिए श्रेणी लेबल"
+    "sidebar.tutorialSidebar.category.X-Swapの利用方法": {
+        "message": "X-Swap के उपयोग की विधि",
+        "description": "साइडबार tutorialSidebar में श्रेणी X-Swap के उपयोग की विधि के लिए लेबल"
     }
 }

@@ -3,50 +3,33 @@ sidebar_label: Pool
 sidebar_position: 2
 ---
 
-# Pool  
+# Pool
 
-**Un pool (pool de liquidez) es un mecanismo que proporciona la liquidez (suministro de tokens) necesaria para el comercio de criptomonedas.**  
+### **Provisión de Liquidez**
 
-En los DEXs (exchanges descentralizados) como X-Swap, los usuarios pueden **ganar comisiones de transacción depositando criptomonedas en pools de liquidez**.  
+1. Selecciona "Add Liquidity".
+    
+    ![image.png](/img/docs/swap_7.png)
+    
+2. Selecciona el par de tokens al que deseas proveer liquidez desde el menú desplegable.
+    
+    ![image.png](/img/docs/swap_8.png)
+    
+3. Ingresa la cantidad que deseas aportar de uno de los tokens. La proporción de precios debe ser de 1 a 1 entre los pares, por lo que tras ingresar la cantidad de un token, se mostrará automáticamente la cantidad necesaria del otro token según la tasa.
+    
+    ![image.png](/img/docs/swap_9.png)
+    
+4. Haz clic en "Supply" para aprobar la operación de provisión de liquidez en tu monedero.
+5. Una vez que la transacción se complete en la blockchain, se reflejará en tu pool de liquidez.
 
+### **Retiro de Liquidez**
 
-## **① Conecta Tu Billetera**  
-
-1. Haz clic en **"Connect Wallet"**.  
-2. Selecciona y conecta **MetaMask** u otra billetera compatible.  
-3. Asegúrate de estar conectado a la red correcta, como **Ethereum Mainnet o BSC**.  
-
-
-## **② Añadir Liquidez**  
-
-1. Abre la pestaña **"Pool"**.  
-2. Selecciona **"Add Liquidity"**.  
-3. Elige el **par de tokens** para el cual deseas proporcionar liquidez.  
-   - **Ejemplo:** USDT / ETH  
-   - El par debe proporcionarse en una **proporción 1:1**.  
-   - **Ejemplo:** Ingresa **100 USDT** y la cantidad equivalente de ETH.  
-4. Ingresa la cantidad y verifica la **participación en el pool (proporción de tokens LP)**.  
-5. Haz clic en **"Approve"** para permitir el uso de tokens en tu billetera.  
-6. Haz clic en **"Supply"** para aprobar la transacción.  
-7. Confirma la **tarifa de gas** y finaliza la transacción.  
-
-
-## **③ Verificar Recompensas Obtenidas**  
-
-- Cada vez que se produce un intercambio, los proveedores de liquidez reciben una **parte de la tarifa de transacción (por ejemplo, 0.3%)**.  
-- Las recompensas se acumulan en función de la duración de la provisión de liquidez.  
-- Se requieren **tokens LP** al retirar liquidez.  
-
-
-## **④ Retirar Liquidez**  
-
-1. Abre la pestaña **"Pool"**.  
-2. Selecciona tu **par de liquidez**.  
-3. Haz clic en **"Remove"**.  
-4. Elige el porcentaje de retiro (**por ejemplo, 100% para retiro completo**).  
-5. Aprobar la transacción en tu billetera.  
-6. Tus tokens originales (**USDT & ETH**) más las recompensas obtenidas se devolverán a tu billetera.  
-
-**Nota:**  
-- La cantidad de tokens retirados puede variar debido a la **pérdida impermanente**.  
-- Mantener la liquidez durante un período más largo puede **aumentar las recompensas por tarifas**.
+1. En la pantalla de "Pool", selecciona "Manage" para el par de liquidez que deseas retirar y haz clic en "Remove".
+    
+    ![image.png](/img/docs/swap_10.png)
+    
+2. Selecciona el porcentaje a retirar y haz clic en los botones "Approve" y luego "Remove" para aprobarlo en tu monedero.
+    
+    ![image.png](/img/docs/swap_11.png)
+    
+3. La cantidad seleccionada del par de tokens se liberará y los tokens originales (en el ejemplo de la captura de pantalla anterior, JOC y USDTX) se devolverán a tu monedero.

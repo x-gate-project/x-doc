@@ -5,65 +5,46 @@ sidebar_position: 2
 
 # X-Gate FAQ
 
-### **Welche Netzwerke unterstützt X-Gate?**
+### F: Benötige ich ein Konto, um X-Gate zu nutzen?
 
-X-Gate unterstützt die folgenden **5 Netzwerke**:
+A: Eine Kontoeröffnung wie bei einer herkömmlichen Börse ist nicht erforderlich. Sie können X-Gate mit einer eigenen Wallet nutzen.
+
+### F: Was ist eine Wallet?
+
+A: Eine Wallet ist ein Tool zur Aufbewahrung sowie zum Senden und Empfangen von Kryptowährungen. Sie verwaltet private Schlüssel, die für die Nutzung dieses Dienstes erforderlich sind. Zu den bekanntesten Wallets zählen [MetaMask](https://metamask.io/) und [Trust Wallet](https://trustwallet.com/).
+
+### F: **Fallen Transaktionsgebühren (Gas-Gebühren) an?**
+
+A: Ja, bei der Durchführung von Transaktionen fallen Netzwerkgebühren auf der Blockchain (Gas-Gebühren) an. Der Betrag der Gebühr variiert je nach Netzauslastung.
+
+Die für die Bezahlung der Transaktionsgebühren benötigten Tokens unterscheiden sich je nach genutztem Netzwerk.
+
+Hier ist eine Liste der Netzwerke, die von X-Gate unterstützt werden, sowie der Token, die für die jeweiligen Netzwerkgebühren verwendet werden:
+
+- Ethereum: ETH-Token
+- Japan Open Chain: JOC-Token
+- Arbitrum One: ETH-Token
+- Base: ETH-Token
+- Avalanche C-Chain: AVAX-Token
+
+### F: **Welche Netzwerke werden von X-Gate unterstützt?**
+
+A: Derzeit unterstützt X-Gate die folgenden fünf Netzwerke:
 
 - Ethereum
 - Japan Open Chain
-- Arbitrum
+- Arbitrum One
 - Base
-- Avalanche
+- Avalanche C-Chain
 
-### **Welche Netzwerke und Tokens werden von der Send-Funktion unterstützt?**
+### F: **Kann ich die Send-Funktion nutzen, um von USDTX zu USDCX zu transferieren?**
 
-Mit der **Send**-Funktion von X-Gate können Sie **USDTX** und **USDCX** über die folgenden Netzwerke transferieren:
+A: Die Send-Funktion von X-Gate unterstützt nur den Transfer von Tokens desselben Typs über verschiedene Netzwerke hinweg. Für den Austausch zwischen USDCX und USDTX nutzen Sie bitte [X-Swap](https://x-swap.org).
 
-- **Unterstützte Netzwerke:**
-  - Ethereum
-  - Japan Open Chain
-  - Arbitrum
-  - Base
-  - Avalanche
-- **Unterstützte Tokens:**
-  - **USDTX**
-  - **USDCX**
+### F: **Kann ich USDT oder USDC auf einem anderen Netzwerk als Ethereum verwenden, um USDTX oder USDCX zu minten?**
 
-### **Welche Netzwerke und Tokens werden von der Mint-Funktion unterstützt?**
+A: Derzeit werden nur USDT oder USDC auf dem Ethereum-Netzwerk unterstützt. Das Zielnetzwerk für das Minting kann jedoch frei gewählt werden.
 
-Auf X-Gate können Sie durch das Sperren von **USDT/C** im Ethereum-Netzwerk **USDTX / USDCX Minten (ausgeben)**, und zwar auf den folgenden spezifizierten Netzwerken:
+### F: **Kann ich die Burn-Funktion nutzen, um in USDT oder USDC auf einem anderen Netzwerk als Ethereum zu tauschen?**
 
-- **Unterstützte Netzwerke:**
-  - Ethereum
-  - Japan Open Chain
-  - Arbitrum
-  - Base
-  - Avalanche
-- **Unterstützte Tokens:**
-  - **USDT → USDTX in einem anderen Netzwerk minten**
-  - **USDC → USDCX in einem anderen Netzwerk minten**
-
-### **Welche Netzwerke und Tokens werden von der Burn-Funktion unterstützt?**
-
-Auf X-Gate können Sie **USDTX / USDCX Burnen (zerstören)** auf den folgenden spezifizierten Netzwerken und **USDT / USDC** im Ethereum-Netzwerk erhalten:
-
-- **Unterstützte Netzwerke:**
-  - Ethereum
-  - Japan Open Chain
-  - Arbitrum
-  - Base
-  - Avalanche
-- **Unterstützte Tokens:**
-  - **USDTX → USDT in einem anderen Netzwerk erhalten**
-  - **USDCX → USDC in einem anderen Netzwerk erhalten**
-
-### **Was ist eine Gasgebühr?**
-
-Eine **Gasgebühr** ist die Transaktionsgebühr, die bei der Durchführung einer Transaktion bezahlt wird, um die verbrauchten Rechenressourcen zu kompensieren.
-
-Die Gasgebühr variiert je nach Transaktionstyp und Netzwerkauslastung.
-
-### **Die Transaktion wird in meiner Wallet nicht angezeigt.**
-
-Wenn der Transaktionsstatus **"Pending"** ist, könnte das Netzwerk überlastet sein.  
-Bitte überprüfen Sie den Transaktionsstatus auf **Etherscan** oder aktualisieren Sie Ihre **MetaMask**-Wallet, um dies zu verifizieren.
+A: Derzeit unterstützt X-Gate nur den Tausch in USDT oder USDC auf dem Ethereum-Netzwerk.

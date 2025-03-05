@@ -3,27 +3,40 @@ sidebar_label: FAQ
 sidebar_position: 2
 ---
 
-# FAQ de X-Swap
+# FAQ sur X-Swap
 
-### **Quelles sont les blockchains prises en charge par X-Swap ?**
+### Q : Est-il nécessaire d'ouvrir un compte pour utiliser X-Swap ?
 
-X-Swap prend en charge **cinq blockchains majeures**, tout comme X-Gate :
+R : Non, il n'est pas nécessaire d'ouvrir un compte comme pour les plateformes d'échange habituelles. Vous pouvez utiliser X-Swap avec un portefeuille crypto que vous possédez.
+
+### Q : Qu'est-ce qu'un portefeuille ?
+
+R : Un portefeuille est un outil qui vous permet de stocker, d'envoyer et de recevoir des actifs crypto. Il gère vos clés privées et est essentiel pour utiliser ce service. Des portefeuilles connus incluent [MetaMask](https://metamask.io/) et [Trust Wallet](https://trustwallet.com/).
+
+### Q : **Y a-t-il des frais de transaction (gaz) ?**
+
+R : Oui, des frais de réseau blockchain (frais de gaz) sont requis lors des transactions. Le montant de ces frais peut varier en fonction de la congestion du réseau.
+
+Les jetons requis pour payer les frais de transaction dépendent du réseau utilisé.
+
+Voici les réseaux compatibles avec X-Gate, ainsi que les jetons utilisés pour les frais de réseau correspondants :
+
+- Ethereum : Jeton ETH
+- Japan Open Chain : Jeton JOC
+- Arbitrum One : Jeton ETH
+- Base : Jeton ETH
+- Avalanche C-Chain : Jeton AVAX
+
+### **Q : Quels réseaux sont compatibles avec X-Swap ?**
+
+R : X-Swap est compatible avec les cinq réseaux suivants :
 
 - Ethereum
 - Japan Open Chain
-- Arbitrum
+- Arbitrum One
 - Base
-- Avalanche
+- Avalanche C-Chain
 
-### **Qu'est-ce qu'un frais de gas ?**
+### **Q : Est-il possible d'effectuer des swaps entre différents réseaux ?**
 
-Un frais de gas est la commission de transaction nécessaire pour exécuter des opérations sur une blockchain.
-
-Étant donné que l'exécution d'une transaction consomme des ressources informatiques, une commission doit être payée en compensation.
-
-Le frais de gas varie en fonction du type de transaction et de la congestion du réseau.
-
-### **La transaction n'apparaît pas dans mon portefeuille.**
-
-Si le statut de la transaction est **"En attente"**, le réseau peut être congestionné.  
-Veuillez vérifier le statut de la transaction sur **Etherscan** ou actualiser votre portefeuille **MetaMask** pour le confirmer.
+R : Actuellement, seuls les swaps au sein d'un même réseau sont pris en charge. Pour le transfert entre différents réseaux de l'USDTX ou du USDCX, veuillez utiliser [X-Gate](https://x-gate.org).

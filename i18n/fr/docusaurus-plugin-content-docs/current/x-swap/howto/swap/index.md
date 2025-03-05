@@ -3,42 +3,24 @@ sidebar_label: Swap
 sidebar_position: 1
 ---
 
-# Swap  
+# Swap
 
-Le **Swap** désigne l'échange d'une cryptomonnaie contre une autre.
+1. Dans les paramètres de réseau de votre portefeuille connecté, sélectionnez le réseau du jeton que vous souhaitez échanger.
+   Exemple : MetaMask
 
-Contrairement aux échanges centralisés (CEX), les **échanges décentralisés (DEX)** comme X-Swap n'utilisent pas de carnet d'ordres. Ils **utilisent plutôt des pools de liquidité** pour faciliter les échanges de tokens.  
+   ![image.png](/img/docs/swap_3.png)
 
+2. Sélectionnez le jeton à échanger dans les menus déroulants From et To respectivement.
 
-## **① Connectez votre portefeuille (MetaMask, etc.)**  
+   ![image.png](/img/docs/swap_4.png)
 
-1. Cliquez sur **"Connecter le portefeuille"**.  
-2. Sélectionnez **MetaMask** (ou un autre portefeuille pris en charge) et connectez-le.  
-3. Assurez-vous d'être connecté au bon réseau.  
+3. Saisissez la quantité à échanger. Dès que vous entrez la quantité, une estimation de la quantité de jetons que vous recevrez en échange, ainsi que le taux d'échange, seront automatiquement affichés.
 
+   ![image.png](/img/docs/swap_5.png)
 
-## **② Sélectionnez les tokens à échanger**  
+4. Cliquez sur le bouton « Swap ». Une fois cliqué, une fenêtre de confirmation finale apparaîtra. Si le contenu affiché ne pose pas de problème, cliquez sur le bouton « Confirm Swap ».
 
-1. Sur l'écran de swap, choisissez les tokens que vous souhaitez échanger.  
-   - **Exemple : Échanger USDT contre ETH**  
-   - Sélectionnez **USDT** dans le champ "De".  
-   - Sélectionnez **ETH** dans le champ "À".  
-   - Entrez le montant d'USDT que vous souhaitez échanger (par exemple, **100 USDT**, ce qui affichera l'équivalent en ETH selon le taux actuel).  
-2. Vérifiez le **prix, les frais de gaz (frais de transaction), et la tolérance au glissement**.  
-3. Confirmez le **montant minimum que vous recevrez** (qui varie en fonction de la liquidité du marché).  
+   ![image.png](/img/docs/swap_6.png)
 
-
-## **③ Exécutez le swap**  
-
-1. Cliquez sur le bouton **"Swap"**.  
-2. Votre portefeuille (par exemple, MetaMask) vous demandera une confirmation.  
-3. Vérifiez les **frais de gaz** et confirmez la transaction.  
-4. Attendez que la transaction soit traitée sur la blockchain (**cela peut prendre de quelques secondes à quelques minutes**).  
-
-
-## **④ Vérifiez votre transaction**  
-
-1. Après que le swap soit terminé, vérifiez si **ETH est visible dans votre portefeuille**.  
-2. Vérifiez la transaction sur **Etherscan** ([https://etherscan.io/](https://etherscan.io/)).  
-3. Copiez l'**ID de transaction (Tx Hash)** du **historique des transactions de MetaMask** ou des **enregistrements de transaction de Uniswap**.  
-4. Recherchez le Tx Hash sur **Etherscan** pour confirmer si la transaction a été réussie.
+5. Une fenêtre contextuelle de votre portefeuille (comme MetaMask) s'affichera. Vérifiez les détails affichés, y compris les frais, puis approuvez la transaction.
+6. Une fois la transaction effectuée sur la blockchain, elle sera reflétée dans votre portefeuille. En fonction de la congestion du réseau blockchain, le processus peut prendre de quelques secondes à plusieurs minutes.

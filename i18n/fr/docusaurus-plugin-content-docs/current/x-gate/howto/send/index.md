@@ -1,47 +1,18 @@
 ---
-sidebar_label: Envoyer
-sidebar_position: 1
+sidebar_label: Send
+sidebar_position: 2
 ---
+# Envoyer
 
-# Comment utiliser Envoyer (Transfert) ?
+## Utilisation de la fonction Send (transfert entre réseaux multiples)
 
-### **① Connectez Votre Portefeuille (par ex., MetaMask)**
+1. Dans l'écran "Envoyer", sélectionnez le réseau et l'actif à transférer d'un réseau source (From) vers un réseau de destination (To) dans le menu déroulant. La fonction de transfert ne supporte que les transferts d'un même actif entre réseaux multiples. Les actifs affichés dans le menu déroulant de destination (To) dépendent de l'actif sélectionné en source (From), donc veuillez d'abord choisir le réseau et l'actif source (From) avant de sélectionner la destination (To).
 
-1. Cliquez sur "Connect wallet".
-    
-    ![Send_1.png](/img/docs/Send_1.png)
-    
-2. Sélectionnez MetaMask (ou un autre portefeuille compatible) et connectez-le.
-    
-    ![Send_2.png](/img/docs/Send_2.png)
-    
-3. Assurez-vous d'être connecté au bon réseau.
+![Send_3.png](/img/docs/Send_3.png)
 
-### **② Configurez le Jeton pour Envoyer (Transfert)**
+2. Entrez la quantité que vous souhaitez transférer dans le champ de saisie de quantité du réseau source (From). Une fois la quantité saisie, le champ de quantité de destination (To) affichera le même montant. Si vous souhaitez transférer à une adresse différente, cochez "Envoyer vers une autre adresse", ce qui fera apparaître un champ de saisie d'adresse pour entrer l'adresse de destination.
 
-1. Sur l'écran d'envoi, choisissez le jeton que vous souhaitez envoyer.  
-   **(Exemple) Pour "USDTX(ETH) → USDTX(JOC)"**  
-   - Sélectionnez **USDTX** pour "De" (le jeton à envoyer).  
-   - Sélectionnez **ETH** pour "À" (le jeton à recevoir).  
-   - Entrez le montant d'**USDTX** que vous souhaitez envoyer. (Par exemple, entrer "100 USDTX" affichera le montant équivalent d'ETH en fonction du taux de change.)
-    
-    ![Send_3.png](/img/docs/Send_3.png)
+![image.png](/img/docs/Send_4.png)
 
-    ![Send_4.png](/img/docs/Send_4.png)
-        
-2. Vérifiez le prix, les frais de gaz (frais de transaction) et la tolérance au glissement.  
-3. Revoyez le "montant minimum reçu" (qui peut varier en fonction de la liquidité du marché).
-
-### **③ Exécuter Envoyer (Transfert)**
-
-1. Cliquez sur le bouton "Envoyer".  
-2. Une fenêtre contextuelle apparaîtra dans votre portefeuille (par ex., MetaMask).  
-3. Revoyez les frais de gaz et confirmez la transaction.  
-4. Attendez que la transaction soit traitée sur la blockchain (ce qui peut prendre de quelques secondes à quelques minutes).
-
-### **④ Vérifiez la Transaction**
-
-1. Après l'achèvement, vérifiez si l'ETH a été reflété dans votre portefeuille.  
-2. Vérifiez la transaction sur Etherscan ([https://etherscan.io/](https://etherscan.io/)).  
-3. Copiez l'identifiant de transaction (Tx Hash) de l'historique des transactions de MetaMask ou des "Historique des Transactions" de Uniswap.  
-4. Recherchez le Tx Hash sur Etherscan pour vérifier si la transaction a été réussie.
+3. Cliquez sur le bouton "Envoyer". Après avoir cliqué, votre portefeuille affichera un pop-up ; vérifiez les informations, y compris les frais, et approuvez la transaction.
+4. Une fois que la transaction est terminée sur la blockchain, elle se reflétera dans votre portefeuille. En fonction de la congestion de la blockchain, le traitement peut prendre de quelques secondes à plusieurs minutes.

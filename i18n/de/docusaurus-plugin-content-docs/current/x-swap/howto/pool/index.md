@@ -3,50 +3,33 @@ sidebar_label: Pool
 sidebar_position: 2
 ---
 
-# Pool  
+# Pool
 
-**Ein Pool (Liquiditätspool) ist ein Mechanismus, der die für den Handel mit Kryptowährungen erforderliche Liquidität (Token-Angebot) bereitstellt.**  
+### **Bereitstellung von Liquidität**
 
-In DEXs (dezentralen Börsen) wie X-Swap können Benutzer **Transaktionsgebühren verdienen, indem sie Kryptowährungen in Liquiditätspools einzahlen**.  
+1. Wählen Sie „Add Liquidity“ (Liquidität hinzufügen) aus.
+    
+    ![image.png](/img/docs/swap_7.png)
+    
+2. Wählen Sie das Token-Paar, zu dem Sie Liquidität bereitstellen möchten, aus dem Dropdown-Menü aus.
+    
+    ![image.png](/img/docs/swap_8.png)
+    
+3. Geben Sie die Menge eines der beiden Tokens ein, die Sie bereitstellen möchten. Da der Preis des Token-Paares im Verhältnis 1:1 bereitgestellt werden muss, wird automatisch die erforderliche Menge des anderen Tokens basierend auf der Rate angezeigt, wenn Sie die Menge eines Tokens eingeben.
+    
+    ![image.png](/img/docs/swap_9.png)
+    
+4. Klicken Sie auf „Supply“ (Bereitstellen), um die Bereitstellung von Liquidität in Ihrem Wallet zu bestätigen.
+5. Sobald die Transaktion auf der Blockchain abgeschlossen ist, wird sie im Liquiditätspool angezeigt.
 
+### **Entnahme von Liquidität**
 
-## **① Verbinde dein Wallet**  
-
-1. Klicke auf **"Wallet verbinden"**.  
-2. Wähle **MetaMask** oder ein anderes unterstütztes Wallet und verbinde es.  
-3. Stelle sicher, dass du mit dem richtigen Netzwerk verbunden bist, wie z.B. **Ethereum Mainnet oder BSC**.  
-
-
-## **② Liquidität hinzufügen**  
-
-1. Öffne den Reiter **"Pool"**.  
-2. Wähle **"Liquidität hinzufügen"**.  
-3. Wähle das **Token-Paar**, für das du Liquidität bereitstellen möchtest.  
-   - **Beispiel:** USDT / ETH  
-   - Das Paar muss im **Verhältnis 1:1** bereitgestellt werden.  
-   - **Beispiel:** Gib **100 USDT** und den entsprechenden Betrag in ETH ein.  
-4. Gib den Betrag ein und überprüfe den **Poolanteil (LP Token-Verhältnis)**.  
-5. Klicke auf **"Genehmigen"**, um die Token-Nutzung in deinem Wallet zu erlauben.  
-6. Klicke auf **"Bereitstellen"**, um die Transaktion zu genehmigen.  
-7. Bestätige die **Gasgebühr** und schließe die Transaktion ab.  
-
-
-## **③ Verdiente Belohnungen überprüfen**  
-
-- Jedes Mal, wenn ein Swap stattfindet, erhalten Liquiditätsanbieter einen **Teil der Transaktionsgebühr (z.B. 0,3%)**.  
-- Belohnungen akkumulieren sich basierend auf der Dauer der Liquiditätsbereitstellung.  
-- **LP-Token** sind erforderlich, wenn Liquidität entnommen wird.  
-
-
-## **④ Liquidität entfernen**  
-
-1. Öffne den Reiter **"Pool"**.  
-2. Wähle dein **Liquiditätspaar**.  
-3. Klicke auf **"Entfernen"**.  
-4. Wähle den Entzugsprozentsatz (**z.B. 100% für vollständigen Entzug**).  
-5. Genehmige die Transaktion in deinem Wallet.  
-6. Deine ursprünglichen Token (**USDT & ETH**) plus die verdienten Belohnungen werden in dein Wallet zurückgezahlt.  
-
-**Hinweis:**  
-- Die Menge der abgehobenen Token kann aufgrund von **unbeständigem Verlust** variieren.  
-- Eine längere Haltezeit der Liquidität kann die **Gebührenbelohnungen erhöhen**.
+1. Wählen Sie im „Pool“-Bildschirm das „Manage” (Verwalten)-Menü des Liquiditätspaares aus, bei dem Sie Liquidität bereitstellen, und klicken Sie auf „Remove“ (Entfernen).
+    
+    ![image.png](/img/docs/swap_10.png)
+    
+2. Wählen Sie den Anteil aus, den Sie entnehmen möchten, und klicken Sie in der Reihenfolge auf „Approve“ (Genehmigen) und „Remove“ (Entfernen), um dies in Ihrem Wallet zu bestätigen.
+    
+    ![image.png](/img/docs/swap_11.png)
+    
+3. Der ausgewählte Anteil des Token-Paares wird freigegeben und die ursprünglichen Tokens (im obigen Screenshot JOC und USDTX) kehren in Ihr Wallet zurück.

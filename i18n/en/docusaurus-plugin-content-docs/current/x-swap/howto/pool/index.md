@@ -3,50 +3,33 @@ sidebar_label: Pool
 sidebar_position: 2
 ---
 
-# Pool  
+# Pool
 
-**A pool (liquidity pool) is a mechanism that ensures the liquidity (availability of tokens) necessary for cryptocurrency trading.**  
+### **Providing Liquidity**
 
-In decentralized exchanges (DEXs) like X-Swap, users can **earn transaction fees by depositing cryptocurrency into liquidity pools**.  
+1. Select "Add Liquidity."
+    
+    ![image.png](/img/docs/swap_7.png)
+    
+2. Choose the token pair you wish to provide liquidity for from the dropdown menu.
+    
+    ![image.png](/img/docs/swap_8.png)
+    
+3. Enter the amount for one of the tokens. The price ratio for the token pair must be offered 1:1, so when you enter the amount for one token, the required amount for the other token will be automatically displayed based on the rate.
+    
+    ![image.png](/img/docs/swap_9.png)
+    
+4. Click "Supply" to approve the liquidity provision transaction in your wallet.
+5. Once the transaction is processed on the blockchain, it will reflect in the liquidity pool.
 
+### **Withdrawing Liquidity**
 
-## **① Connect Your Wallet**  
-
-1. Click **"Connect Wallet"**.  
-2. Select and connect **MetaMask** or another supported wallet.  
-3. Ensure you are connected to the correct network, such as **Ethereum Mainnet or BSC**.  
-
-
-## **② Add Liquidity**  
-
-1. Open the **"Pool"** tab.  
-2. Select **"Add Liquidity"**.  
-3. Choose the **token pair** you wish to provide liquidity for.  
-   - **Example:** USDT / ETH  
-   - The pair must be supplied in a **1:1 ratio**.  
-   - **Example:** Enter **100 USDT** and the equivalent amount of ETH.  
-4. Enter the amount and check the **pool share (LP token ratio)**.  
-5. Click **"Approve"** to authorize token usage in your wallet.  
-6. Click **"Supply"** to authorize the transaction.  
-7. Confirm the **gas fee** and finalize the transaction.  
-
-
-## **③ Check Earned Rewards**  
-
-- Each time a swap occurs, liquidity providers receive a **portion of the transaction fee (e.g., 0.3%)**.  
-- Rewards accumulate based on the duration of liquidity provision.  
-- **LP tokens** are required when withdrawing liquidity.  
-
-
-## **④ Remove Liquidity**  
-
-1. Open the **"Pool"** tab.  
-2. Select your **liquidity pair**.  
-3. Click **"Remove"**.  
-4. Choose the withdrawal percentage (**e.g., 100% for full withdrawal**).  
-5. Approve the transaction in your wallet.  
-6. Your original tokens (**USDT & ETH**) plus earned rewards will be returned to your wallet.  
-
-**Note:**  
-- The amount of tokens withdrawn may vary due to **impermanent loss**.  
-- Holding liquidity for a longer period can **enhance fee rewards**.
+1. From the "Pool" screen, select "Manage" for the liquidity pair you are providing and click "Remove."
+    
+    ![image.png](/img/docs/swap_10.png)
+    
+2. Select the percentage you wish to withdraw and click "Approve" followed by "Remove," then approve the transaction in your wallet.
+    
+    ![image.png](/img/docs/swap_11.png)
+    
+3. The selected percentage of the token pair will be unlocked, and the original tokens (in the above screenshot example, JOC and USDTX) will be returned to your wallet.

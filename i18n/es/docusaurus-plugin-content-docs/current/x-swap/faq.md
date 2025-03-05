@@ -3,27 +3,40 @@ sidebar_label: FAQ
 sidebar_position: 2
 ---
 
-# Preguntas Frecuentes sobre X-Swap
+# FAQ de X-Swap
 
-### **¿Qué redes son compatibles con X-Swap?**
+### P: ¿Es necesario abrir una cuenta para utilizar X-Swap?
 
-X-Swap es compatible con **cinco grandes blockchains**, al igual que X-Gate:
+R: No es necesario abrir una cuenta como en un exchange tradicional. Puede utilizar X-Swap con su propia wallet.
+
+### P: ¿Qué es una wallet?
+
+R: Una wallet es una herramienta para almacenar y enviar/recibir criptoactivos. Es necesario gestionar las claves privadas para utilizar este servicio. Algunas wallets representativas incluyen [MetaMask](https://metamask.io/) y [Trust Wallet](https://trustwallet.com/).
+
+### P: **¿Hay tarifas por transacción (gas)?**
+
+R: Sí, al realizar transacciones, se deben pagar tarifas de red de la blockchain (gas). El monto de las tarifas puede variar según la congestión de la red.
+
+Los tokens necesarios para pagar las tarifas de transacción dependen de la red que esté utilizando.
+
+A continuación se muestra una lista de las redes compatibles con X-Gate y los tokens utilizados como tarifas de red para cada una:
+
+- Ethereum: token ETH
+- Japan Open Chain: token JOC
+- Arbitrum One: token ETH
+- Base: token ETH
+- Avalanche C-Chain: token AVAX
+
+### **P: ¿Con qué redes es compatible X-Swap?**
+
+R: X-Swap es compatible con las siguientes 5 redes:
 
 - Ethereum
 - Japan Open Chain
-- Arbitrum
+- Arbitrum One
 - Base
-- Avalanche
+- Avalanche C-Chain
 
-### **¿Qué es una tarifa de gas?**
+### **P: ¿Se puede realizar Swap entre diferentes redes?**
 
-Una tarifa de gas es la comisión de transacción requerida para ejecutar operaciones en una blockchain.
-
-Dado que ejecutar una transacción consume recursos computacionales, se debe pagar una tarifa como compensación.
-
-La tarifa de gas varía según el tipo de transacción y la congestión de la red.
-
-### **La transacción no se refleja en mi billetera.**
-
-Si el estado de la transacción es **"Pendiente"**, es posible que la red esté congestionada.  
-Por favor, verifica el estado de la transacción en **Etherscan** o actualiza tu billetera **MetaMask** para comprobar.
+R: Actualmente, solo se admiten Swaps dentro de la misma red. Para transferencias entre múltiples redes de USDTX o USDCX, utilice [X-Gate](https://x-gate.org).

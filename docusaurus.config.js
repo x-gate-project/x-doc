@@ -55,7 +55,7 @@ const config = {
       'direction': 'ltr'
     },
     'es': {
-      'label': 'Español',
+      'label': 'español',
       'direction': 'ltr'
     },
     'fr': {

@@ -1,29 +1,42 @@
 ---
-sidebar_label: 常见问题解答
+sidebar_label: 常见问题
 sidebar_position: 2
 ---
 
-# X-Swap 常见问题解答
+# X-Swap 常见问题
 
-### **X-Swap 支持哪些网络？**  
+### 问：使用 X-Swap 是否需要开设账户？
 
-X-Swap 与 X-Gate 相同，支持**五个主要区块链**：
+答：无需像传统交易所那样开设账户。您可以使用您自己的钱包来访问 X-Swap。
 
-- 以太坊
-- 日本开放链
-- Arbitrum
+### 问：什么是钱包？
+
+答：钱包是一种用于储存、收发加密资产的工具。它负责管理私钥，是使用本服务时必需的工具。常见的钱包有 [MetaMask](https://metamask.io/) 和 [Trust Wallet](https://trustwallet.com/) 等。
+
+### 问：**交易手续费（Gas 费用）是否需要支付？**
+
+答：是的，进行交易时需要支付区块链的网络手续费（Gas 费用）。费用金额会随着网络的拥堵状况而变化。
+
+支付交易手续费所需的代币取决于所使用的网络。
+
+以下是 X-Gate 支持的网络及各自网络手续费使用的代币列表：
+
+- Ethereum：ETH 代币
+- Japan Open Chain：JOC 代币
+- Arbitrum One：ETH 代币
+- Base：ETH 代币
+- Avalanche C-Chain：AVAX 代币
+
+### 问：**X-Swap 支持哪些网络？**
+
+答：X-Swap 支持以下五个网络。
+
+- Ethereum
+- Japan Open Chain
+- Arbitrum One
 - Base
-- Avalanche
+- Avalanche C-Chain
 
-### **什么是 Gas 费？**  
+### 问：**可以进行不同网络间的 Swap 吗？**
 
-Gas 费是执行区块链操作所需的交易费用。
-
-因为执行交易消耗计算资源，因此必须支付费用作为补偿。
-
-Gas 费会根据交易类型和网络拥堵情况而变化。
-
-### **交易未反映在我的钱包中。**  
-
-如果交易状态为**“待处理”**，网络可能正在拥堵。
-请在**Etherscan**上检查交易状态或刷新您的**MetaMask**钱包进行验证。
+答：目前仅支持同一网络间的 Swap。关于 USDTX 或 USDCX 的跨网络转账，请使用 [X-Gate](https://x-gate.org)。

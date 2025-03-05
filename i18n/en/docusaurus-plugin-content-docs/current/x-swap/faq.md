@@ -5,25 +5,38 @@ sidebar_position: 2
 
 # X-Swap FAQ
 
-### **Which networks does X-Swap support?**  
+### Q: Do I need to open an account to use X-Swap?
 
-X-Swap supports **five major blockchains**, just like X-Gate:  
+A: No account creation like with traditional exchanges is required. You can utilize X-Swap with the wallet you own.
 
-- Ethereum  
-- Japan Open Chain  
-- Arbitrum  
-- Base  
-- Avalanche  
+### Q: What is a wallet?
 
-### **What is a gas fee?**  
+A: A wallet is a tool for storing and transferring cryptocurrencies. It manages private keys and is essential for using this service. Common wallets include [MetaMask](https://metamask.io/) and [Trust Wallet](https://trustwallet.com/).
 
-A gas fee is the transaction fee required to execute operations on a blockchain.  
+### Q: **Are there any transaction fees (gas fees)?**
 
-Since executing a transaction consumes computational resources, a fee must be paid as compensation.  
+A: Yes, conducting transactions requires blockchain network fees (gas fees). The fee amount varies depending on network congestion.
 
-The gas fee varies depending on the type of transaction and network congestion.  
+The tokens needed to pay transaction fees differ based on the network used.
 
-### **The transaction is not reflected in my wallet.**  
+Below is a list of networks supported by X-Gate and the tokens used as network fees for each:
 
-If the transaction status is **"Pending"**, the network may be congested.  
-Please check the transaction status on **Etherscan** or refresh your **MetaMask** wallet to verify.
+- Ethereum: ETH token
+- Japan Open Chain: JOC token
+- Arbitrum One: ETH token
+- Base: ETH token
+- Avalanche C-Chain: AVAX token
+
+### **Q: Which networks does X-Swap support?**
+
+A: X-Swap supports the following five networks:
+
+- Ethereum
+- Japan Open Chain
+- Arbitrum One
+- Base
+- Avalanche C-Chain
+
+### **Q: Can swaps be conducted between different networks?**
+
+A: Currently, only swaps within the same network are supported. For transferring USDTX or USDCX across multiple networks, please use [X-Gate](https://x-gate.org).
