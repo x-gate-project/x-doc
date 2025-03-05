@@ -5,6 +5,6 @@ sidebar_position: 1
 
 # What is X-Swap?
 
-**X-Swap** is a feature that allows **swapping (exchanging) stablecoins (USDTX, USDCX) across different networks**.
+**X-Swap** とは、異なるネットワーク間で**ステーブルコイン（USDTX、USDCX）のスワップ（交換）** を可能にする機能です。
 
-This enables users to secure liquidity across networks and manage their assets more freely.
+これにより、ユーザーはネットワーク間で流動性を確保し、資産をより自由に管理することができます。

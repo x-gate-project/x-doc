@@ -7,7 +7,7 @@ sidebar_position: 2
 
 ### **Welche Netzwerke unterstützt X-Swap?**  
 
-X-Swap unterstützt **fünf bedeutende Blockchains**, genau wie X-Gate:  
+X-Swap unterstützt **fünf führende Blockchains**, ähnlich wie X-Gate:
 
 - Ethereum  
 - Japan Open Chain  
@@ -15,15 +15,10 @@ X-Swap unterstützt **fünf bedeutende Blockchains**, genau wie X-Gate:
 - Base  
 - Avalanche  
 
-### **Was ist eine Gasgebühr?**  
+### **Was ist eine Gas-Gebühr?**  
 
-Eine Gasgebühr ist die Transaktionsgebühr, die erforderlich ist, um Operationen auf einer Blockchain durchzuführen.  
+Eine Gas-Gebühr ist die Transaktionsgebühr, die erforderlich ist, um Vorgänge auf einer Blockchain auszuführen. Sie entschädigt für die bei der Transaktion genutzten Rechenressourcen. Die Gas-Gebühr kann je nach Art der Transaktion und dem Grad der Netzwerküberlastung variieren.
 
-Da die Ausführung einer Transaktion Rechenressourcen verbraucht, muss eine Gebühr als Entschädigung gezahlt werden.  
+### **Die Transaktion wird nicht in meinem Wallet angezeigt.**  
 
-Die Gasgebühr variiert je nach Art der Transaktion und der Netzwerkauslastung.  
-
-### **Die Transaktion wird nicht in meiner Wallet angezeigt.**  
-
-Wenn der Transaktionsstatus auf **"Ausstehend"** steht, könnte das Netzwerk ausgelastet sein.  
-Bitte überprüfen Sie den Transaktionsstatus auf **Etherscan** oder aktualisieren Sie Ihre **MetaMask**-Wallet, um dies zu überprüfen.
+Wenn der Transaktionsstatus **"Ausstehend"** anzeigt, könnte dies auf Netzwerküberlastung zurückzuführen sein. Um dies zu beheben, überprüfen Sie den Transaktionsstatus auf **Etherscan** oder aktualisieren Sie Ihr **MetaMask**-Wallet zur Verifizierung.

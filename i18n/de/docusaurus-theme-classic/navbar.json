@@ -5,14 +5,14 @@
     },
     "logo.alt": {
         "message": "Mein Seitenlogo",
-        "description": "Der alternative Text des Navigationsleistenlogos"
+        "description": "Der Alt-Text des Navigationsleisten-Logos"
     },
     "item.label.Go to x-gate.org": {
         "message": "Gehe zu x-gate.org",
-        "description": "Navigationsleiste-Element mit der Bezeichnung Gehe zu x-gate.org"
+        "description": "Navigationsleistenelement mit Beschriftung Gehe zu x-gate.org"
     },
     "item.label.Go to x-swap.org": {
         "message": "Gehe zu x-swap.org",
-        "description": "Navigationsleiste-Element mit der Bezeichnung Gehe zu x-swap.org"
+        "description": "Navigationsleistenelement mit Beschriftung Gehe zu x-swap.org"
     }
 }

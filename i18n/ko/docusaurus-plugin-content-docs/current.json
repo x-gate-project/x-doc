@@ -1,22 +1,22 @@
 {
     "version.label": {
         "message": "최신",
-        "description": "현재 버전의 레이블"
+        "description": "현재 버전에 대한 라벨"
     },
     "sidebar.tutorialSidebar.category.X-Gateについて": {
         "message": "X-Gate에 대하여",
-        "description": "사이드바 tutorialSidebar의 카테고리 X-Gate에 대하여에 대한 레이블"
+        "description": "사이드바 tutorialSidebar에서 카테고리 X-Gate에 대하여에 대한 라벨"
     },
     "sidebar.tutorialSidebar.category.X-Gateの使い方": {
-        "message": "X-Gate의 사용 방법",
-        "description": "사이드바 tutorialSidebar의 카테고리 X-Gate의 사용 방법에 대한 레이블"
+        "message": "X-Gate 사용 방법",
+        "description": "사이드바 tutorialSidebar에서 카테고리 X-Gate 사용 방법에 대한 라벨"
     },
     "sidebar.tutorialSidebar.category.X-Swapについて": {
         "message": "X-Swap에 대하여",
-        "description": "사이드바 tutorialSidebar의 카테고리 X-Swap에 대하여에 대한 레이블"
+        "description": "사이드바 tutorialSidebar에서 카테고리 X-Swap에 대하여에 대한 라벨"
     },
     "sidebar.tutorialSidebar.category.X-Swapの使い方": {
-        "message": "X-Swap의 사용 방법",
-        "description": "사이드바 tutorialSidebar의 카테고리 X-Swap의 사용 방법에 대한 레이블"
+        "message": "X-Swap 사용 방법",
+        "description": "사이드바 tutorialSidebar에서 카테고리 X-Swap 사용 방법에 대한 라벨"
     }
 }

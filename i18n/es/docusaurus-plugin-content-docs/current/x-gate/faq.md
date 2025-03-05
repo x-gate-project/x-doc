@@ -1,69 +1,69 @@
 ---
-sidebar_label: Preguntas Frecuentes
+sidebar_label: FAQ
 sidebar_position: 2
 ---
 
 # Preguntas Frecuentes de X-Gate
 
-### **¿Qué redes son compatibles con X-Gate?**
+### **¿Qué redes admite X-Gate?**
 
-X-Gate es compatible con las siguientes **5 redes**:
+X-Gate admite las siguientes cinco principales blockchains:
 
-- Ethereum  
-- Japan Open Chain  
-- Arbitrum  
-- Base  
-- Avalanche  
+- Ethereum
+- Japan Open Chain
+- Arbitrum
+- Base
+- Avalanche
 
 ### **¿Qué redes y tokens son compatibles con la función Enviar?**
 
-La función **Enviar** de X-Gate te permite transferir **USDTX** y **USDCX** a través de las siguientes redes:
+La función **Enviar** de X-Gate permite la transferencia de **USDTX** y **USDCX** a través de múltiples redes:
 
-- **Redes soportadas:**  
-  - Ethereum  
-  - Japan Open Chain  
-  - Arbitrum  
-  - Base  
-  - Avalanche  
-- **Tokens soportados:**  
-  - **USDTX**  
+- **Redes Compatibles:**
+  - Ethereum
+  - Japan Open Chain
+  - Arbitrum
+  - Base
+  - Avalanche
+
+- **Tokens Compatibles:**
+  - **USDTX**
   - **USDCX**
 
-### **¿Qué redes y tokens son compatibles con la función Mint?**
+### **¿Qué redes y tokens son compatibles con la función Emitir (Mint)?**
 
-En X-Gate, al bloquear **USDT/C** en la red Ethereum, puedes **Acuñar (emitir) USDTX / USDCX** en las siguientes redes especificadas:
+Con X-Gate, puedes bloquear **USDT/C** en la red Ethereum y **Emitir (mint) USDTX / USDCX** en redes especificadas:
 
-- **Redes soportadas:**  
-  - Ethereum  
-  - Japan Open Chain  
-  - Arbitrum  
-  - Base  
-  - Avalanche  
-- **Tokens soportados:**  
-  - **USDT → Acuñar USDTX en otra red**  
-  - **USDC → Acuñar USDCX en otra red**
+- **Redes Compatibles:**
+  - Ethereum
+  - Japan Open Chain
+  - Arbitrum
+  - Base
+  - Avalanche
 
-### **¿Qué redes y tokens son compatibles con la función Quemar?**
+- **Tokens Compatibles:**
+  - **USDT → Emitir USDTX en otra red**
+  - **USDC → Emitir USDCX en otra red**
 
-En X-Gate, puedes **Quemar (destruir)** **USDTX / USDCX** en las siguientes redes especificadas y recibir **USDT / USDC** en la red Ethereum:
+### **¿Qué redes y tokens son compatibles con la función Quemar (Burn)?**
 
-- **Redes soportadas:**  
-  - Ethereum  
-  - Japan Open Chain  
-  - Arbitrum  
-  - Base  
-  - Avalanche  
-- **Tokens soportados:**  
-  - **USDTX → Recibir USDT en otra red**  
+En X-Gate, puedes **Quemar (destruir)** **USDTX / USDCX** en redes especificadas para recibir **USDT / USDC** en la red Ethereum:
+
+- **Redes Compatibles:**
+  - Ethereum
+  - Japan Open Chain
+  - Arbitrum
+  - Base
+  - Avalanche
+
+- **Tokens Compatibles:**
+  - **USDTX → Recibir USDT en otra red**
   - **USDCX → Recibir USDC en otra red**
 
 ### **¿Qué es una tarifa de gas?**
 
-Una **tarifa de gas** es el costo de la transacción que se paga al ejecutar una operación, el cual compensa los recursos computacionales consumidos.
-
-La tarifa de gas fluctúa dependiendo del tipo de transacción y la congestión de la red.
+Una **tarifa de gas** es un costo de transacción incurrido para ejecutar una transacción en la blockchain, proporcionando compensación por los recursos computacionales utilizados. La tarifa varía según el tipo de transacción y el nivel de congestión de la red.
 
 ### **La transacción no se refleja en mi billetera.**
 
-Si el estado de la transacción está **"Pendiente"**, la red puede estar congestionada.  
-Por favor, verifica el estado de la transacción en **Etherscan** o actualiza tu billetera **MetaMask** para comprobarlo.
+Si el estado de tu transacción muestra **"Pendiente"**, la red podría estar congestionada. Verifica el estado de tu transacción en **Etherscan** o actualiza tu billetera **MetaMask** para confirmar.

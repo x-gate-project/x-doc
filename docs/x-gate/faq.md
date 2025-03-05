@@ -5,65 +5,65 @@ sidebar_position: 2
 
 # X-Gate FAQ
 
-### **What networks does X-Gate support?**  
+### **What networks does X-Gate support?**
 
-X-Gate supports the following **5 networks**:  
+X-Gate supports the following five major blockchains:
 
-- Ethereum  
-- Japan Open Chain  
-- Arbitrum  
-- Base  
-- Avalanche  
+- Ethereum
+- Japan Open Chain
+- Arbitrum
+- Base
+- Avalanche
 
-### **What networks and tokens are supported by the Send feature?**  
+### **What networks and tokens are supported by the Send feature?**
 
-X-Gate’s **Send** function allows you to transfer **USDTX** and **USDCX** across the following networks:  
+X-Gate's **Send** function enables the transfer of **USDTX** and **USDCX** across multiple networks:
 
-- **Supported Networks:**  
-    - Ethereum  
-    - Japan Open Chain  
-    - Arbitrum  
-    - Base  
-    - Avalanche  
-- **Supported Tokens:**  
-    - **USDTX**  
-    - **USDCX**  
+- **Supported Networks:**
+  - Ethereum
+  - Japan Open Chain
+  - Arbitrum
+  - Base
+  - Avalanche
 
-### **What networks and tokens are supported by the Mint feature?**  
+- **Supported Tokens:**
+  - **USDTX**
+  - **USDCX**
 
-On X-Gate, by locking **USDT/C** on the Ethereum network, you can **Mint (issue) USDTX / USDCX** on the following specified networks:  
+### **What networks and tokens are supported by the Mint feature?**
 
-- **Supported Networks:**  
-    - Ethereum  
-    - Japan Open Chain  
-    - Arbitrum  
-    - Base  
-    - Avalanche  
-- **Supported Tokens:**  
-    - **USDT → Mint USDTX on another network**  
-    - **USDC → Mint USDCX on another network**  
+With X-Gate, you can lock **USDT/C** on the Ethereum network and **Mint (issue) USDTX / USDCX** on specified networks:
 
-### **What networks and tokens are supported by the Burn feature?**  
+- **Supported Networks:**
+  - Ethereum
+  - Japan Open Chain
+  - Arbitrum
+  - Base
+  - Avalanche
 
-On X-Gate, you can **Burn (destroy)** **USDTX / USDCX** on the following specified networks and receive **USDT / USDC** on the Ethereum network:  
+- **Supported Tokens:**
+  - **USDT → Mint USDTX on another network**
+  - **USDC → Mint USDCX on another network**
 
-- **Supported Networks:**  
-    - Ethereum  
-    - Japan Open Chain  
-    - Arbitrum  
-    - Base  
-    - Avalanche  
-- **Supported Tokens:**  
-    - **USDTX → Receive USDT on another network**  
-    - **USDCX → Receive USDC on another network**  
+### **What networks and tokens are supported by the Burn feature?**
 
-### **What is a gas fee?**  
+On X-Gate, you can **Burn (destroy)** **USDTX / USDCX** on specified networks to receive **USDT / USDC** on the Ethereum network:
 
-A **gas fee** is the transaction fee paid when executing a transaction, which compensates for the computational resources consumed.  
+- **Supported Networks:**
+  - Ethereum
+  - Japan Open Chain
+  - Arbitrum
+  - Base
+  - Avalanche
 
-The gas fee fluctuates depending on the transaction type and network congestion.  
+- **Supported Tokens:**
+  - **USDTX → Receive USDT on another network**
+  - **USDCX → Receive USDC on another network**
 
-### **The transaction is not reflected in my wallet.**  
+### **What is a gas fee?**
 
-If the transaction status is **"Pending"**, the network may be congested.  
-Please check the transaction status on **Etherscan** or refresh your **MetaMask** wallet to verify.  
+A **gas fee** is a transaction cost incurred to execute a transaction on the blockchain, providing compensation for computational resources used. The fee varies with the transaction type and network congestion level.
+
+### **The transaction is not reflected in my wallet.**
+
+If your transaction status shows **"Pending"**, the network might be congested. Verify your transaction status on **Etherscan** or refresh your **MetaMask** wallet to confirm.

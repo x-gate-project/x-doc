@@ -3,50 +3,46 @@ sidebar_label: Pool
 sidebar_position: 2
 ---
 
-# Pool  
+# Pool
 
-**Ein Pool (Liquiditätspool) ist ein Mechanismus, der die für den Handel mit Kryptowährungen erforderliche Liquidität (Token-Angebot) bereitstellt.**  
+Ein **Liquiditätspool** ist ein Mechanismus, der die notwendige Liquidität (Tokenangebot) für den Handel mit Kryptowährungen bereitstellt.
 
-In DEXs (dezentralen Börsen) wie X-Swap können Benutzer **Transaktionsgebühren verdienen, indem sie Kryptowährungen in Liquiditätspools einzahlen**.  
+Auf DEXs (dezentrale Börsen) wie X-Swap können Benutzer durch das Einzahlen von Kryptowährungen in diese Liquiditätspools Transaktionsgebühren verdienen.
 
+## **① Wallet verbinden**
 
-## **① Verbinde dein Wallet**  
+1. Klicken Sie auf **"Wallet verbinden"**.
+2. Wählen und verbinden Sie **MetaMask** oder ein anderes unterstütztes Wallet.
+3. Stellen Sie sicher, dass Sie mit dem richtigen Netzwerk verbunden sind, z. B. dem **Ethereum Mainnet oder BSC**.
 
-1. Klicke auf **"Wallet verbinden"**.  
-2. Wähle **MetaMask** oder ein anderes unterstütztes Wallet und verbinde es.  
-3. Stelle sicher, dass du mit dem richtigen Netzwerk verbunden bist, wie z.B. **Ethereum Mainnet oder BSC**.  
+## **② Liquidität hinzufügen**
 
+1. Öffnen Sie den **"Pool"**-Tab.
+2. Wählen Sie **"Liquidität hinzufügen"**.
+3. Wählen Sie das **Token-Paar**, für das Sie Liquidität bereitstellen möchten.
+   - **Beispiel:** USDT / ETH
+   - Das Paar muss im **Verhältnis 1:1** bereitgestellt werden.
+   - **Beispiel:** Geben Sie **100 USDT** und den entsprechenden Betrag in ETH ein.
+4. Geben Sie den Betrag ein und überprüfen Sie Ihren **Poolanteil (LP-Token-Verhältnis)**.
+5. Klicken Sie auf **"Genehmigen"**, um die Token-Nutzung in Ihrem Wallet zu aktivieren.
+6. Klicken Sie auf **"Bereitstellen"**, um die Transaktion zu autorisieren.
+7. Bestätigen Sie die **Gasgebühr** und schließen Sie die Transaktion ab.
 
-## **② Liquidität hinzufügen**  
+## **③ Erhaltene Belohnungen überprüfen**
 
-1. Öffne den Reiter **"Pool"**.  
-2. Wähle **"Liquidität hinzufügen"**.  
-3. Wähle das **Token-Paar**, für das du Liquidität bereitstellen möchtest.  
-   - **Beispiel:** USDT / ETH  
-   - Das Paar muss im **Verhältnis 1:1** bereitgestellt werden.  
-   - **Beispiel:** Gib **100 USDT** und den entsprechenden Betrag in ETH ein.  
-4. Gib den Betrag ein und überprüfe den **Poolanteil (LP Token-Verhältnis)**.  
-5. Klicke auf **"Genehmigen"**, um die Token-Nutzung in deinem Wallet zu erlauben.  
-6. Klicke auf **"Bereitstellen"**, um die Transaktion zu genehmigen.  
-7. Bestätige die **Gasgebühr** und schließe die Transaktion ab.  
+- Bei jedem Swap verdienen Liquiditätsanbieter einen **Anteil an der Transaktionsgebühr (z. B. 0,3%)**.
+- Die Belohnungen akkumulieren sich basierend darauf, wie lange die Liquidität bereitgestellt wird.
+- **LP-Token** sind notwendig, um Liquidität abzuziehen.
 
+## **④ Liquidität entfernen**
 
-## **③ Verdiente Belohnungen überprüfen**  
-
-- Jedes Mal, wenn ein Swap stattfindet, erhalten Liquiditätsanbieter einen **Teil der Transaktionsgebühr (z.B. 0,3%)**.  
-- Belohnungen akkumulieren sich basierend auf der Dauer der Liquiditätsbereitstellung.  
-- **LP-Token** sind erforderlich, wenn Liquidität entnommen wird.  
-
-
-## **④ Liquidität entfernen**  
-
-1. Öffne den Reiter **"Pool"**.  
-2. Wähle dein **Liquiditätspaar**.  
-3. Klicke auf **"Entfernen"**.  
-4. Wähle den Entzugsprozentsatz (**z.B. 100% für vollständigen Entzug**).  
-5. Genehmige die Transaktion in deinem Wallet.  
-6. Deine ursprünglichen Token (**USDT & ETH**) plus die verdienten Belohnungen werden in dein Wallet zurückgezahlt.  
+1. Öffnen Sie den **"Pool"**-Tab.
+2. Wählen Sie Ihr **Liquiditätspaar**.
+3. Klicken Sie auf **"Entfernen"**.
+4. Wählen Sie den Auszahlungsprozentsatz (**z. B. 100% für eine volle Auszahlung**).
+5. Genehmigen Sie die Transaktion in Ihrem Wallet.
+6. Ihre ursprünglichen Tokens (**USDT & ETH**), zusammen mit den erhaltenen Belohnungen, werden in Ihr Wallet zurücküberwiesen.
 
 **Hinweis:**  
-- Die Menge der abgehobenen Token kann aufgrund von **unbeständigem Verlust** variieren.  
-- Eine längere Haltezeit der Liquidität kann die **Gebührenbelohnungen erhöhen**.
+- Die Menge der zurückgezogenen Tokens kann aufgrund von **impermanentem Verlust** variieren.
+- Eine längere Bereitstellung der Liquidität kann Ihre Gebührenerträge erhöhen.

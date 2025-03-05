@@ -3,45 +3,45 @@ sidebar_label: Senden
 sidebar_position: 1
 ---
 
-# Verwendung von Senden (Übertragen)?
+# So verwenden Sie die Sendefunktion (Transfer)
 
-### **① Verbinden Sie Ihr Wallet (z. B. MetaMask)**
+### **① Verbinden Sie Ihre Wallet (z.B. MetaMask)**
 
 1. Klicken Sie auf "Wallet verbinden".
     
     ![Send_1.png](/img/docs/Send_1.png)
     
-2. Wählen Sie MetaMask (oder ein anderes unterstütztes Wallet) und verbinden Sie es.
+2. Wählen Sie MetaMask (oder eine andere unterstützte Wallet) und verbinden Sie sie.
     
     ![Send_2.png](/img/docs/Send_2.png)
     
 3. Stellen Sie sicher, dass Sie mit dem richtigen Netzwerk verbunden sind.
 
-### **② Richten Sie das Token zum Senden (Übertragen) ein**
+### **② Token für das Senden einrichten**
 
 1. Wählen Sie auf dem Sendebildschirm das Token aus, das Sie senden möchten.  
-   **(Beispiel) Für "USDTX(ETH) → USDTX(JOC)"**  
+   **(Beispiel) Senden von "USDTX (ETH) an USDTX (JOC)"**  
    - Wählen Sie **USDTX** für "Von" (das zu sendende Token).  
-   - Wählen Sie **ETH** für "Zu" (das zu empfangende Token).  
-   - Geben Sie den Betrag von **USDTX** ein, den Sie senden möchten. (Zum Beispiel zeigt die Eingabe von "100 USDTX" die entsprechende Menge ETH basierend auf dem Wechselkurs an.)
+   - Wählen Sie **ETH** für "An" (das Netzwerk/Token, das im Austausch empfangen wird).  
+   - Geben Sie die Menge an **USDTX** ein, die Sie senden möchten. (Zum Beispiel zeigt die Eingabe von "100 USDTX" die entsprechende Menge an ETH basierend auf dem aktuellen Wechselkurs an.)
     
     ![Send_3.png](/img/docs/Send_3.png)
 
     ![Send_4.png](/img/docs/Send_4.png)
         
-2. Überprüfen Sie den Preis, die Gasgebühren (Transaktionsgebühren) und das Slippage.  
-3. Prüfen Sie die "mindestens zu erhaltende Menge" (kann je nach Marktliquidität variieren).
+2. Überprüfen Sie den Preis, die Gasgebühren (Transaktionsgebühren) und die Slippage.  
+3. Bestätigen Sie die "Mindestanzahl der zu empfangenden Einheiten" (dies kann mit der Marktliquidität variieren).
 
-### **③ Ausführung des Sendens (Übertragens)**
+### **③ Den Sendevorgang ausführen (Transfer)**
 
 1. Klicken Sie auf die Schaltfläche "Senden".  
-2. In Ihrem Wallet (z. B. MetaMask) erscheint ein Pop-up-Fenster.  
+2. Ein Pop-up erscheint in Ihrer Wallet (z.B. MetaMask), um die Transaktion zu starten.  
 3. Überprüfen Sie die Gasgebühr und bestätigen Sie die Transaktion.  
-4. Warten Sie, bis die Transaktion auf der Blockchain verarbeitet wurde (dies kann einige Sekunden bis Minuten dauern).
+4. Warten Sie, bis die Transaktion auf der Blockchain verarbeitet wird (dies kann einige Sekunden bis Minuten dauern).
 
 ### **④ Überprüfen Sie die Transaktion**
 
-1. Nach Abschluss prüfen Sie, ob das ETH in Ihrem Wallet reflektiert wurde.  
+1. Nachdem die Transaktion abgeschlossen ist, prüfen Sie, ob das ETH in Ihrer Wallet angezeigt wird.  
 2. Überprüfen Sie die Transaktion auf Etherscan ([https://etherscan.io/](https://etherscan.io/)).  
-3. Kopieren Sie die Transaktions-ID (Tx Hash) aus der Transaktionshistorie von MetaMask oder Uniswaps "Transaktionshistorie".  
-4. Suchen Sie den Tx Hash auf Etherscan, um zu bestätigen, dass die Transaktion erfolgreich war.
+3. Kopieren Sie die Transaktions-ID (Tx Hash) aus dem Transaktionsverlauf Ihrer Wallet.  
+4. Geben Sie den Tx Hash auf Etherscan ein, um sicherzustellen, dass die Transaktion erfolgreich war.

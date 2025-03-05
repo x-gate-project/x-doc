@@ -5,6 +5,6 @@ slug: /
 
 # Über das X-Gate-Projekt
 
-Das **X-Gate-Projekt** ist ein System, das ermöglicht, Stablecoins (**USDTX, USDCX**) zwischen verschiedenen Netzwerken zu **überbrücken (transferieren)** und **zu tauschen (austauschen)**.
+Das **X-Gate-Projekt** bietet ein umfassendes System zum **Überbrücken (Transferieren)** und **Swappen (Austauschen)** von Stablecoins, insbesondere **USDTX** und **USDCX**, über verschiedene Blockchain-Netzwerke hinweg.
 
-Dieser Leitfaden bietet eine klare Erklärung zur Nutzung jeder Funktion und beantwortet häufig gestellte Fragen.
+Dieser Leitfaden liefert klare Anweisungen zur effektiven Nutzung jedes Features des X-Gate-Projekts und beantwortet häufig gestellte Fragen, um Ihre Benutzererfahrung zu verbessern.

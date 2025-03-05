@@ -1,46 +1,46 @@
 ---
-sidebar_label: 燒毀
+sidebar_label: 燃烧
 sidebar_position: 3
 ---
 
-# 如何使用燒毀功能（代幣燒毀）？
+# 如何使用燃烧功能（Token Burn）？
 
-### **① 連接您的錢包（例如，MetaMask）**
+### **① 连接您的钱包（例如 MetaMask）**
 
-1. 點擊“連接錢包”。
+1. 点击 "连接钱包"。
+
+   ![Burn_1.png](/img/docs/Burn_1.png)
+
+   ![Burn_2.png](/img/docs/Burn_2.png)
     
-    ![Burn_1.png](/img/docs/Burn_1.png)
+2. 选择 MetaMask（或其他受支持的钱包）并连接。
+3. 确保您已连接到正确的网络。
 
-    ![Burn_2.png](/img/docs/Burn_2.png)
-        
-2. 選擇MetaMask（或其他支持的錢包）並連接。
-3. 確保您已連接到正確的網絡。
+### **② 设置要燃烧的代币**
 
-### **② 設置要燒毀的代幣**
+1. 在燃烧界面上，选择您希望燃烧的代币。  
+   **例如：** "USDTX(ETH) → USDTX(JOC)"
+   - 选择 **USDTX** 作为 "From"（要燃烧的代币）。  
+   - 选择 **ETH** 作为 "To"（要接收的代币）。  
+   - 输入您希望燃烧的 **USDTX** 数量。例如，输入 "100 USDTX" 将显示根据当前汇率的等值 ETH 数量。
 
-1. 在燒毀屏幕上，選擇要燒毀的代幣。  
-   **（例）為“USDTX(ETH) → USDTX(JOC)”**  
-   - 對於“From”選擇 **USDTX**（要燒毀的代幣）。  
-   - 對於“到”選擇 **ETH**（要接收的代幣）。  
-   - 輸入您想要燒毀的 **USDTX** 金額。（例如，輸入“100 USDTX”將顯示根據匯率相應的ETH數量。）
+   ![Burn_3.png](/img/docs/Burn_3.png)
     
-    ![Burn_3.png](/img/docs/Burn_3.png)
-    
-    ![Burn_4.png](/img/docs/Burn_4.png)
-    
-2. 檢查價格、燃料費（交易費）和滑點。  
-3. 查看“最小接收數量”（這可能會根據市場流動性變化）。
+   ![Burn_4.png](/img/docs/Burn_4.png)
+   
+2. 检查价格、燃气费（交易费）和滑点。  
+3. 确认“收到的最低金额”，这可能会根据市场流动性而变化。
 
-### **③ 執行燒毀**
+### **③ 执行燃烧**
 
-1. 點擊“燒毀”按鈕。  
-2. 您的錢包（例如，MetaMask）將彈出確認窗口。  
-3. 檢查燃料費並確認交易。  
-4. 等待交易在區塊鏈上處理（這可能需要幾秒到幾分鐘）。
+1. 点击 "燃烧" 按钮。  
+2. 您的钱包（例如 MetaMask）会弹出一个确认窗口。  
+3. 检查燃气费并确认交易。  
+4. 等待交易在区块链上处理完成（这可能需要几秒钟到几分钟）。
 
-### **④ 驗證交易**
+### **④ 验证交易**
 
-1. 完成後，檢查您的錢包中是否反映了ETH。  
-2. 在 Etherscan ([https://etherscan.io/](https://etherscan.io/)) 上檢查交易。  
-3. 從 MetaMask 的交易歷史記錄或 Uniswap 的“交易記錄”中復製交易 ID（Tx Hash）。  
-4. 在Etherscan上搜索Tx Hash以確認交易是否成功。
+1. 完成后，检查您的钱包中是否已反映出 ETH。  
+2. 在 Etherscan 上验证交易 ([https://etherscan.io/](https://etherscan.io/))。  
+3. 从 MetaMask 的交易历史或 Uniswap 的"交易记录"中复制交易 ID（Tx Hash）。  
+4. 在 Etherscan 上搜索 Tx Hash 以确保交易成功。

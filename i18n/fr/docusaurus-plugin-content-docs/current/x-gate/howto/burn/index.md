@@ -1,46 +1,46 @@
 ---
-sidebar_label: Burn
+sidebar_label: Brûler
 sidebar_position: 3
 ---
 
-# Comment utiliser Burn (Brûlage de Jetons) ?
+# Comment utiliser la fonctionnalité Brûler (Destruction de tokens) ?
 
 ### **① Connectez votre portefeuille (par ex., MetaMask)**
 
-1. Cliquez sur "Connecter le portefeuille".
-    
+1. Cliquez sur "Connect Wallet."
+
    ![Burn_1.png](/img/docs/Burn_1.png)
 
    ![Burn_2.png](/img/docs/Burn_2.png)
-        
-2. Sélectionnez MetaMask (ou un autre portefeuille pris en charge) et connectez-le.
-3. Assurez-vous que vous êtes connecté au réseau correct.
 
-### **② Configurer le Jeton pour le Brûlage**
+2. Sélectionnez MetaMask (ou un autre portefeuille compatible) et connectez-le.
+3. Assurez-vous d'être connecté au bon réseau.
 
-1. Sur l'écran Burn, sélectionnez le jeton que vous souhaitez brûler.  
-   **(Exemple) Pour "USDTX(ETH) → USDTX(JOC)"**  
-   - Sélectionnez **USDTX** pour "De" (le jeton à brûler).  
-   - Sélectionnez **ETH** pour "À" (le jeton à recevoir).  
-   - Entrez le montant de **USDTX** que vous souhaitez brûler. (Par exemple, entrer "100 USDTX" affichera le montant correspondant d'ETH basé sur le taux de change.)
-    
+### **② Configurez le token à brûler**
+
+1. Sur l'écran de brûlage, choisissez le token que vous souhaitez brûler.  
+   **Exemple :** Pour "USDTX(ETH) → USDTX(JOC)"
+   - Sélectionnez **USDTX** comme "From" (le token à brûler).  
+   - Sélectionnez **ETH** comme "To" (le token à recevoir).  
+   - Entrez la quantité de **USDTX** que vous souhaitez brûler. Par exemple, entrer "100 USDTX" montrera la quantité équivalente d'ETH selon le taux de change actuel.
+
    ![Burn_3.png](/img/docs/Burn_3.png)
-    
+   
    ![Burn_4.png](/img/docs/Burn_4.png)
-    
-2. Vérifiez le prix, les frais de gaz (frais de transaction) et le slippage.  
-3. Examinez le "montant minimum reçu" (qui peut varier en fonction de la liquidité du marché).
 
-### **③ Exécuter le Brûlage**
+2. Vérifiez le prix, les frais de gas (frais de transaction) et le slippage.  
+3. Confirmez le "montant minimum reçu," qui peut changer en fonction de la liquidité du marché.
+
+### **③ Exécutez le brûlage**
 
 1. Cliquez sur le bouton "Burn".  
 2. Une fenêtre pop-up apparaîtra dans votre portefeuille (par ex., MetaMask).  
-3. Vérifiez les frais de gaz et confirmez la transaction.  
-4. Attendez que la transaction soit traitée sur la blockchain (cela peut prendre de quelques secondes à quelques minutes).
+3. Consultez les frais de gas et confirmez la transaction.  
+4. Attendez que la transaction soit traitée sur la blockchain (cela peut prendre quelques secondes à quelques minutes).
 
-### **④ Vérifier la Transaction**
+### **④ Vérifiez la transaction**
 
-1. Après la finalisation, vérifiez si l'ETH a été reflété dans votre portefeuille.  
+1. Une fois terminée, vérifiez si l'ETH est maintenant reflété dans votre portefeuille.  
 2. Vérifiez la transaction sur Etherscan ([https://etherscan.io/](https://etherscan.io/)).  
-3. Copiez l'ID de la transaction (Tx Hash) à partir de l'historique des transactions de MetaMask ou de l'"Historique des Transactions" d'Uniswap.  
-4. Recherchez le Tx Hash sur Etherscan pour vérifier que la transaction a été réussie.
+3. Copiez l'ID de la transaction (Tx Hash) depuis l'historique des transactions de MetaMask ou l'“Historique des Transactions” de Uniswap.  
+4. Recherchez le Tx Hash sur Etherscan pour vous assurer que la transaction a été réalisée avec succès.

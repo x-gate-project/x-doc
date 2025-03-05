@@ -3,49 +3,49 @@
         "message": "Die Seite ist abgest\u00fcrzt.",
         "description": "Der Titel der Fallback-Seite, wenn die Seite abgest\u00fcrzt ist"
     },
-    "theme.BackToTopButton.buttonAriaLabel": {
-        "message": "Zur\u00fcck nach oben scrollen",
-        "description": "Das ARIA-Label f\u00fcr den Zur\u00fcck-zum-Anfang-Knopf"
-    },
     "theme.blog.archive.title": {
         "message": "Archiv",
-        "description": "Der Seiten- und Heldentitel der Blog-Archivseite"
+        "description": "Der Seiten & Helden-Titel der Blog-Archivseite"
     },
     "theme.blog.archive.description": {
         "message": "Archiv",
-        "description": "Die Seiten- und Heldenbeschreibung der Blog-Archivseite"
+        "description": "Die Seiten & Helden-Beschreibung der Blog-Archivseite"
+    },
+    "theme.BackToTopButton.buttonAriaLabel": {
+        "message": "Zur\u00fcck nach oben scrollen",
+        "description": "Die ARIA-Bezeichnung f\u00fcr den Zur\u00fcck-nach-oben-Button"
     },
     "theme.blog.paginator.navAriaLabel": {
         "message": "Navigation der Blog-Listenseite",
-        "description": "Das ARIA-Label f\u00fcr die Blog-Paginierung"
+        "description": "Die ARIA-Bezeichnung f\u00fcr die Blog-Paginierung"
     },
     "theme.blog.paginator.newerEntries": {
         "message": "Neuere Eintr\u00e4ge",
-        "description": "Das Label, um zur Seite mit neueren Blog-Eintr\u00e4gen (vorherige Seite) zu navigieren"
+        "description": "Die Bezeichnung zum Navigieren zur Seite mit neueren Blogeintr\u00e4gen (vorherige Seite)"
     },
     "theme.blog.paginator.olderEntries": {
         "message": "\u00c4ltere Eintr\u00e4ge",
-        "description": "Das Label, um zur Seite mit \u00e4lteren Blog-Eintr\u00e4gen (n\u00e4chste Seite) zu navigieren"
+        "description": "Die Bezeichnung zum Navigieren zur Seite mit \u00e4lteren Blogeintr\u00e4gen (n\u00e4chste Seite)"
     },
     "theme.blog.post.paginator.navAriaLabel": {
         "message": "Blog Post Seiten Navigation",
-        "description": "Das ARIA-Label f\u00fcr die Paginierung der Blogbeitr\u00e4ge"
+        "description": "Die ARIA-Bezeichnung f\u00fcr die Blog-Post-Paginierung"
     },
     "theme.blog.post.paginator.newerPost": {
         "message": "Neuer Post",
-        "description": "Das Blog-Post-Button-Label, um zum neueren/vorherigen Beitrag zu navigieren"
+        "description": "Die Bezeichnung der Schaltfl\u00e4che f\u00fcr den Blogbeitrag, um zu einem neueren/vorherigen Beitrag zu navigieren"
     },
     "theme.blog.post.paginator.olderPost": {
         "message": "\u00c4lterer Post",
-        "description": "Das Blog-Post-Button-Label, um zum \u00e4lteren/n\u00e4chsten Beitrag zu navigieren"
+        "description": "Die Bezeichnung der Schaltfl\u00e4che f\u00fcr den Blogbeitrag, um zu einem \u00e4lteren/n\u00e4chsten Beitrag zu navigieren"
     },
     "theme.tags.tagsPageLink": {
         "message": "Alle Tags anzeigen",
-        "description": "Das Label des Links zur Markenseitenliste"
+        "description": "Die Bezeichnung des Links zur Tagliste-Seite"
     },
     "theme.colorToggle.ariaLabel": {
         "message": "Umschalten zwischen dunkler und heller Ansicht (momentan {mode})",
-        "description": "Das ARIA-Label f\u00fcr den Farbmodus-Umschalter der Navigationsleiste"
+        "description": "Die ARIA-Bezeichnung f\u00fcr den Farbmodus-Umschalter in der Navigationsleiste"
     },
     "theme.colorToggle.ariaLabel.mode.dark": {
         "message": "dunkler Modus",
@@ -55,68 +55,68 @@
         "message": "heller Modus",
         "description": "Der Name f\u00fcr den hellen Farbmodus"
     },
-    "theme.docs.DocCard.categoryDescription.plurals": {
-        "message": "1 Eintrag|{count} Eintr\u00e4ge",
-        "description": "Die Standardbeschreibung f\u00fcr eine Kategoriekarte im generierten Index, wie viele Elemente diese Kategorie umfasst"
-    },
     "theme.docs.breadcrumbs.navAriaLabel": {
         "message": "Breadcrumbs",
-        "description": "Das ARIA-Label f\u00fcr die Breadcrumbs"
+        "description": "Die ARIA-Bezeichnung f\u00fcr die Breadcrumbs"
+    },
+    "theme.docs.DocCard.categoryDescription.plurals": {
+        "message": "1 Eintrag|{count} Eintr\u00e4ge",
+        "description": "Die Standardbeschreibung f\u00fcr eine Kategoriekarte im generierten Index dar\u00fcber, wie viele Elemente diese Kategorie enth\u00e4lt"
     },
     "theme.docs.paginator.navAriaLabel": {
         "message": "Dokumentation Seiten",
-        "description": "Das ARIA-Label f\u00fcr die Dokumenten-Paginierung"
+        "description": "Die ARIA-Bezeichnung f\u00fcr die Dokumentationspaginierung"
     },
     "theme.docs.paginator.previous": {
         "message": "Zur\u00fcck",
-        "description": "Das Label, um zum vorherigen Dokument zu navigieren"
+        "description": "Die Bezeichnung zum Navigieren zum vorherigen Dokument"
     },
     "theme.docs.paginator.next": {
         "message": "Weiter",
-        "description": "Das Label, um zum n\u00e4chsten Dokument zu navigieren"
+        "description": "Die Bezeichnung zum Navigieren zum n\u00e4chsten Dokument"
     },
     "theme.docs.tagDocListPageTitle.nDocsTagged": {
         "message": "Ein doc getaggt|{count} docs getaggt",
-        "description": "Pluralisiertes Label f\u00fcr \"{count} docs getaggt\". Verwende so viele Pluralformen (getrennt durch \"|\"), wie es deine Sprache unterst\u00fctzt (siehe https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+        "description": "Pluralisierte Bezeichnung f\u00fcr \"{count} docs getaggt\". Verwenden Sie so viele Pluralformen (getrennt durch \"|\"), wie Ihre Sprache unterst\u00fctzt (siehe https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
     },
     "theme.docs.tagDocListPageTitle": {
         "message": "{nDocsTagged} mit \"{tagName}\"",
-        "description": "Der Titel der Seite f\u00fcr ein Dokumenten-Tag"
+        "description": "Der Titel der Seite f\u00fcr einen Doku-Tag"
     },
     "theme.docs.versionBadge.label": {
         "message": "Version: {versionLabel}"
     },
     "theme.docs.versions.unreleasedVersionLabel": {
         "message": "Das ist die unver\u00f6ffentlichte Dokumentation f\u00fcr {siteTitle} {versionLabel}.",
-        "description": "Das Label, um dem Benutzer mitzuteilen, dass er eine unver\u00f6ffentlichte Dokumentationsversion durchsucht"
+        "description": "Die Bezeichnung, um dem Nutzer mitzuteilen, dass er eine unver\u00f6ffentlichte Doku-Version durchsucht"
     },
     "theme.docs.versions.unmaintainedVersionLabel": {
         "message": "Das ist die Dokumentation f\u00fcr {siteTitle} {versionLabel} und wird nicht weiter gewartet.",
-        "description": "Das Label, um dem Benutzer mitzuteilen, dass er eine nicht gewartete Dokumentationsversion durchsucht"
+        "description": "Die Bezeichnung, um dem Nutzer mitzuteilen, dass er eine nicht gewartete Doku-Version durchsucht"
     },
     "theme.docs.versions.latestVersionSuggestionLabel": {
         "message": "F\u00fcr die aktuellste Dokumentation bitte auf {latestVersionLink} ({versionLabel}) gehen.",
-        "description": "Das Label, um dem Nutzer mitzuteilen, dass er sich die neueste Version ansehen soll"
+        "description": "Die Bezeichnung, um dem Nutzer mitzuteilen, dass er die neueste Version pr\u00fcfen soll"
     },
     "theme.docs.versions.latestVersionLinkLabel": {
         "message": "letzte Version",
-        "description": "Das Label f\u00fcr den Vorschlagslink der neuesten Version"
+        "description": "Das Label f\u00fcr den Vorschlagslink zur neuesten Version"
     },
     "theme.common.editThisPage": {
         "message": "Diese Seite bearbeiten",
-        "description": "Der Link-Label zum Bearbeiten der aktuellen Seite"
+        "description": "Das Link-Label, um die aktuelle Seite zu bearbeiten"
     },
     "theme.common.headingLinkTitle": {
         "message": "Direkter Link zur {heading}",
-        "description": "Titel f\u00fcr den Link zur \u00dcberschrift"
+        "description": "Titel f\u00fcr Link zur \u00dcberschrift"
     },
     "theme.lastUpdated.atDate": {
         "message": "am {date}",
-        "description": "Die Worte, um zu beschreiben, an welchem Datum eine Seite zuletzt aktualisiert wurde"
+        "description": "Die W\u00f6rter, um das Datum der letzten Aktualisierung einer Seite zu beschreiben"
     },
     "theme.lastUpdated.byUser": {
         "message": "von {user}",
-        "description": "Die Worte, um zu beschreiben, von wem die Seite zuletzt aktualisiert wurde"
+        "description": "Die W\u00f6rter, um zu beschreiben, von wem die Seite zuletzt aktualisiert wurde"
     },
     "theme.lastUpdated.lastUpdatedAtBy": {
         "message": "Letztes Update{atDate}{byUser}",
@@ -124,7 +124,7 @@
     },
     "theme.navbar.mobileVersionsDropdown.label": {
         "message": "Versionen",
-        "description": "Das Label f\u00fcr das Versions-Dropdown in der mobilen Ansicht der Navigationsleiste"
+        "description": "Das Label f\u00fcr das Versions-Dropdown in der mobilen Navigation"
     },
     "theme.NotFound.title": {
         "message": "Seite nicht gefunden",
@@ -136,27 +136,27 @@
     },
     "theme.admonition.caution": {
         "message": "vorsicht",
-        "description": "Das Standardlabel f\u00fcr die Vorsicht-Mahnung (:::caution)"
+        "description": "Das Standard-Label f\u00fcr die Vorsicht-Ermahnung (:::caution)"
     },
     "theme.admonition.danger": {
         "message": "gefahr",
-        "description": "Das Standardlabel f\u00fcr die Gefahr-Mahnung (:::danger)"
+        "description": "Das Standard-Label f\u00fcr die Gefahr-Ermahnung (:::danger)"
     },
     "theme.admonition.info": {
         "message": "info",
-        "description": "Das Standardlabel f\u00fcr die Info-Mahnung (:::info)"
+        "description": "Das Standard-Label f\u00fcr die Info-Ermahnung (:::info)"
     },
     "theme.admonition.note": {
         "message": "hinweis",
-        "description": "Das Standardlabel f\u00fcr die Hinweis-Mahnung (:::note)"
+        "description": "Das Standard-Label f\u00fcr die Hinweis-Ermahnung (:::note)"
     },
     "theme.admonition.tip": {
         "message": "tipp",
-        "description": "Das Standardlabel f\u00fcr die Tipp-Mahnung (:::tip)"
+        "description": "Das Standard-Label f\u00fcr die Tipp-Ermahnung (:::tip)"
     },
     "theme.admonition.warning": {
         "message": "warnung",
-        "description": "Das Standardlabel f\u00fcr die Warnung-Mahnung (:::warning)"
+        "description": "Das Standard-Label f\u00fcr die Warnung-Ermahnung (:::warning)"
     },
     "theme.AnnouncementBar.closeButtonAriaLabel": {
         "message": "Schlie\u00dfen",
@@ -172,31 +172,31 @@
     },
     "theme.CodeBlock.copyButtonAriaLabel": {
         "message": "In die Zwischenablage kopieren",
-        "description": "Das ARIA-Label f\u00fcr die Schaltfl\u00e4che Kopier-Codebl\u00f6cke"
+        "description": "Das ARIA-Label f\u00fcr die Codebl\u00f6cke-Kopieren-Schaltfl\u00e4che"
     },
     "theme.CodeBlock.copy": {
         "message": "Kopieren",
-        "description": "Das Kopier-Button-Label in Codebl\u00f6cken"
+        "description": "Das Kopieren-Button-Label in Codebl\u00f6cken"
     },
     "theme.CodeBlock.wordWrapToggle": {
-        "message": "Umbruch umschalten",
-        "description": "Das Titelattribut f\u00fcr die Umbruchs-Schaltfl\u00e4che der Codeblockzeilen"
+        "message": "Zeilenumbruch umschalten",
+        "description": "Das Title-Attribut f\u00fcr die Umschalt-Schaltfl\u00e4che der Zeilenumbruchfunktion in Codebl\u00f6cken"
     },
     "theme.DocSidebarItem.expandCategoryAriaLabel": {
         "message": "Seitenleistenkategorie '{label}' erweitern",
         "description": "Das ARIA-Label zum Erweitern der Seitenleistenkategorie"
     },
     "theme.DocSidebarItem.collapseCategoryAriaLabel": {
-        "message": "Seitenleistenkategorie '{label}' einklappen",
-        "description": "Das ARIA-Label zum Einklappen der Seitenleistenkategorie"
+        "message": "Seitenleistenkategorie '{label}' reduzieren",
+        "description": "Das ARIA-Label zum Reduzieren der Seitenleistenkategorie"
     },
     "theme.NavBar.navAriaLabel": {
-        "message": "Hauptbereich",
+        "message": "Main",
         "description": "Das ARIA-Label f\u00fcr die Hauptnavigation"
     },
     "theme.navbar.mobileLanguageDropdown.label": {
         "message": "Sprachen",
-        "description": "Das Label f\u00fcr das mobile Sprachumschalter-Dropdown"
+        "description": "Das Label f\u00fcr das mobile Sprachwechsler-Dropdown"
     },
     "theme.NotFound.p1": {
         "message": "Wir konnten nicht finden, wonach Sie gesucht haben.",
@@ -208,59 +208,59 @@
     },
     "theme.TOCCollapsible.toggleButtonLabel": {
         "message": "Auf dieser Seite",
-        "description": "Die Bezeichnung, die vom Knopf auf der einklappbaren Inhaltsverzeichniskomponente verwendet wird"
+        "description": "Die Bezeichnung des Knopfes in der zusammenklappbaren TOC-Komponente"
     },
     "theme.blog.post.readMore": {
         "message": "Mehr lesen",
-        "description": "Die Bezeichnung, die in Blogbeitragsausz\u00fcgen verwendet wird, um zu vollst\u00e4ndigen Blogbeitr\u00e4gen zu verlinken"
+        "description": "Das Label, das in Blogbeitragsausz\u00fcgen verwendet wird, um auf vollst\u00e4ndige Blogbeitr\u00e4ge zu verlinken"
     },
     "theme.blog.post.readMoreLabel": {
         "message": "Mehr lesen \u00fcber {title}",
-        "description": "Die ARIA-Bezeichnung f\u00fcr den Link zu vollst\u00e4ndigen Blogbeitr\u00e4gen aus Ausz\u00fcgen"
+        "description": "Das ARIA-Label f\u00fcr den Link zu vollst\u00e4ndigen Blogbeitr\u00e4gen aus Ausz\u00fcgen"
     },
     "theme.blog.post.readingTime.plurals": {
         "message": "Eine Minute Lesezeit|{readingTime} Minuten Lesezeit",
-        "description": "Pluralisierte Bezeichnung f\u00fcr \"{readingTime} min Lesezeit\". Verwenden Sie so viele Pluralformen (durch \"|\" getrennt), wie Ihre Sprache unterst\u00fctzt (siehe https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+        "description": "Pluralisiertes Label f\u00fcr \"{readingTime} min read\". Verwenden Sie so viele Pluralformen (getrennt durch \"|\"), wie Ihre Sprache unterst\u00fctzt (siehe https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
     },
     "theme.docs.breadcrumbs.home": {
         "message": "Startseite",
-        "description": "Die ARIA-Bezeichnung f\u00fcr die Startseite in den Brotkrumen"
+        "description": "Das ARIA-Label f\u00fcr die Startseite im Breadcrumbs"
     },
     "theme.docs.sidebar.collapseButtonTitle": {
         "message": "Seitenleiste einklappen",
-        "description": "Der Titelattribut f\u00fcr den Einklappknopf der Dokumentseitenleiste"
+        "description": "Das Titelattribut f\u00fcr den Einklappbutton der Dokumentenseitenleiste"
     },
     "theme.docs.sidebar.collapseButtonAriaLabel": {
         "message": "Seitenleiste einklappen",
-        "description": "Der Titelattribut f\u00fcr den Einklappknopf der Dokumentseitenleiste"
+        "description": "Das Titelattribut f\u00fcr den Einklappbutton der Dokumentenseitenleiste"
     },
     "theme.docs.sidebar.navAriaLabel": {
-        "message": "Dokumentseitenleiste",
-        "description": "Die ARIA-Bezeichnung f\u00fcr die Seitenleiste-Navigation"
+        "message": "Dokumentenseitenleiste",
+        "description": "Das ARIA-Label f\u00fcr die Seitenleiste-Navigation"
     },
     "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
         "message": "Navigationsleiste schlie\u00dfen",
-        "description": "Die ARIA-Bezeichnung f\u00fcr den Schlie\u00dfen-Knopf der mobilen Seitenleiste"
+        "description": "Das ARIA-Label f\u00fcr den Schlie\u00dfen-Button der mobilen Seitenleiste"
     },
     "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
         "message": "\u2190 Zur\u00fcck zum Hauptmen\u00fc",
-        "description": "Die Bezeichnung des Zur\u00fcck-Knopfes, um zum Hauptmen\u00fc zur\u00fcckzukehren, im mobilen Navbar-Seitenmen\u00fc (insbesondere zur Anzeige der Dokumentseitenleiste verwendet)"
+        "description": "Die Bezeichnung des Zur\u00fcck-Buttons, um zum Hauptmen\u00fc zur\u00fcckzukehren, innerhalb des mobilen Navbar-Seitenleistensekund\u00e4rmen\u00fcs (insbesondere verwendet, um die Dokumentenseitenleiste anzuzeigen)"
     },
     "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
         "message": "Navigationsleiste umschalten",
-        "description": "Die ARIA-Bezeichnung f\u00fcr den Hamburger-Men\u00fcknopf der mobilen Navigation"
+        "description": "Das ARIA-Label f\u00fcr den Hamburger-Men\u00fc-Button der mobilen Navigation"
     },
     "theme.docs.sidebar.expandButtonTitle": {
         "message": "Seitenleiste ausklappen",
-        "description": "Die ARIA-Bezeichnung und das Titelattribut f\u00fcr den Ausklappknopf der Dokumentseitenleiste"
+        "description": "Das ARIA-Label und Titelattribut f\u00fcr den Ausklappbutton der Dokumentenseitenleiste"
     },
     "theme.docs.sidebar.expandButtonAriaLabel": {
         "message": "Seitenleiste ausklappen",
-        "description": "Die ARIA-Bezeichnung und das Titelattribut f\u00fcr den Ausklappknopf der Dokumentseitenleiste"
+        "description": "Das ARIA-Label und Titelattribut f\u00fcr den Ausklappbutton der Dokumentenseitenleiste"
     },
     "theme.blog.post.plurals": {
         "message": "Ein Post|{count} Posts",
-        "description": "Pluralisierte Bezeichnung f\u00fcr \"{count} Posts\". Verwenden Sie so viele Pluralformen (durch \"|\" getrennt), wie Ihre Sprache unterst\u00fctzt (siehe https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+        "description": "Pluralisiertes Label f\u00fcr \"{count} posts\". Verwenden Sie so viele Pluralformen (getrennt durch \"|\"), wie Ihre Sprache unterst\u00fctzt (siehe https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
     },
     "theme.blog.tagTitle": {
         "message": "{nPosts} getaggt mit \"{tagName}\"",
@@ -276,7 +276,7 @@
     },
     "theme.blog.authorsList.viewAll": {
         "message": "Alle Autoren anzeigen",
-        "description": "Die Bezeichnung des Links zur Autorenseite des Blogs"
+        "description": "Die Bezeichnung des Links, der auf die Blog-Autorenseite zielt"
     },
     "theme.blog.author.noPosts": {
         "message": "Dieser Autor hat noch keine Beitr\u00e4ge geschrieben.",
@@ -284,27 +284,27 @@
     },
     "theme.contentVisibility.unlistedBanner.title": {
         "message": "Nicht gelistete Seite",
-        "description": "Der Titel des Banners f\u00fcr nicht gelisteten Inhalt"
+        "description": "Der Titel des Banners f\u00fcr nicht gelistete Inhalte"
     },
     "theme.contentVisibility.unlistedBanner.message": {
-        "message": "Diese Seite ist nicht gelistet. Suchmaschinen werden sie nicht indexieren, und nur Benutzer mit einem direkten Link k\u00f6nnen darauf zugreifen.",
-        "description": "Die Nachricht des Banners f\u00fcr nicht gelisteten Inhalt"
+        "message": "Diese Seite ist nicht gelistet. Suchmaschinen werden sie nicht indexieren und nur Benutzer mit einem direkten Link k\u00f6nnen darauf zugreifen.",
+        "description": "Die Nachricht des Banners f\u00fcr nicht gelistete Inhalte"
     },
     "theme.contentVisibility.draftBanner.title": {
-        "message": "Entwurfsseite",
-        "description": "Der Titel des Entwurfsinhaltsbanners"
+        "message": "Entwurfseite",
+        "description": "Der Titel des Banners f\u00fcr Entwurfsinhalte"
     },
     "theme.contentVisibility.draftBanner.message": {
-        "message": "Diese Seite ist ein Entwurf. Sie wird nur in der Entwicklung sichtbar sein und vom Produktionsbuild ausgeschlossen.",
-        "description": "Die Nachricht des Entwurfsinhaltsbanners"
+        "message": "Diese Seite ist ein Entwurf. Sie wird nur in der Entwicklung sichtbar sein und vom Produktions-Build ausgeschlossen werden.",
+        "description": "Die Nachricht des Banners f\u00fcr Entwurfsinhalte"
     },
     "theme.ErrorPageContent.tryAgain": {
         "message": "Nochmal versuchen",
-        "description": "Die Beschriftung des Buttons, um es erneut zu versuchen, wenn die React-Fehlergrenze einen Fehler erfasst"
+        "description": "Die Beschriftung des Buttons zum erneuten Rendern, wenn die React-Error-Grenze einen Fehler erfasst"
     },
     "theme.common.skipToMainContent": {
         "message": "Zum Hauptinhalt springen",
-        "description": "Die Beschriftung \u201eZum Inhalt springen\u201c, die f\u00fcr die Barrierefreiheit verwendet wird, um mit der Tastaturnavigation (Tabulator/Eingabetaste) schnell zum Hauptinhalt zu navigieren"
+        "description": "Die Beschriftung \"Zum Inhalt springen\", die f\u00fcr Barrierefreiheit verwendet wird, um schnell mit Tastaturtabulator/Eingabetaste zum Hauptinhalt zu navigieren"
     },
     "theme.tags.tagsPageTitle": {
         "message": "Tags",

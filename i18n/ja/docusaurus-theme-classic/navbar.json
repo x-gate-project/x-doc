@@ -4,15 +4,15 @@
         "description": "\u30ca\u30d3\u30d0\u30fc\u306e\u30bf\u30a4\u30c8\u30eb"
     },
     "logo.alt": {
-        "message": "\u30de\u30a4\u30b5\u30a4\u30c8\u30ed\u30b4",
-        "description": "\u30ca\u30d3\u30d0\u30fc\u30ed\u30b4\u306e\u4ee3\u66ff\u30c6\u30ad\u30b9\u30c8"
+        "message": "\u79c1\u306e\u30b5\u30a4\u30c8\u30ed\u30b4",
+        "description": "\u30ca\u30d3\u30d0\u30fc\u306e\u30ed\u30b4\u306e\u4ee3\u66ff\u30c6\u30ad\u30b9\u30c8"
     },
     "item.label.Go to x-gate.org": {
-        "message": "x-gate.org \u306b\u884c\u304f",
-        "description": "\u30ca\u30d3\u30d0\u30fc\u9805\u76ee\u306e\u30e9\u30d9\u30eb: x-gate.org \u306b\u884c\u304f"
+        "message": "x-gate.org \u3078\u79fb\u52d5",
+        "description": "\u30e9\u30d9\u30eb\u304c\u300cx-gate.org \u306b\u79fb\u52d5\u300d\u306e\u30ca\u30d3\u30d0\u30fc\u9805\u76ee"
     },
     "item.label.Go to x-swap.org": {
-        "message": "x-swap.org \u306b\u884c\u304f",
-        "description": "\u30ca\u30d3\u30d0\u30fc\u9805\u76ee\u306e\u30e9\u30d9\u30eb: x-swap.org \u306b\u884c\u304f"
+        "message": "x-swap.org \u3078\u79fb\u52d5",
+        "description": "\u30e9\u30d9\u30eb\u304c\u300cx-swap.org \u306b\u79fb\u52d5\u300d\u306e\u30ca\u30d3\u30d0\u30fc\u9805\u76ee"
     }
 }

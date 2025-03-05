@@ -3,67 +3,67 @@ sidebar_label: FAQ
 sidebar_position: 2
 ---
 
-# FAQ X-Gate
+# FAQ de X-Gate
 
-### **Quels réseaux X-Gate prend-il en charge ?**  
+### **Quels réseaux X-Gate prend-il en charge ?**
 
-X-Gate prend en charge les **5 réseaux** suivants :  
+X-Gate prend en charge les cinq blockchains majeures suivantes :
 
-- Ethereum  
-- Japan Open Chain  
-- Arbitrum  
-- Base  
-- Avalanche  
+- Ethereum
+- Japan Open Chain
+- Arbitrum
+- Base
+- Avalanche
 
-### **Quels réseaux et jetons sont pris en charge par la fonction d'envoi ?**  
+### **Quels réseaux et jetons sont pris en charge par la fonction d'envoi ?**
 
-La fonction **Envoyer** de X-Gate permet de transférer **USDTX** et **USDCX** sur les réseaux suivants :  
+La fonction **Envoyer** de X-Gate permet le transfert de **USDTX** et **USDCX** sur plusieurs réseaux :
 
-- **Réseaux pris en charge :**  
-    - Ethereum  
-    - Japan Open Chain  
-    - Arbitrum  
-    - Base  
-    - Avalanche  
-- **Jetons pris en charge :**  
-    - **USDTX**  
-    - **USDCX**  
+- **Réseaux pris en charge :**
+  - Ethereum
+  - Japan Open Chain
+  - Arbitrum
+  - Base
+  - Avalanche
 
-### **Quels réseaux et jetons sont pris en charge par la fonction Mint ?**  
+- **Jetons pris en charge :**
+  - **USDTX**
+  - **USDCX**
 
-Sur X-Gate, en verrouillant **USDT/C** sur le réseau Ethereum, vous pouvez **frapper (émettre) USDTX / USDCX** sur les réseaux suivants :  
+### **Quels réseaux et jetons sont pris en charge par la fonction de Mint ?**
 
-- **Réseaux pris en charge :**  
-    - Ethereum  
-    - Japan Open Chain  
-    - Arbitrum  
-    - Base  
-    - Avalanche  
-- **Jetons pris en charge :**  
-    - **USDT → Frappez USDTX sur un autre réseau**  
-    - **USDC → Frappez USDCX sur un autre réseau**  
+Avec X-Gate, vous pouvez verrouiller des **USDT/C** sur le réseau Ethereum et **émettre (Mint) USDTX / USDCX** sur des réseaux spécifiés :
 
-### **Quels réseaux et jetons sont pris en charge par la fonction Burn ?**  
+- **Réseaux pris en charge :**
+  - Ethereum
+  - Japan Open Chain
+  - Arbitrum
+  - Base
+  - Avalanche
 
-Sur X-Gate, vous pouvez **brûler (détruire)** **USDTX / USDCX** sur les réseaux spécifiés suivants et recevoir **USDT / USDC** sur le réseau Ethereum :  
+- **Jetons pris en charge :**
+  - **USDT → Émettre USDTX sur un autre réseau**
+  - **USDC → Émettre USDCX sur un autre réseau**
 
-- **Réseaux pris en charge :**  
-    - Ethereum  
-    - Japan Open Chain  
-    - Arbitrum  
-    - Base  
-    - Avalanche  
-- **Jetons pris en charge :**  
-    - **USDTX → Recevez USDT sur un autre réseau**  
-    - **USDCX → Recevez USDC sur un autre réseau**  
+### **Quels réseaux et jetons sont pris en charge par la fonction de Burn ?**
 
-### **Qu'est-ce qu'une commission de gas ?**  
+Sur X-Gate, vous pouvez **Brûler (détruire)** **USDTX / USDCX** sur des réseaux spécifiés pour recevoir **USDT / USDC** sur le réseau Ethereum :
 
-Une **commission de gas** est la commission de transaction payée lors de l'exécution d'une transaction, qui compense les ressources informatiques consommées.  
+- **Réseaux pris en charge :**
+  - Ethereum
+  - Japan Open Chain
+  - Arbitrum
+  - Base
+  - Avalanche
 
-La commission de gas fluctue en fonction du type de transaction et de la congestion du réseau.  
+- **Jetons pris en charge :**
+  - **USDTX → Recevoir USDT sur un autre réseau**
+  - **USDCX → Recevoir USDC sur un autre réseau**
 
-### **La transaction n'apparaît pas dans mon portefeuille.**  
+### **Qu'est-ce qu'une frais de gaz ?**
 
-Si le statut de la transaction est **"En attente"**, le réseau peut être congestionné.  
-Veuillez vérifier le statut de la transaction sur **Etherscan** ou actualiser votre portefeuille **MetaMask** pour vérifier.
+Un **frais de gaz** est le coût transactionnel engagé pour exécuter une transaction sur la blockchain, fournissant une compensation pour les ressources computationnelles utilisées. Le montant des frais varie en fonction du type de transaction et du niveau de congestion du réseau.
+
+### **La transaction n'apparaît pas dans mon portefeuille.**
+
+Si l'état de votre transaction indique **"En attente"**, le réseau pourrait être congestionné. Vérifiez l'état de votre transaction sur **Etherscan** ou actualisez votre portefeuille **MetaMask** pour confirmer.

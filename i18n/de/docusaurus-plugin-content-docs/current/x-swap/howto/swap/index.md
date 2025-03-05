@@ -7,34 +7,34 @@ sidebar_position: 1
 
 **Swap bezieht sich auf den Austausch einer Kryptowährung gegen eine andere.**
 
-Im Gegensatz zu zentralisierten Börsen (CEX) verwenden **dezentralisierte Börsen (DEX)** wie X-Swap kein Orderbuch. Stattdessen nutzen sie **Liquiditätspools**, um Token-Swaps zu erleichtern.
+Im Gegensatz zu zentralisierten Börsen (CEX) stützen sich **dezentrale Börsen (DEX)** wie X-Swap nicht auf ein Orderbuch. Stattdessen nutzen sie **Liquiditätspools**, um Token-Swaps effizient zu erleichtern.
 
-## **① Wallet verbinden (MetaMask usw.)**
+## **① Wallet verbinden (MetaMask, etc.)**
 
-1. Klicke auf **"Wallet verbinden"**.
-2. Wähle **MetaMask** (oder ein anderes unterstütztes Wallet) und verbinde es.
-3. Stelle sicher, dass du mit dem richtigen Netzwerk verbunden bist.
+1. Klicken Sie auf **"Connect Wallet"**.  
+2. Wählen Sie Ihre Wallet, wie zum Beispiel **MetaMask**, und verbinden Sie sie.  
+3. Stellen Sie sicher, dass Sie mit dem richtigen Netzwerk verbunden sind.
 
-## **② Auswahl der Token für den Swap**
+## **② Tokens für den Swap auswählen**
 
-1. Wähle auf dem Swap-Bildschirm die Token aus, die du tauschen möchtest.
-   - **Beispiel: USDT gegen ETH tauschen**
-   - Wähle im Feld "Von" **USDT**.
-   - Wähle im Feld "Zu" **ETH**.
-   - Gib die Menge an USDT ein, die du tauschen möchtest (z. B. **100 USDT**, was den entsprechenden ETH-Betrag basierend auf dem aktuellen Kurs anzeigt).
-2. Überprüfe den **Preis, die Gasgebühr (Transaktionsgebühr) und die Slippage-Toleranz**.
-3. Bestätige den **Mindestbetrag, den du erhalten wirst** (variiert je nach Marktlage).
+1. Wählen Sie auf dem Swap-Bildschirm die Tokens aus, die Sie austauschen möchten.  
+   - *Beispiel: Swapping USDT gegen ETH*  
+   - Wählen Sie **USDT** im Feld "From".  
+   - Wählen Sie **ETH** im Feld "To".  
+   - Geben Sie den Betrag an USDT ein, den Sie swappen möchten (z.B. **100 USDT**; der entsprechende Betrag in ETH wird basierend auf dem aktuellen Kurs angezeigt).  
+2. Überprüfen Sie den **Preis, die Gasgebühr (Transaktionsgebühr) und die Slippage-Toleranz**.  
+3. Bestätigen Sie die **Mindestmenge, die Sie erhalten werden**, die je nach Marktliquidität variieren kann.
 
-## **③ Den Swap ausführen**
+## **③ Swap ausführen**
 
-1. Klicke auf die **"Swap"**-Schaltfläche.
-2. Dein Wallet (z. B. MetaMask) wird dich um Bestätigung bitten.
-3. Überprüfe die **Gasgebühr** und bestätige die Transaktion.
-4. Warte, bis die Transaktion auf der Blockchain verarbeitet wird (**dies kann einige Sekunden bis Minuten dauern**).
+1. Klicken Sie auf die Schaltfläche **"Swap"**.  
+2. Bestätigen Sie die Transaktion in Ihrer Wallet (z.B. MetaMask), wenn Sie dazu aufgefordert werden.  
+3. Überprüfen Sie die **Gasgebühr** und bestätigen Sie die Transaktion.  
+4. Warten Sie, während die Transaktion auf der Blockchain verarbeitet wird (dies kann einige Sekunden bis einige Minuten dauern).
 
 ## **④ Transaktion überprüfen**
 
-1. Nachdem der Swap abgeschlossen ist, überprüfe, ob **ETH in deinem Wallet angezeigt wird**.
-2. Verifiziere die Transaktion auf **Etherscan** ([https://etherscan.io/](https://etherscan.io/)).
-3. Kopiere die **Transaktions-ID (Tx Hash)** aus der **Transaktionshistorie von MetaMask** oder den **Transaktionsdaten von Uniswap**.
-4. Suche den Tx Hash auf **Etherscan**, um zu bestätigen, ob die Transaktion erfolgreich war.
+1. Überprüfen Sie nach Abschluss des Swaps, ob **ETH in Ihrer Wallet reflektiert ist**.  
+2. Bestätigen Sie den Transaktionsstatus auf **Etherscan** ([https://etherscan.io/](https://etherscan.io/)).  
+3. Kopieren Sie die **Transaktions-ID (Tx Hash)** aus **MetaMask's Transaktionshistorie** oder aus den **Transaktionsaufzeichnungen** von Uniswap.  
+4. Suchen Sie den Tx Hash auf **Etherscan**, um zu bestätigen, dass die Transaktion erfolgreich war.

@@ -3,67 +3,67 @@ sidebar_label: FAQ
 sidebar_position: 2
 ---
 
-# X-Gateよくある質問（FAQ）
+# X-Gate FAQ
 
-### **X-Gateはどのネットワークをサポートしていますか？**  
+### **X-Gateはどのネットワークをサポートしていますか？**
 
-X-Gateは、以下の**5つのネットワーク**をサポートしています：  
+X-Gateは以下の5つの主要なブロックチェーンをサポートしています：
 
-- Ethereum  
-- Japan Open Chain  
-- Arbitrum  
-- Base  
-- Avalanche  
+- Ethereum
+- Japan Open Chain
+- Arbitrum
+- Base
+- Avalanche
 
-### **Send機能はどのネットワークとトークンをサポートしていますか？**  
+### **Send機能がサポートするネットワークおよびトークンは何ですか？**
 
-X-Gateの**Send**機能では、以下のネットワーク間で**USDTX**および**USDCX**を送信できます：  
+X-Gateの**Send**機能により、**USDTX**および**USDCX**を複数のネットワーク間で転送できます：
 
-- **サポートされているネットワーク：**  
-    - Ethereum  
-    - Japan Open Chain  
-    - Arbitrum  
-    - Base  
-    - Avalanche  
-- **サポートされているトークン：**  
-    - **USDTX**  
-    - **USDCX**  
+- **サポートされるネットワーク:**
+  - Ethereum
+  - Japan Open Chain
+  - Arbitrum
+  - Base
+  - Avalanche
 
-### **Mint機能はどのネットワークとトークンをサポートしていますか？**  
+- **サポートされるトークン:**
+  - **USDTX**
+  - **USDCX**
 
-X-Gateでは、Ethereumネットワークで**USDT/C**をロックすることで、以下の指定ネットワークで**USDTX/USDCX**を**ミント（発行）**できます：  
+### **Mint機能がサポートするネットワークおよびトークンは何ですか？**
 
-- **サポートされているネットワーク：**  
-    - Ethereum  
-    - Japan Open Chain  
-    - Arbitrum  
-    - Base  
-    - Avalanche  
-- **サポートされているトークン：**  
-    - **USDT → 他のネットワークでUSDTXをミント**  
-    - **USDC → 他のネットワークでUSDCXをミント**  
+X-Gateを使用すると、Ethereumネットワークで**USDT/C**をロックして、指定されたネットワークで**USDTX / USDCXをMint（発行）**することができます：
 
-### **Burn機能はどのネットワークとトークンをサポートしていますか？**  
+- **サポートされるネットワーク:**
+  - Ethereum
+  - Japan Open Chain
+  - Arbitrum
+  - Base
+  - Avalanche
 
-X-Gateでは、以下の指定ネットワークで**USDTX/USDCX**を**バーン（破壊）**し、Ethereumネットワークで**USDT/USDC**を受け取ることができます：  
+- **サポートされるトークン:**
+  - **USDT → 別のネットワークでUSDTXをMint**
+  - **USDC → 別のネットワークでUSDCXをMint**
 
-- **サポートされているネットワーク：**  
-    - Ethereum  
-    - Japan Open Chain  
-    - Arbitrum  
-    - Base  
-    - Avalanche  
-- **サポートされているトークン：**  
-    - **USDTX → 他のネットワークでUSDTを受け取る**  
-    - **USDCX → 他のネットワークでUSDCを受け取る**  
+### **Burn機能がサポートするネットワークおよびトークンは何ですか？**
 
-### **ガス料金とは何ですか？**  
+X-Gateでは、指定されたネットワークで**USDTX / USDCXをBurn（焼却）**して、Ethereumネットワークで**USDT / USDC**を受け取ることができます：
 
-**ガス料金**とは、トランザクションの実行時に支払う手数料であり、計算資源の消費に対する補償です。  
+- **サポートされるネットワーク:**
+  - Ethereum
+  - Japan Open Chain
+  - Arbitrum
+  - Base
+  - Avalanche
 
-ガス料金は、トランザクションの種類やネットワークの混雑状況によって変動します。  
+- **サポートされるトークン:**
+  - **USDTX → 別のネットワークでUSDTを受け取る**
+  - **USDCX → 別のネットワークでUSDCを受け取る**
 
-### **トランザクションがウォレットに反映されていません。**  
+### **ガス料金とは何ですか？**
 
-トランザクションステータスが**"Pending"**の場合、ネットワークが混雑している可能性があります。  
-**Etherscan**でトランザクションステータスを確認するか、**MetaMask**ウォレットを更新して確認してください。
+**ガス料金**は、ブロックチェーン上で取引を実行するために発生するコストで、計算リソースの使用に対する補償を提供します。この料金は取引の種類とネットワークの混雑度により変動します。
+
+### **トランザクションがウォレットに反映されません。**
+
+トランザクションのステータスが**"Pending"（保留中）**と表示されている場合、ネットワークが混雑している可能性があります。**Etherscan**でトランザクションステータスを確認するか、**MetaMask**ウォレットをリフレッシュして確認してください。
