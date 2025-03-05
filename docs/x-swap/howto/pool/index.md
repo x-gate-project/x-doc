@@ -3,50 +3,33 @@ sidebar_label: Pool
 sidebar_position: 2
 ---
 
-# Pool  
+# Pool
 
-**A pool (liquidity pool) is a mechanism that provides the liquidity (token supply) necessary for cryptocurrency trading.**  
+### **流動性の提供**
 
-In DEXs (decentralized exchanges) like X-Swap, users can **earn transaction fees by depositing cryptocurrency into liquidity pools**.  
+1. 「Add Liquidity」を選択します。
+    
+    ![image.png](/img/docs/swap_7.png)
+    
+2. 流動性を提供するトークンペアをプルダウンメニューから選択します。
+    
+    ![image.png](/img/docs/swap_8.png)
+    
+3. 任意の片方のトークンに提供する数量を入力します。トークンペアの価格比率は1対1で提供する必要があるため、片方のトークンに数量を入力すると、レートに基づいて、もう片方のトークンに必要な数量が自動的に表示されます。
+    
+    ![image.png](/img/docs/swap_9.png)
+    
+4. 「Supply」をクリックして、流動性提供の取引をウォレットで承認します。
+5. 取引がブロックチェーン上で処理完了されましたら、流動性プールに反映されます。
 
+### **流動性の引き出し**
 
-## **① Connect Your Wallet**  
-
-1. Click **"Connect Wallet"**.  
-2. Select and connect **MetaMask** or another supported wallet.  
-3. Ensure you are connected to the correct network, such as **Ethereum Mainnet or BSC**.  
-
-
-## **② Add Liquidity**  
-
-1. Open the **"Pool"** tab.  
-2. Select **"Add Liquidity"**.  
-3. Choose the **token pair** you want to provide liquidity for.  
-   - **Example:** USDT / ETH  
-   - The pair must be provided in a **1:1 ratio**.  
-   - **Example:** Enter **100 USDT** and the equivalent amount of ETH.  
-4. Enter the amount and check the **pool share (LP token ratio)**.  
-5. Click **"Approve"** to allow token usage in your wallet.  
-6. Click **"Supply"** to approve the transaction.  
-7. Confirm the **gas fee** and finalize the transaction.  
-
-
-## **③ Check Earned Rewards**  
-
-- Each time a swap occurs, liquidity providers receive a **portion of the transaction fee (e.g., 0.3%)**.  
-- Rewards accumulate based on the duration of liquidity provision.  
-- **LP tokens** are required when withdrawing liquidity.  
-
-
-## **④ Remove Liquidity**  
-
-1. Open the **"Pool"** tab.  
-2. Select your **liquidity pair**.  
-3. Click **"Remove"**.  
-4. Choose the withdrawal percentage (**e.g., 100% for full withdrawal**).  
-5. Approve the transaction in your wallet.  
-6. Your original tokens (**USDT & ETH**) plus earned rewards will be returned to your wallet.  
-
-**Note:**  
-- The amount of tokens withdrawn may vary due to **impermanent loss**.  
-- Holding liquidity for a longer period can **increase fee rewards**.  
+1. 「Pool」画面から提供している流動性ペアの「Manage」を選択し、「Remove」をクリックします。
+    
+    ![image.png](/img/docs/swap_10.png)
+    
+2. 引き出す割合を選択し、「Approve」、「Remove」の順でボタンをクリックし、ウォレットで承認をします。
+    
+    ![image.png](/img/docs/swap_11.png)
+    
+3. 選択された割合数量のトークンペアが解除され、元々のトークン（上記スクリーンショットの例ではJOCとUSDTX）がウォレットに戻ります。

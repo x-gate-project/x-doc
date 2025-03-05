@@ -3,42 +3,25 @@ sidebar_label: Swap
 sidebar_position: 1
 ---
 
-# Swap  
+# Swap
 
-**Swap refers to exchanging one cryptocurrency for another.**  
-
-Unlike centralized exchanges (CEX), **decentralized exchanges (DEX)** like X-Swap do not use an order book. Instead, they **utilize liquidity pools** to facilitate token swaps.  
-
-
-## **① Connect Your Wallet (MetaMask, etc.)**  
-
-1. Click **"Connect Wallet"**.  
-2. Select **MetaMask** (or another supported wallet) and connect.  
-3. Ensure you are connected to the correct network.  
-
-
-## **② Select Tokens for Swap**  
-
-1. On the swap screen, choose the tokens you want to exchange.  
-   - **Example: Swapping USDT for ETH**  
-   - Select **USDT** in the "From" field.  
-   - Select **ETH** in the "To" field.  
-   - Enter the amount of USDT you want to swap (e.g., **100 USDT**, which will display the equivalent ETH based on the current rate).  
-2. Check the **price, gas fee (transaction fee), and slippage tolerance**.  
-3. Confirm the **minimum amount you will receive** (varies based on market liquidity).  
-
-
-## **③ Execute the Swap**  
-
-1. Click the **"Swap"** button.  
-2. Your wallet (e.g., MetaMask) will prompt you for confirmation.  
-3. Review the **gas fee** and confirm the transaction.  
-4. Wait for the transaction to be processed on the blockchain (**this may take a few seconds to a few minutes**).  
-
-
-## **④ Verify Your Transaction**  
-
-1. After the swap is complete, check if **ETH is reflected in your wallet**.  
-2. Verify the transaction on **Etherscan** ([https://etherscan.io/](https://etherscan.io/)).  
-3. Copy the **Transaction ID (Tx Hash)** from **MetaMask's transaction history** or Uniswap’s **transaction records**.  
-4. Search the Tx Hash on **Etherscan** to confirm whether the transaction was successful.  
+1. 接続しているウォレットのネットワーク設定から交換する銘柄のネットワークを選択します。
+   例：MetaMask
+    
+    ![image.png](/img/docs/swap_3.png)
+    
+2. 交換する銘柄をFrom、Toのプルダウンメニューからそれぞれ選択します。
+    
+    ![image.png](/img/docs/swap_4.png)
+    
+3. 交換する数量を入力します。数量を入力すると、交換先銘柄の受け取れる数量の予測値および交換レートが自動的に表示されます。
+    
+    ![image.png](/img/docs/swap_5.png)
+    
+4. 「Swap」ボタンをクリックします。クリックすると、最終確認のポップアップが表示されます。表示されている内容に問題がなければ、「Confirm Swap」ボタンをクリックします。
+    
+    ![image.png](/img/docs/swap_6.png)
+    
+5. ウォレット（MetaMaskなど）がポップアップ表示されます。手数料など表示内容を確認し、取引を承認します。
+6. 取引がブロックチェーン上で処理完了されましたら、ウォレットに反映されます。
+ブロックチェーンの混雑状況により、処理完了まで数秒～数十分かかる場合があります。

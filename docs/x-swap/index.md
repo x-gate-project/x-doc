@@ -3,8 +3,14 @@ sidebar_label: X-Swapについて
 sidebar_position: 1
 ---
 
-# What is X-Swap?
+# X-Swapについて
 
-**X-Swap** is a feature that allows **swapping (exchanging) stablecoins (USDTX, USDCX) across different networks**.
+X-Swapとは、Ethereum、Japan Open Chainなどの複数のネットワークに対応しているDEX (分散型取引所) です。中央管理者が存在せず、ユーザーは自分のウォレットを使い、スマートコントラクトを通じて異なる暗号資産間の交換（Swap）、またはトークンペアの流動性提供（Pool）を行うことができます。
 
-This enables users to secure liquidity across networks and manage their assets more freely.
+**異なる暗号資産間の交換（Swap）**
+
+Swapとは、一つの暗号資産を別の暗号資産に交換することです。X-Swapでは、スマートコントラクトを利用してトークン同士をかんたんに直接交換することができます。
+
+**流動性提供（Pool）**
+
+Poolとは、Swapに必要な流動性（トークンの供給）を提供するための資金の貯蔵庫です。ユーザは流動性提供者としてPoolに暗号資産を預けることで、取引手数料を報酬として獲得できます。

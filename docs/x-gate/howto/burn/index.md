@@ -1,46 +1,20 @@
 ---
 sidebar_label: Burn
-sidebar_position: 3
+sidebar_position: 4
 ---
 
-# How to use Burn (Token Burn)?
+# Burn
 
-### **① Connect Your Wallet (e.g., MetaMask)**
+## Burn（USDT / USDCへの交換）の利用方法
 
-1. Click on "Connect wallet".
+1. 「Burn」画面にて、 交換元の銘柄とネットワークを「Burn」のプルダウンメニューから選択します。
     
-    ![Burn_1.png](/img/docs/Burn_1.png)
-
-    ![Burn_2.png](/img/docs/Burn_2.png)
-        
-2. Select MetaMask (or another supported wallet) and connect it.
-3. Ensure you are connected to the correct network.
-
-### **② Set Up the Token for Burn**
-
-1. On the Burn screen, select the token you want to burn.  
-   **(Example) For "USDTX(ETH) → USDTX(JOC)"**  
-   - Select **USDTX** for "From" (the token to burn).  
-   - Select **ETH** for "To" (the token to receive).  
-   - Enter the amount of **USDTX** you want to burn. (For example, entering "100 USDTX" will show the corresponding amount of ETH based on the exchange rate.)
+    ![Burn_3.png](/img/docs/Burn_1.png)
     
-    ![Burn_3.png](/img/docs/Burn_3.png)
+2. 発行したい数量を「Burn」の数量入力欄に入力します。入力すると、「Out」の数量表示欄に、入力したのと同じ数値の内容が表示されます。
     
-    ![Burn_4.png](/img/docs/Burn_4.png)
+    ![image.png](/img/docs/Burn_2.png)
     
-2. Check the price, gas fees (transaction fees), and slippage.  
-3. Review the "minimum amount received" (which can vary based on market liquidity).
-
-### **③ Execute Burn**
-
-1. Click the "Burn" button.  
-2. A pop-up will appear in your wallet (e.g., MetaMask).  
-3. Review the gas fee and confirm the transaction.  
-4. Wait for the transaction to be processed on the blockchain (which may take a few seconds to minutes).
-
-### **④ Verify the Transaction**
-
-1. After completion, check if the ETH has been reflected in your wallet.  
-2. Check the transaction on Etherscan ([https://etherscan.io/](https://etherscan.io/)).  
-3. Copy the transaction ID (Tx Hash) from MetaMask's transaction history or Uniswap's "Transaction History".  
-4. Search the Tx Hash on Etherscan to verify the transaction was successful.
+3. 「Burn」ボタンをクリックします。クリック後、ウォレットのポップアップ表示されるので、手数料など表示内容を確認し、取引を承認します。
+4. 取引がブロックチェーン上で処理完了されましたら、ウォレットに反映されます。
+ブロックチェーンの混雑状況により、処理完了まで数秒～数十分かかる場合があります。

@@ -3,8 +3,12 @@ sidebar_position: 1
 slug: /
 ---
 
-# About the X-Gate Project
+# X-Gateプロジェクトについて
 
-The **X-Gate Project** is a system that allows **bridging (transferring)** and **swapping (exchanging)** stablecoins (**USDTX, USDCX**) between different networks.
+本プロジェクトは、X-GateおよびX-Swapという2つのDeFiサービスを通じて、USDTX、USDCXという2つのステーブルコインの発行、複数ネットワーク間の転送、およびほかの暗号資産への交換が実現できるプラットフォームを提供しています。
 
-This guide provides a clear explanation of how to use each function and answers frequently asked questions.
+**USDTX / USDCXとは**
+
+USDTX / USDCXは、Ethereumネットワーク上の米ドルに連動したステーブルコインであるUSDT / USDCをロックすることで発行される、USDT / USDCと1対1でペッグされた複数ネットワーク間で転送可能なステーブルコインです。
+
+USDTX / USDCXは、本プロジェクトを通じて他のネットワークへ送金したり、USDT / USDCを含めたほかの暗号資産に交換したりすることが可能です。
