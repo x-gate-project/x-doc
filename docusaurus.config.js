@@ -32,64 +32,69 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-  'defaultLocale': 'en',
-  'locales': [
-    'en',
-    'de',
-    'es',
-    'fr',
-    'ru',
-    'zh',
-    'ja',
-    'ko',
-    'hi',
-    'ar'
-  ],
-  'localeConfigs': {
-    'en': {
-      'label': 'English',
-      'direction': 'ltr'
-    },
-    'de': {
-      'label': 'Deutsch',
-      'direction': 'ltr'
-    },
-    'es': {
-      'label': 'español',
-      'direction': 'ltr'
-    },
-    'fr': {
-      'label': 'français',
-      'direction': 'ltr'
-    },
-    'ru': {
-      'label': 'Русский',
-      'direction': 'ltr'
-    },
-    'zh': {
-      'label': '中文',
-      'direction': 'ltr'
-    },
-    'ja': {
-      'label': '日本語',
-      'direction': 'ltr'
-    },
-    'ko': {
-      'label': '한국어',
-      'direction': 'ltr'
-    },
-    'hi': {
-      'label': 'हिन्दी',
-      'direction': 'ltr'
-    },
-    'ar': {
-      'label': 'العربية',
-      'direction': 'rtl'
+    'defaultLocale': 'en',
+    'locales': [
+      'en',
+      'de',
+      'es',
+      'fr',
+      'ru',
+      'zh',
+      'ja',
+      'ko',
+      'hi',
+      'ar'
+    ],
+    'localeConfigs': {
+      'en': {
+        'label': 'English',
+        'direction': 'ltr'
+      },
+      'de': {
+        'label': 'Deutsch',
+        'direction': 'ltr'
+      },
+      'es': {
+        'label': 'español',
+        'direction': 'ltr'
+      },
+      'fr': {
+        'label': 'français',
+        'direction': 'ltr'
+      },
+      'ru': {
+        'label': 'Русский',
+        'direction': 'ltr'
+      },
+      'zh': {
+        'label': '中文',
+        'direction': 'ltr'
+      },
+      'ja': {
+        'label': '日本語',
+        'direction': 'ltr'
+      },
+      'ko': {
+        'label': '한국어',
+        'direction': 'ltr'
+      },
+      'hi': {
+        'label': 'हिन्दी',
+        'direction': 'ltr'
+      },
+      'ar': {
+        'label': 'العربية',
+        'direction': 'rtl'
+      }
     }
-  }
-},
+  },
 
-presets: [
+  // Add this clientModules configuration
+  clientModules: [
+    require.resolve('./src/clientModules/browserLanguageDetection.js'),
+  ],
+
+  presets: [
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
