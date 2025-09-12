@@ -48,3 +48,14 @@ A: 현재는 Ethereum 네트워크 상의 USDT 또는 USDC만 지원합니다. �
 ### **Q: Burn 기능을 사용해 Ethereum 네트워크 이외의 네트워크의 USDT 또는 USDC로 교환할 수 있나요?**
 
 A: 현재 X-Gate는 Ethereum 네트워크의 USDT 또는 USDC로의 교환만 지원합니다.
+
+### **Q: 월렛에 USDT를 추가하는 방법은?**
+
+A: 다음 단계를 따라 추가할 수 있습니다:
+- 사용 중인 월렛의 네트워크를 Ethereum 네트워크로 전환
+- 커스텀 토큰 추가
+(월렛의 토큰 추가 기능에서 "Tether USD (USDT)"를 검색하거나, 검색되지 않는 경우 아래 컨트랙트 주소를 직접 입력)
+
+*Ethereum 네트워크의 USDT 컨트랙트 주소
+
+0xdAC17F958D2ee523a2206206994597C13D831ec7

@@ -48,3 +48,14 @@ R: Actualmente, solo están admitidos USDT o USDC en la red de Ethereum. No obst
 ### **P: ¿Puedo usar la función Burn para cambiar USDT o USDC en una red distinta a Ethereum?**
 
 R: Actualmente, X-Gate solo admite el cambio a USDT o USDC en la red de Ethereum.
+
+### **P: ¿Cómo agrego USDT a mi wallet?**
+
+R: Puede agregar USDT siguiendo estos pasos:
+- Cambie la red de su wallet a la red Ethereum
+- Agregue un token personalizado
+(Busque "Tether USD (USDT)" en la función de agregar tokens de su wallet, o si no puede encontrarlo, ingrese directamente la dirección del contrato a continuación)
+
+*Dirección del contrato USDT en la red Ethereum
+
+0xdAC17F958D2ee523a2206206994597C13D831ec7

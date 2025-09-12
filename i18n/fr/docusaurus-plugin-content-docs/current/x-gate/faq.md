@@ -48,3 +48,14 @@ R : Actuellement, seuls les USDT ou USDC sur le réseau Ethereum sont pris en ch
 ### **Q : Puis-je utiliser la fonction Burn pour échanger contre des USDT ou USDC sur un réseau autre que Ethereum ?**
 
 R : Actuellement, X-Gate ne prend en charge que l'échange vers des USDT ou USDC sur le réseau Ethereum.
+
+### **Q : Comment ajouter l'USDT à mon portefeuille ?**
+
+R : Vous pouvez ajouter l'USDT en suivant ces étapes :
+- Basculez le réseau de votre portefeuille vers le réseau Ethereum
+- Ajoutez un jeton personnalisé
+(Recherchez "Tether USD (USDT)" dans la fonction d'ajout de jetons de votre portefeuille, ou si vous ne pouvez pas le trouver, saisissez directement l'adresse du contrat ci-dessous)
+
+*Adresse du contrat USDT sur le réseau Ethereum
+
+0xdAC17F958D2ee523a2206206994597C13D831ec7

@@ -48,3 +48,14 @@ sidebar_position: 2
 ### **问：可以使用 Burn 功能将 USDT 或 USDC 兑换到 Ethereum 以外的网络吗？**
 
 答：目前，X-Gate 仅支持兑换到 Ethereum 网络上的 USDT 或 USDC。
+
+### **问：如何向钱包添加 USDT？**
+
+答：您可以按照以下步骤添加 USDT：
+- 将您的钱包网络切换到 Ethereum 网络
+- 添加自定义代币
+（在钱包的代币添加功能中搜索"Tether USD (USDT)"，如果找不到，请直接输入下面的合约地址）
+
+*Ethereum 网络上的 USDT 合约地址
+
+0xdAC17F958D2ee523a2206206994597C13D831ec7

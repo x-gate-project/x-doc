@@ -48,3 +48,14 @@ A: Currently, only USDT or USDC on the Ethereum network is supported. However, y
 ### **Q: Can I use the Burn function to exchange to USDT or USDC on networks other than Ethereum?**
 
 A: Currently, X-Gate only supports exchanges to USDT or USDC on the Ethereum network.
+
+### **Q: How do I add USDT to my wallet?**
+
+A: You can add USDT by following these steps:
+- Switch your wallet's network to the Ethereum network
+- Add a custom token
+(Search for "Tether USD (USDT)" in your wallet's token addition feature, or if you cannot find it, directly enter the contract address below)
+
+*USDT contract address on Ethereum network
+
+0xdAC17F958D2ee523a2206206994597C13D831ec7
