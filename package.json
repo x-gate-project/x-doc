@@ -2,6 +2,7 @@
   "name": "x-doc",
   "version": "1.0.0",
   "private": true,
+  "description": "X-Doc",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
