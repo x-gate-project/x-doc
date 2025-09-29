@@ -45,10 +45,10 @@
   flex: 1;
   justify-content: center;
 }
-.navbar__logo {
+/* .navbar__logo {
   width: 100%;
   max-width: 280px;
-}
+} */
 .dropdown > .navbar__link {
   position: relative;
   display: inline-block;
